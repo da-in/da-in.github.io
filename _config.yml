@@ -28,7 +28,7 @@ instagram_username: dain.py
 github_username: da-in
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
