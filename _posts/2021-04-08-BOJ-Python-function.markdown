@@ -14,5 +14,12 @@ categories: Algorithm
 ---
 <br/>
 
-+ ord()  
++ **ord(**parameter**)**  
 입력한 문자에 해당하는 아스키 코드(ASCII Code)를 반환한다.
+
++ **chr(**parameter**)**
+입력한 아스키 코드(ASCII Code)에 해당하는 문자를 반환한다.
+
++ target.**index(**parameter**)**  
+target(문자열, 리스트, 튜플)에서 입력한 parameter가 처음 위치한 자리의 값을 알 수 있다.  
+target 내에 parameter가 존재하지 않으면 `ValueError`가 발생한다.  
