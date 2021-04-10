@@ -17,9 +17,28 @@ categories: Algorithm
 + **ord(**parameter**)**  
 입력한 문자에 해당하는 아스키 코드(ASCII Code)를 반환한다.
 
-+ **chr(**parameter**)**
++ **chr(**parameter**)**  
 입력한 아스키 코드(ASCII Code)에 해당하는 문자를 반환한다.
 
 + target.**index(**parameter**)**  
 target(문자열, 리스트, 튜플)에서 입력한 parameter가 처음 위치한 자리의 값을 알 수 있다.  
 target 내에 parameter가 존재하지 않으면 `ValueError`가 발생한다.  
+
++ math.**floor(**parameter**)**  
+math 모듈의 함수이다.  
+parameter를 내림한 정수값을 반환한다.
+
++ math.**ceil(**parameter**)**  
+math 모듈의 함수이다.  
+parameter를 올림한 정수값을 반환한다.
+
++ math.**trunc(**parameter**)**  
+math 모듈의 함수이다.  
+truncate 자르다는 의미를 가지고 있으며,  
+parameter를 0에 가깝게 내림한 정수값을 반환한다.  
+{% highlight ruby %}
+import math.trunc(-3.14) = -3
+{% endhighlight %}
+
++ **round(**parameter**)**  
+parameter를 반올림한 정수값을 반환한다.
