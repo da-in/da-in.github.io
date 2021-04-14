@@ -42,3 +42,7 @@ import math.trunc(-3.14) = -3
 
 + **round(**parameter**)**  
 parameter를 반올림한 정수값을 반환한다.
+
++ target.**replace(**search_text, replace_text, count**)**  
+target에서 search_text 문자열을 찾아서 replace_text로 바꾸어준다.  
+count는 치환할 회수로 생략 가능하다.  
