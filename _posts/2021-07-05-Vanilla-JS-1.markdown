@@ -1,0 +1,77 @@
+---
+layout: post
+title: "[Nomad Coder] Vanilla JS Chrome App Clone Coding #1"
+date: 2021-07-05 21:00:00 +0900
+categories: Vanilla-JS
+---
+
+✔ Nomad Coder Vanilla JS를 수강하며 공부한 내용들을 정리한다.  
+✔ Nomad Coder Javascript for Beginners Chrome App Clone Coding 강의는 기초적인 HTML, CSS를 먼저 아는것을 권장하고 누구나 무료로 수강할 수 있다.  
+
+Goals | #Momentum #Geolocation #Random-Change-Photo #To-Do-List #ETC
+[Nomad Coder Vanilla Js Chrome App Clone Coding >][Nomad Coder]
+
+[Nomad Coder]:https://nomadcoders.co/javascript-for-beginners/lobby
+
+#### Why JS
+OMG 자바스크립트 언어가 처음 만들어지는 데에는 10일 밖에 걸리지 않았다.
+netscape 웹사이트가 더 동적이길 원해서 만들어짐
+웹 붐과 함께 정착하고 사용되게 됨.
+
+JS는 프론트엔드에서 사용될 수 있는 유일한 프로그래밍 언어.
+Web을 아우르는 유일한 언어.
+모든 브라우저에 내장되어있는 언어.
+
+What Can We Do with JavaScript
+Web Contents > React Navitive(Android, IOS) > Electron(Desktop App)
+Especially Good at 3D Stuff
+
+개발자도구 Console에서 JavaScript를 실행할 수 있다.
+But One line Only
+
+#### First JS Project
+기본 웹 동작 원리
+브라우저가 HTML 파일을 로드 > HTML이 CSS와 JavaScript를 로드
+<br/>
+#### Data Type
+Integer(Full Number)  
+Float  
+String  
+<br/>
+console.log(); //console에 print시 사용
+
+#### Variable
+const(constant) 값이 변하지 않는 상수
+관용젹으로 JS에서는 carmelCase를 이용하여 변수명 작성한다.  
+veryLongVariableName(JS, camelCase)  
+{% highlight javascript %}
+const veryLongVariableName = 0;
+{% endhighlight %}
+very_long_variable_name(python, snake_case)  
+{% highlight python %}
+veryLongVariableName = 0
+{% endhighlight %}
+<br/>
+let
+어디서나 업데이트 가능
+<br/>
+var(variable)
+기존 변수 선언, 어디서나 업데이트 가능, 보호할 수 없다.
+<br/>
+* let과 const는 생성자로, 변수와 상수를 처음 생성할 때에만 사용, 업데이트 시에는 붙이지 않는다.  
+* const 상수를 업데이트 하려고 하면 에러가 발생한다.  
+* always const, sometimes let, never var.
+* const를 기본으로 사용하고, 변화가 필요할 경우에만 let을 사용하자.
+* const와 let은 비교적 후에 생긴 문법이고, 기존의 변수는 var를 이용했다.  
+
+#### Boolean, Null, Undefined
+Boolean 참과 거짓을 나타내는 자료형  
+True(1) False(0)
+<br/>
+null과 false는 다르다.
+false는 거짓이라는 값이 존재하고
+null은 값 자체가 존재하지 않음  //파이썬의 None
+<br/>
+Null과 Undefined는 다르다.
+Null은 변수가 있고 값이 있는데 그 값이 비어있는것.  
+Undefined는 변수가 선언은 됐지만 값이 주어지지 않은것.
