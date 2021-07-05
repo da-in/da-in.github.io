@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Vanilla-JS
+title: VanillaJS
 ---
