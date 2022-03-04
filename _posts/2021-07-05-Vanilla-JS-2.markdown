@@ -9,6 +9,7 @@ categories: Vanilla-JS
 [Nomad Coder Vanilla Js Chrome App Clone Coding >][Nomad Coder]
 
 [Nomad Coder]:https://nomadcoders.co/javascript-for-beginners/lobby
+<br/>
 
 #### Why JS
 OMG 자바스크립트 언어가 처음 만들어지는 데에는 10일 밖에 걸리지 않았다.
@@ -25,6 +26,7 @@ Especially Good at 3D Stuff
 
 개발자도구 Console에서 JavaScript를 실행할 수 있다.
 But One line Only
+<br/>
 
 #### First JS Project
 기본 웹 동작 원리
@@ -36,6 +38,7 @@ Float
 String  
 <br/>
 console.log(); //console에 print시 사용
+<br/>
 
 #### Variable
 const(constant) 값이 변하지 않는 상수
@@ -60,6 +63,7 @@ var(variable)
 * always const, sometimes let, never var.
 * const를 기본으로 사용하고, 변화가 필요할 경우에만 let을 사용하자.
 * const와 let은 비교적 후에 생긴 문법이고, 기존의 변수는 var를 이용했다.  
+<br/>
 
 #### Boolean, Null, Undefined
 Boolean 참과 거짓을 나타내는 자료형  
@@ -72,3 +76,14 @@ null은 값 자체가 존재하지 않음  //파이썬의 None
 Null과 Undefined는 다르다.
 Null은 변수가 있고 값이 있는데 그 값이 비어있는것.  
 Undefined는 변수가 선언은 됐지만 값이 주어지지 않은것.
+<br/>
+
+#### Array
+const nonsense = [1.2."hello", false, null, true, undefined]  
+숫자, variable 등을 나열할 수 있다.  
+index number는 0부터 시작한다.  
+index 범위 밖의 값을 호출하면 undefined로 표시  
+array.push() : 배열에 추가한다.
+
+#### Comment
+// 주석은 이렇게 작성한다.
