@@ -19,7 +19,7 @@ categories: Vanilla-JS
 <br/>
 
 #### **변수 Variable**
-{% highlight python %}
+{% highlight javascript %}
 name = "Mike";
 age = 30;
 // 세미콜론을 생략가능하지만 붙이도록하자.
@@ -86,7 +86,7 @@ Tip : 처음에는 모든 변수를 const로, 그리고 값의 변화가 필요�
 <br/>
 
 #### **조건문**
-{% highlight python %}
+{% highlight javascript %}
 if( 조건1 ) {
     code;
 } else if( 조건2 ) {
@@ -100,7 +100,7 @@ if( 조건1 ) {
 #### **반복문**
 * for문
 주로 사용되는 반복문이다.
-{% highlight python %}
+{% highlight javascript %}
 for (선언; 조건; 증감){
     code;
 }
@@ -108,7 +108,7 @@ for (선언; 조건; 증감){
 <br/>
 * do-while문
 적어도 1회 코드가 실행된다는 차이가 있다.
-{% highlight python %}
+{% highlight javascript %}
 do {
     code;
 } while (
@@ -146,7 +146,7 @@ switch(평가){
 {% highlight javascript %}
 function funcName(parm1, parm2, parm3...){
     console.log(`Hello, ${변수 또는 식}`);
-    // python의 fstring과 유사한 문법을 가지고 있다.
+    // javascript의 fstring과 유사한 문법을 가지고 있다.
 }
 {% endhighlight %}
 <br/>
