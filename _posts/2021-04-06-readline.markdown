@@ -31,7 +31,7 @@ num = int(sys.stdin.readline().rstrip())
 <br/>
 
 <figure>
-  <img src='../assets/img/readline.JPG' alt='readline'>
+  <img src='/assets/img/readline.JPG' alt='readline'>
   <figcaption style="text-align: center;">input() 과 readline()을 사용했을 때 실행 시간의 차이</figcaption>
 </figure>
 
