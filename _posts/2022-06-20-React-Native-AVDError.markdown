@@ -5,7 +5,7 @@ date: 2022-06-20 18:11:00 +0900
 categories: React-Native
 ---
 
-## error Failed to launch emulator. Reason: No emulators found as an output of `emulator -list-avds`.
+## error Failed to launch emulator. Reason: No emulators found as an output of 'emulator -list-avds'.
 
 그래 시작은 이 에러였지.  
 이때는 이렇게 긴 여정이 될 줄 몰랐다.
@@ -51,7 +51,7 @@ adb devices
 저 경우에는 CLI에서 adb를 사용하기 위해 adb 환경변수 설정이 필요하다.
 
 <figure>
-  <img width=250 src='/assets/img/path.png' alt='readline'>
+  <img width=250 src='/assets/img/path.PNG' alt='readline'>
   <figcaption style="text-align: center;">환경 변수 설정</figcaption>
 </figure>
 
