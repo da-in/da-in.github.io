@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[React-Native] React Native Reanimated Error'
-date: 2022-07.06 13:54:00 +0900
+date: 2022-06-30 17:19:00 +0900
 categories: React-Native
 ---
 
