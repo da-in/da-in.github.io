@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[React-Native] Firebase 앱 추가 디버그 서명 인증서 SHA-1 (+ 잘못된 옵션 : .language=en)
+title: '[React-Native] Firebase 앱 추가 디버그 서명 인증서 SHA-1 (+ 잘못된 옵션 : .language=en)'
 date: 2022-07.06 13:54:00 +0900
 categories: React-Native
 ---
