@@ -65,18 +65,22 @@ service firebase.storage {
 }
 ```
 
-read, write 권한이 false로 되어있어서 오류가 났다.  
-true로 바꾸어주면 업로드가 잘 된다!
+read, write 권한이 `false`로 되어있어서 오류가 났다.
 
 ```
 rules_version = '2';
 service firebase.storage {
   match /b/{bucket}/o {
     match /{allPaths=**} {
-      allow read, write: if true;
+      allow read, write;
     }
   }
 }
 ```
+
+위와 같이 `allow read, write` 라고 작성하면 읽기 쓰기 권한 모두 `true`로 허용된다.
+설정을 마치고 적용되기를 잠시 기다리면 잘 작동한다!
+
+<br/>
 
 모닝에러 클리어👍
