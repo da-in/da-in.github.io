@@ -16,13 +16,13 @@ categories: React-Native
 <br/>
 
 Firebase Storage를 사용해서 처음 이미지를 업로드 하려는데!  
-다음과 같은 에러를 마주쳤다.  
+경고와 함께 무한 로딩이 떴다.  
 `WARN : Possible Unhandled Promise Rejection`
 
 <br/>
 
-봐도 무슨 에러인지 모르겠던 나는 정상이다.  
-이미지 업로드를 하는 부분에서 에러를 처리해주지 않아서 무슨 에러인지 안나오는거다.
+봐도 무슨 경고인지 모르겠던 나는 아마도 정상.
+이미지 업로드를 하는 부분에서 에러를 처리해주지 않아서 뭐가 문제인지 에러가 안나오는거다.
 
 memo... async await로 비동기처리를 한 함수들은 꼭 에러처리도 잘 해주자...✏️
 
@@ -84,3 +84,23 @@ service firebase.storage {
 <br/>
 
 모닝에러 클리어👍
+
+<br/>
+
+...
+
+<br/>
+
+그리고... 10분 뒤... 여전히 `WARN : Possible Unhandled Promise Rejection` 에서 넘어가지를 않는 것이다.
+
+<br/>
+
+콘솔 값을 찍어가며 어디서 멈추는지 살펴보니,  
+`usersCollection.doc(id).set({id, displayName, photoURL});`  
+를 통해 users 컬렉션에 문서를 등록하는 과정에서 멈춘것을 확인했다.
+
+그래서 인자 값을 살펴보니 `displayName`이 `undefined` 였다.
+
+앞에서 닉네임 입력받는 UI와 기능 다 구현해놓고는, 테스트 할 때 닉네임 없이 사진만 제출해서 그랬던 것이었다.
+
+헿😆
