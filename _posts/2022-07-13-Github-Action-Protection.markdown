@@ -40,7 +40,7 @@ Git Action은 시간 제한이 있다. 무료 플랜에서는 월 2000분까지 
 를 참고하자.
 
 <figure>
-  <img width=250 src='/assets/img/Action.png' alt='action'>
+  <img width=500 src='../assets/img/Action.png' alt='action'>
   <figcaption style="text-align: center;">출처 | Github Docs > Github Actions</figcaption>
 </figure>
 
