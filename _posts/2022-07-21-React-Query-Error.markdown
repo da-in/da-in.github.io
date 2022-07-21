@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '[Github] Git Action & Git Branch Protection Rule 을 통한 협업 코드 관리!'
+title: "[TypeScript] Could not find a declaration file for module 'react-query'"
 date: 2022-07-21 17:30:00 +0900
-categories: Github
+categories: Typescript
 ---
 
 ## 🚨Could not find a declaration file for module 'react-query'
