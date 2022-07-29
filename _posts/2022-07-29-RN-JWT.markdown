@@ -1,0 +1,24 @@
+---
+layout: post
+title: "[Axios] Header의 Data에 접근"
+date: 2022-07-27 22:05:00 +0900
+categories: React-Native
+---
+
+## 😱JWT AccessToken & RefreshToken 을 이용한 인증
+살려주세요.
+
+<br/>
+
+## 1. Access Token과 Refresh Token, 만료시간? 을 Local Storage에 저장
+만료 시간을 미리 추출해서 저장하는지, 검사 할 때 마다 복호화하는지는 Youtube 참고해서 확인하기.
+이것까지는 해결했고
+
+## 2. middle ware를 사용해서 매 요청 전 토큰 만료가 임박 혹은 만료되었는지 체크
+
+## 3. 위 경우 Refresh 및 LocalStorage 업데이트
+refresh 하기
+
+
+참고 유튜브
+https://www.youtube.com/watch?v=nI8PYZNFtac
