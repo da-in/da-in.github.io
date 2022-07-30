@@ -8,6 +8,9 @@ categories: React-Native
 ## 😱JWT AccessToken & RefreshToken 을 이용한 인증
 살려주세요.
 
+가능한 방법 1 요청을 보냈을 때 만료되었으면 refresh 후 재요청
+가능한 방법 2 요청을 보내기 전 토큰의 만료 여부 체크
+
 <br/>
 
 ## 1. Access Token과 Refresh Token, 만료시간? 을 Local Storage에 저장
@@ -15,6 +18,8 @@ categories: React-Native
 이것까지는 해결했고
 
 ## 2. middle ware를 사용해서 매 요청 전 토큰 만료가 임박 혹은 만료되었는지 체크
+redux middle ware를 사용하면? 아 지금 API 상태관리를 React-Query를 쓰고 있구나
+axios interceptor를 사용해서 매 요청 전 체크를 하면?!
 
 ## 3. 위 경우 Refresh 및 LocalStorage 업데이트
 refresh 하기
