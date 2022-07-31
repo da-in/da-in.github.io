@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Axios] Header의 Data에 접근"
+title: "[React-Native] JWT 를 이용한 회원 인증"
 date: 2022-07-27 22:05:00 +0900
 categories: React-Native
 ---
