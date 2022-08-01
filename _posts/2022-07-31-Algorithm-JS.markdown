@@ -50,3 +50,5 @@ process.stdin.on('data', (data) => {
     console.log(a);
     console.log(b);
 ```
+
+추가 작성
