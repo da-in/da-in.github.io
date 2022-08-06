@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: da-in # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 🔥dain dev page # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -32,10 +32,13 @@ description: >- # used by seo meta and the atom feed
 url: "https://da-in.github.io/"
 
 github:
-  username: github_username # change to your github username
+  username: da-in # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
+
+instagram:
+  username: dain.py # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,8 +48,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/da-in # change to your github homepage
     # Uncomment below to add more social links
+    - https://www.instagram.com/dain.py
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
