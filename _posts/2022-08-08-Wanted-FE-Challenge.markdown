@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Etc] 원티드 프리온보딩 프론트엔드 챌린지 8월 [CRUD w React-Query]"
-date: 2022-08-06 17:16:00 +0900
+date: 2022-08-08 21:41:00 +0900
 categories: Etc
 ---
 
@@ -21,9 +21,9 @@ Wanted Dev Crew 모집 소식부터 Wanted에서 개발자 관련한 여러 프�
 
 <br/>
 
-열심히 참여해야지!🙂  
+열심히 참여해야지!🙂
 
-_(일단 사전 과제 먼저...)_'  
+_(일단 사전 과제 먼저...)_'
 
 📢사전 과제 [안내 페이지](https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api)  
-📄사전 과제 [내 제출물](https://github.com/da-in/wanted-pre-onboarding-challenge-fe-1)  
+📄사전 과제 [내 제출물](https://github.com/da-in/wanted-pre-onboarding-challenge-fe-1)
