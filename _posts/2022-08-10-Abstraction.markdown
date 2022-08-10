@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Etc] 원티드 프리온보딩 프론트엔드 챌린지 1차"
+title: "[Etc] 추상화(Abstraction)"
 date: 2022-08-10 21:04:00 +0900
 categories: Etc
 ---
