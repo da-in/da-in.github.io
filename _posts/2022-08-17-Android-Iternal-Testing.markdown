@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[React-Native] Android Iternal Testing"
-date: 2022-08-16 14:53:00 +0900
+date: 2022-08-17 14:53:00 +0900
 categories: React-Native
 ---
 
