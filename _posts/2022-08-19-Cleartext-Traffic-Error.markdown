@@ -7,9 +7,7 @@ categories: react-native
 
 ## Release Bundle Axios Network Error
 
-React Native App을 야심차게 빌드하고 구글 플레이콘솔 내부 테스트 앱으로 릴리즈 하여 안드로이드 디바이스에서 실행을 했는데...!
-
-세상에 모든 요청이 작동하지 않는 것이다...😱
+React Native App을 야심차게 빌드하고 구글 플레이콘솔 내부 테스트 앱으로 릴리즈 하여 안드로이드 디바이스에서 실행을 했는데...! 세상에 모든 요청이 작동하지 않는 것이다...😱
 Axios Network Error 라고만 뜨고...🥲
 
 검색을 열심히 하니, 백엔드 서버가 Http 를 사용할 경우 Android에서 문제가 발생한다고 한다.
@@ -27,8 +25,6 @@ Axios Network Error 라고만 뜨고...🥲
 <br/>
 
 아 잠시만요. 해결됐다고 그냥 지나치지 마시고 이해하고 넘어갑시다. 🔥🔥🔥
-
-<br/>
 
 ## Cleartext
 
@@ -66,6 +62,8 @@ Http를 포함한 Cleartext Traffic은 보안상 취약하기 때문에 iOS에�
 <br/>
 
 ## Reference
+
+😊 https://reactnative.dev/docs/next/network
 
 🙂 https://simplicable.com/new/plaintext-vs-cleartext#:~:text=Plaintext%20is%20unencrypted%20data%20that,t%20meant%20to%20be%20encrypted
 
