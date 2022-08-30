@@ -1,0 +1,30 @@
+---
+layout: post
+title: "[React-Native] Axios Put 400 Error"
+date: 2022-08-30 10:21:00 +0900
+categories: react-native
+---
+
+## Axios Put 400 Error
+
+Axios를 이용한 Put 요청에서 400에러가 떴다.
+Body에 key 없이 그냥 String을 담아서 보내는 형태의 API였는데,
+요청의 config를 보면 data에 string이 잘 담겨있는데도 400이 떴다.
+
+API 문제인가 싶어 PostMan으로 요청을 보내보니 너무나도 잘 보내지는것.
+
+결론적으로
+Header에 Content Type이 "application/x-www-form-urlencoded" 이었다.
+Header의 Content Type을 JSON 혹은 TEXT로 바꾸어주니 잘 작동하였다.
+
+```
+export async function updateNickname(params: string){
+  const response = await client.put(`user/update`, params, {
+    headers: {'Content-Type':'application/json'},
+    // headers: {'Content-Type':'text/plain'},
+  });
+  return response;
+}
+```
+
+원리 추가 정리🔥
