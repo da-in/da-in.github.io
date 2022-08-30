@@ -57,7 +57,7 @@ Mozilla Developer Network(MDN)에는 웹표준과 모질라 프로젝트에 관�
 
 Header의 Content-Type을 text/plain 으로 바꾸어주니 정상작동하였다. 🙂
 
-```javascript
+```typescript
 export async function updateNickname(params: string) {
   const response = await client.put(`user/update`, params, {
     headers: { "Content-Type": "text/plain" },
