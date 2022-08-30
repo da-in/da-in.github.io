@@ -13,6 +13,10 @@ Body에 key 없이 그냥 String을 담아서 보내는 형태의 API였는데,
 
 API 문제인가 싶어 PostMan으로 요청을 보내보니 너무나도 잘 보내지는것.
 
+<Image src="./assets/img/post/axios400.png"/>
+
+_JSON Parser로 확인한 config_
+
 결론적으로
 Header에 Content Type이 "application/x-www-form-urlencoded" 이었다.
 Header의 Content Type을 JSON 혹은 TEXT로 바꾸어주니 잘 작동하였다.
