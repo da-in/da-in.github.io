@@ -1,5 +1,6 @@
 ---
 layout: post
+author: dain
 title: "[React-Native] Axios Put 400 Error"
 date: 2022-08-30 10:21:00 +0900
 categories: react-native
@@ -18,8 +19,9 @@ export async function updateNickname(params: string){
 
 그런데 다음과 같이 400 Error를 반환했다.
 
-> [AxiosError: Request failed with status code 400]
-> {: .prompt-danger }
+<!-- prettier-ignore -->
+> [AxiosError: Request failed with status code 400]  
+{: .prompt-danger }
 
 body에 key-vlaue 형태가 아닌 String을 담아서 보내는 형태의 API였다.
 body에 값이 잘 안담겼나 Config를 확인해보았는데, data에 String이 잘 담겨있었다.
