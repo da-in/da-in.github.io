@@ -3,7 +3,7 @@ layout: post
 author: dain
 title: "[Side Project] 포트폴리오 직접 만들기! (ing)"
 date: 2022-09-21 16:09:00 +0900
-categories: react-native
+categories: project
 pin: true
 ---
 
