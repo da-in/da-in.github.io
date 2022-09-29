@@ -3,7 +3,7 @@ layout: post
 author: dain
 title: "[Portfolio] 1일차, 포트폴리오 기획 🎨"
 date: 2022-09-28 10:00:00 +0900
-categories: project
+categories: [Project, Portfolio]
 pin: false
 ---
 
