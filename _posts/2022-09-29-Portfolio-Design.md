@@ -7,7 +7,7 @@ categories: project
 pin: false
 ---
 
-# 2일차, 포트폴리오 디자인 🙂
+## 2일차, 포트폴리오 디자인 🙂
 
 두구두구. 사실상 포트폴리오를 직접 만드는 과정에서 디자인이 제일 중요하다고 본다.
 디자인이 깔끔하게 나오지 않는다면, 노션 등의 다른 플랫폼을 안쓰느니만 못할 것이기 때문이다.
@@ -20,6 +20,8 @@ pin: false
 [🔗 https://www.figma.com/file/YvNRIQcmVTfUJaFiffhHcR/Dain-Portfolio?node-id=0%3A1](https://www.figma.com/file/YvNRIQcmVTfUJaFiffhHcR/Dain-Portfolio?node-id=0%3A1)
 
 각 부분들을 살펴보도록 하자.
+
+## Title & Side Navigation
 
 먼저, 나는 평소에 **흑백**과 **정갈한 느낌** 그리고 **손글씨**를 좋아했다. 그래서 전반적으로 그런 느낌들을 살리고 싶었다.
 
@@ -34,6 +36,8 @@ _Portfolio Title Design_
 
 <br/>
 
+## Contact & Skill
+
 소제목들은 타이틀로 이름 손글씨를 가져간 것과 비슷한 느낌을 주기 위해, 웹폰트 중 Hand Writing 카테고리 인 Caveat를 사용했다.
 
 Contact는 이메일, 깃허브, 블로그, 인스타그램 네가지를 나열했다.
@@ -45,6 +49,8 @@ _Portfolio Title Design_
 
 <br/>
 
+## Project
+
 다음은 프로젝트 영역이다. 구현하면서 내용이 채워지고 다채로워질 영역이다. 다른 영역들은 React로 평범하게 구현하되, '기여한 점'의 부분은 프로젝트에 따라 그 구조가 매우 다양할 것으로 생각되 Markdown Renderer를 이용하여 자유롭게 기입할 수 있도록 했다.
 
 위의 Skill에서 사용한 태그 디자인을 사용한 기술에도 동일하게 적용했다.
@@ -54,12 +60,16 @@ _Portfolio Title Design_
 
 <br/>
 
+## Timeline
+
 다음으로 타임라인이다. 아무래도 과거보다는 최근에 한 개발을 더 강조하고 싶기 때문에 시간 역순으로 구성하였다. 이 곳에는 주요 대외활동 및 교육 내용과 각종 대회 수상 내역을 기입하게 될 예정이다.
 
 ![Portfolio Timeline Design](/assets/img/post/0929_Portfolio_Timeline.png)
 _Portfolio Title Design_
 
 <br/>
+
+## Footer
 
 마지막으로 웹이라면 빠질 수 없는 Footer도 넣었다.
 
