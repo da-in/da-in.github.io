@@ -21,6 +21,4 @@ pin: false
 피그마 링크로 확인할 수 있다.  
 [🔗 https://www.figma.com/file/YvNRIQcmVTfUJaFiffhHcR/Dain-Portfolio?node-id=0%3A1](https://www.figma.com/file/YvNRIQcmVTfUJaFiffhHcR/Dain-Portfolio?node-id=0%3A1)
 
-<p align="center">
-  <img src='/assets/img/post/0929_Portfolio.png' width='50%'/>
-</p>
+<img src='../assets/img/post/0929_Portfolio.png'/>
