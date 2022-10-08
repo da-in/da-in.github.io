@@ -120,15 +120,9 @@ MDN Web Docs - SVG Attribute | [https://developer.mozilla.org/en-US/docs/Web/CSS
 ```javascript
 import styled, { keyframes } from "styled-components";
 const animation = keyframes`
-  0% {
-    stroke-dashoffset: 450;
-  }
-  50%{
-    stroke-dashoffset: 0;
-  }
-  100%{
-    stroke-dashoffset: 450;
-  }
+  0% { stroke-dashoffset: 450; }
+  50% { stroke-dashoffset: 0; }
+  100%{ stroke-dashoffset: 450; }
 `;
 
 const StyledSignSVG = styled.svg`
@@ -139,7 +133,8 @@ const StyledSignSVG = styled.svg`
 `;
 ```
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373" width="120px"><defs><style>.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10px;stroke-dasharray: 450;stroke-dashoffset: 450;animation: animation 1s linear infinite;}@keyframes animation {0% { stroke-dashoffset: 450; }50% { stroke-dashoffset: 0; }100% { stroke-dashoffset: 450; }}</style></defs><g><path class="cls-1" d="M66.6,82c17.67,9.13,25.71,20.07,27.09,30.98,2.61,20.58,4.91,46.02-64.09,52.02-21.98,1.91,178.26-57.04,13,61-21,15,43-71,100-24"/><path class="cls-1" d="M176.6,272c-45-1-154.98,13.8-171,9-10-3,109,22,87-75"/><path class="cls-1" d="M159.6,5c47,126,32,239,32,363"/><path class="cls-1" d="M228.1,150.5c46,1,119.11-33.89,92-21-143,68-33,99,15,63"/><path class="cls-1" d="M367.1,55.5c19.06,68.83,22,183,13,231-3.15,16.82-5-147,66-154"/><path class="cls-1" d="M532.1,112.5c-106,67-4,109,12,2"/><path class="cls-1" d="M584.1,27.5c27,74,18,139,7,182"/><path class="cls-1" d="M523.1,209.5c12,98,102,55,152,24"/></g></svg>
+![Portfolio Project Design](/assets/img/post/1004_sign1.gif)
+_실행결과_
 
 오... 이것은 대환장입니까?
 
@@ -166,4 +161,68 @@ const StyledSignSVG = styled.svg`
 `;
 ```
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373" width="120px"><defs><style>.cls-2 {fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10px;stroke-dasharray: 450;stroke-dashoffset: 450;nth-child(1) {animation: animation 8s linear infinite;animation-delay: 0s;}nth-child(2) {animation: animation 8s linear infinite;animation-delay: 1s;}nth-child(3) {animation: animation 8s linear infinite;animation-delay: 2s;}nth-child(4) {animation: animation 8s linear infinite;animation-delay: 3s;}nth-child(5) {animation: animation 8s linear infinite;animation-delay: 4s;}nth-child(6) {animation: animation 8s linear infinite;animation-delay: 5s;}nth-child(7) {animation: animation 8s linear infinite;animation-delay: 6s;}nth-child(8) {animation: animation 8s linear infinite;animation-delay: 7s;}}@keyframes animation {0% { stroke-dashoffset: 450; }50% { stroke-dashoffset: 0; }100% { stroke-dashoffset: 450; }}</style></defs><g><path class="cls-2" d="M66.6,82c17.67,9.13,25.71,20.07,27.09,30.98,2.61,20.58,4.91,46.02-64.09,52.02-21.98,1.91,178.26-57.04,13,61-21,15,43-71,100-24"/><path class="cls-2" d="M176.6,272c-45-1-154.98,13.8-171,9-10-3,109,22,87-75"/><path class="cls-2" d="M159.6,5c47,126,32,239,32,363"/><path class="cls-2" d="M228.1,150.5c46,1,119.11-33.89,92-21-143,68-33,99,15,63"/><path class="cls-2" d="M367.1,55.5c19.06,68.83,22,183,13,231-3.15,16.82-5-147,66-154"/><path class="cls-2" d="M532.1,112.5c-106,67-4,109,12,2"/><path class="cls-2" d="M584.1,27.5c27,74,18,139,7,182"/><path class="cls-2" d="M523.1,209.5c12,98,102,55,152,24"/></g></svg>
+![Portfolio Project Design](/assets/img/post/1004_sign2.gif)
+_실행결과_
+
+패스마다 1초씩 딜레이되어 실행되긴 하지만, 지금의 애니메이션은 "1초 동안 나타났다 사라지는 것"을 반복하기 때문에 위와 같이 동작한다.
+
+우리가 원하는 것은 모든 패스가 등장한 다음, 모든 패스가 사라지는 것이다. 따라서 모든 패스가 등장하는 시간을 고려하여 애니메이션을 설계하면 된다!
+
+<br/>
+
+애니메이션을 아래와 같이 설계해보았다.
+
+![Portfolio Project Design](/assets/img/post/1004_chart.png)
+_실행결과_
+
+애니메이션의 실행 시간을 16초 라고 했을 때, 0초에 채워진 후 다른 패스들이 채워질 동안 채워진 상태를 유지한다. 8초에 사라진 후 다른 패스들이 사라질 동안 상태를 유지한다. 그리고 이 동일한 애니메이션으로 각 패스에 offset을 주면 차례대로 써지고 차례대로 사라지는 애니메이션이 완성되는 것이다! 👍
+
+그리고 추가로 속도를 수정하고 싶을 때, 지속시간과 지연시간을 하나하나 수정하기 번거롭기 때문에 속도 변수를 선언해서 사용해주었다!
+
+<br/>
+
+## 최종 코드와 실행 결과
+
+```javascript
+const animation = keyframes`
+  0% { stroke-dashoffset: 450; }
+  6.25% { stroke-dashoffset: 0; }
+  56.25% { stroke-dashoffset: 0; }
+  62.5% { stroke-dashoffset: 450; }
+  100% { stroke-dashoffset: 450; }
+`;
+
+// 속도
+const v = 0.7;
+
+const StyledSignSVG = styled.svg`
+    ...
+    stroke-dasharray: 450;
+    stroke-dashoffset: 450;
+    path:nth-child(1) {
+        animation: ${animation} ${16 * v}s linear infinite;
+        animation-delay: ${0 * v}s;
+    }
+    path:nth-child(2) {
+        animation: ${animation} ${16 * v}s linear infinite;
+        animation-delay: ${1 * v}s;
+    }
+    ,,,
+    path:nth-child(8) {
+        animation: ${animation} ${16 * v}s linear infinite;
+        animation-delay: ${7 * v}s;
+    }
+`;
+```
+
+![Portfolio Project Design](/assets/img/post/1004_sign3.gif)
+_실행결과_
+
+<br/>
+
+그렇게 1일차에는 애니메이션 제목과 전체 레이아웃 구성을 완료했다. 2일차에는 스타일링을 하고 Scroll Navigation을 구현해볼 예정이다!👍
+
+<br/>
+
+🔥 **프론트엔드 개발자의 열정 가득한 포트폴리오 Link**  
+🔗 [https://da-in.github.io/portfolio](https://da-in.github.io/portfolio)
