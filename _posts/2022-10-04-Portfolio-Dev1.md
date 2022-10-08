@@ -30,7 +30,7 @@ pin: false
 
 SVG 파일을 열어보면 아래와 같이 구성되어있다.
 
-```svg
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="signs" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373">\
   <defs>
