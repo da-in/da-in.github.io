@@ -24,7 +24,9 @@ pin: false
 
 먼저 나는 illustrator를 이용하여 만든 싸인 SVG 파일이 준비되어있다.
 
-<img src='../assets/img/post/1004_choidain.svg' width='120px'>
+<img src='/assets/img/post/1004_choidain.svg' width='120px'>
+
+<br/>
 
 SVG 파일을 열어보면 아래와 같이 구성되어있다.
 
@@ -52,6 +54,8 @@ SVG 파일을 열어보면 아래와 같이 구성되어있다.
 `<path/>` 태그에 벡터 패스의 정보가 담겨있다. `ㅊ`, `ㅗ`, `ㅣ`, `ㄷ`, `ㅏ`, `ㅇ`, `ㅣ`, `ㄴ` 총 8개의 패스로 구성되어있고, `<g/>` 태그를 통해 그룹으로 묶여있는 형태이다.
 
 illustrator를 이용하여 SVG 파일을 만들 때 이미 검정색 선으로 지정했기 때문에 `<style/>` 태그에 선 색이 검정(stroke: #000), 선 끝 모양 둥글게(stroke-linecap: round) 등으로 지정되어있다. 이런 속성들 값을 변화시키면 내가 원하는 애니메이션을 얻을 수 있을 것이다.
+
+<br/>
 
 그래서 그려지는 SVG 컴포넌트의 틀은 아래와 같다. 이번 프로젝트에서 사용중인 styled-components를 사용해 '...' 부분에 SVG에 스타일과 애니메이션 효과를 넣어주려고 한다. 그리고 이 컴포넌트로 `<path/>`들을 감싸주었다.
 
@@ -135,7 +139,7 @@ const StyledSignSVG = styled.svg`
 `;
 ```
 
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373" width="120px"><defs><style>.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10px;stroke-dasharray: 450;stroke-dashoffset: 450;animation: animation 1s linear infinite;}@keyframes animation {0% { stroke-dashoffset: 450; }50% { stroke-dashoffset: 0; }100% { stroke-dashoffset: 450; }}</style></defs><g><path class="cls-1" d="M66.6,82c17.67,9.13,25.71,20.07,27.09,30.98,2.61,20.58,4.91,46.02-64.09,52.02-21.98,1.91,178.26-57.04,13,61-21,15,43-71,100-24"/><path class="cls-1" d="M176.6,272c-45-1-154.98,13.8-171,9-10-3,109,22,87-75"/><path class="cls-1" d="M159.6,5c47,126,32,239,32,363"/><path class="cls-1" d="M228.1,150.5c46,1,119.11-33.89,92-21-143,68-33,99,15,63"/><path class="cls-1" d="M367.1,55.5c19.06,68.83,22,183,13,231-3.15,16.82-5-147,66-154"/><path class="cls-1" d="M532.1,112.5c-106,67-4,109,12,2"/><path class="cls-1" d="M584.1,27.5c27,74,18,139,7,182"/><path class="cls-1" d="M523.1,209.5c12,98,102,55,152,24"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373" width="120px"><defs><style>.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10px;stroke-dasharray: 450;stroke-dashoffset: 450;animation: animation 1s linear infinite;}@keyframes animation {0% { stroke-dashoffset: 450; }50% { stroke-dashoffset: 0; }100% { stroke-dashoffset: 450; }}</style></defs><g><path class="cls-1" d="M66.6,82c17.67,9.13,25.71,20.07,27.09,30.98,2.61,20.58,4.91,46.02-64.09,52.02-21.98,1.91,178.26-57.04,13,61-21,15,43-71,100-24"/><path class="cls-1" d="M176.6,272c-45-1-154.98,13.8-171,9-10-3,109,22,87-75"/><path class="cls-1" d="M159.6,5c47,126,32,239,32,363"/><path class="cls-1" d="M228.1,150.5c46,1,119.11-33.89,92-21-143,68-33,99,15,63"/><path class="cls-1" d="M367.1,55.5c19.06,68.83,22,183,13,231-3.15,16.82-5-147,66-154"/><path class="cls-1" d="M532.1,112.5c-106,67-4,109,12,2"/><path class="cls-1" d="M584.1,27.5c27,74,18,139,7,182"/><path class="cls-1" d="M523.1,209.5c12,98,102,55,152,24"/></g></svg>
 
 오... 이것은 대환장입니까?
 
@@ -162,4 +166,4 @@ const StyledSignSVG = styled.svg`
 `;
 ```
 
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373" width="120px"><defs><style>.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10px;stroke-dasharray: 450;stroke-dashoffset: 450;path:nth-child(1) {animation: animation 8s linear infinite;animation-delay: 0s;}path:nth-child(2) {animation: animation 8s linear infinite;animation-delay: 1s;}path:nth-child(3) {animation: animation 8s linear infinite;animation-delay: 2s;}path:nth-child(4) {animation: animation 8s linear infinite;animation-delay: 3s;}path:nth-child(5) {animation: animation 8s linear infinite;animation-delay: 4s;}path:nth-child(6) {animation: animation 8s linear infinite;animation-delay: 5s;}path:nth-child(7) {animation: animation 8s linear infinite;animation-delay: 6s;}path:nth-child(8) {animation: animation 8s linear infinite;animation-delay: 7s;}}@keyframes animation {0% { stroke-dashoffset: 450; }50% { stroke-dashoffset: 0; }100% { stroke-dashoffset: 450; }}</style></defs><g><path class="cls-2" d="M66.6,82c17.67,9.13,25.71,20.07,27.09,30.98,2.61,20.58,4.91,46.02-64.09,52.02-21.98,1.91,178.26-57.04,13,61-21,15,43-71,100-24"/><path class="cls-2" d="M176.6,272c-45-1-154.98,13.8-171,9-10-3,109,22,87-75"/><path class="cls-2" d="M159.6,5c47,126,32,239,32,363"/><path class="cls-2" d="M228.1,150.5c46,1,119.11-33.89,92-21-143,68-33,99,15,63"/><path class="cls-2" d="M367.1,55.5c19.06,68.83,22,183,13,231-3.15,16.82-5-147,66-154"/><path class="cls-2" d="M532.1,112.5c-106,67-4,109,12,2"/><path class="cls-2" d="M584.1,27.5c27,74,18,139,7,182"/><path class="cls-2" d="M523.1,209.5c12,98,102,55,152,24"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680.1 373" width="120px"><defs><style>.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:10px;stroke-dasharray: 450;stroke-dashoffset: 450;path:nth-child(1) {animation: animation 8s linear infinite;animation-delay: 0s;}path:nth-child(2) {animation: animation 8s linear infinite;animation-delay: 1s;}path:nth-child(3) {animation: animation 8s linear infinite;animation-delay: 2s;}path:nth-child(4) {animation: animation 8s linear infinite;animation-delay: 3s;}path:nth-child(5) {animation: animation 8s linear infinite;animation-delay: 4s;}path:nth-child(6) {animation: animation 8s linear infinite;animation-delay: 5s;}path:nth-child(7) {animation: animation 8s linear infinite;animation-delay: 6s;}path:nth-child(8) {animation: animation 8s linear infinite;animation-delay: 7s;}}@keyframes animation {0% { stroke-dashoffset: 450; }50% { stroke-dashoffset: 0; }100% { stroke-dashoffset: 450; }}</style></defs><g><path class="cls-1" d="M66.6,82c17.67,9.13,25.71,20.07,27.09,30.98,2.61,20.58,4.91,46.02-64.09,52.02-21.98,1.91,178.26-57.04,13,61-21,15,43-71,100-24"/><path class="cls-1" d="M176.6,272c-45-1-154.98,13.8-171,9-10-3,109,22,87-75"/><path class="cls-1" d="M159.6,5c47,126,32,239,32,363"/><path class="cls-1" d="M228.1,150.5c46,1,119.11-33.89,92-21-143,68-33,99,15,63"/><path class="cls-1" d="M367.1,55.5c19.06,68.83,22,183,13,231-3.15,16.82-5-147,66-154"/><path class="cls-1" d="M532.1,112.5c-106,67-4,109,12,2"/><path class="cls-1" d="M584.1,27.5c27,74,18,139,7,182"/><path class="cls-1" d="M523.1,209.5c12,98,102,55,152,24"/></g></svg>
