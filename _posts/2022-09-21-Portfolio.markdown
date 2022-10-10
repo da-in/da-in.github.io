@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dain
-title: "[Portfolio] 포트폴리오 직접 만들기!(ing) 🎨"
+title: "[Portfolio] 포트폴리오 직접 만들기!(ing)"
 date: 2022-09-21 16:09:00 +0900
 categories: [Project, Portfolio]
 pin: false

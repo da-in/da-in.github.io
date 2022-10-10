@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dain
-title: "[Portfolio] 2일차, 포트폴리오 디자인 🎨"
+title: "[Portfolio] 2일차, 포트폴리오 디자인"
 date: 2022-09-29 17:53:00 +0900
 categories: [Project, Portfolio]
 pin: false

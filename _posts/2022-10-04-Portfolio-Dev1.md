@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dain
-title: "[Portfolio] 3일차, 개발(1) 글씨 써지는 애니메이션 제목과 레이아웃 🎨"
+title: "[Portfolio] 3일차, 개발(1) 글씨 써지는 애니메이션 제목과 레이아웃"
 date: 2022-10-04 21:51:00 +0900
 categories: [Project, Portfolio]
 pin: false
