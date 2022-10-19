@@ -17,6 +17,8 @@ pin: false
 
 그래서 댓글 기능을 적용하기로 마음 먹은 것이다!
 
+<br/>
+
 ## 어떤 댓글 시스템을 이용할까?🤔
 
 저는 지킬의 Chirpy 테마를 사용중에 있는데 정말 감사하게도 Comments 기능을 활성화하는 옵션들이 사용하기 쉽게 정리되어있답니다.
@@ -36,23 +38,21 @@ giscus
 
 먼저 개발 블로그임으로 소셜 로그인 기능은 꼭 필요한 기능이 아니기에 `disqus`를 제외하였다. `utterances`와 `giscus`가 유사한 형태를 가지고 있지만 더 활발하게 유지 보수가 되고 있다는 점과, `utterances`가 대화 흐름을 Issue로 담아내기 어려웠고 그를 Discussion을 활용해 개선한 것이 `giscus`라는 점에서 `giscus`를 최종적으로 선택했다! (그 외에도 reaction 등의 부가 기능들도 있고 말이다.👍) 장단점을 비교할 때 후기 글들을 열심히 찾아보았다! 사용해보신 분들 중 `utterances`에서 `giscus`로 옮겨가신 분의 생생한 후기를 공유한다. [Max Brenner Blog](https://shipit.dev/posts/from-utterances-to-giscus.html)
 
+<br/>
+
 ## 적용해보자!
 
 적용하는 법은 사실 매우 간단하다. Jekyll 테마를 사용하지 않는 본인의 사이트에 댓글 시스템을 도입하고 싶다면, [giscus 가이드](https://giscus.app/ko)에 들어가서 옵션들을 선택하여 생성한 `<script/>`태그를 웹사이트에 삽입해주면 된다.
 
 Jekyll(Chirpy Theme)의 Comment 기능을 활성화 하는 방법을 알아보자.
-
 Chirpy의 Guide를 보면 다음과 같이 설명되어있다.
 
-> ## Comments
+> ### Comments
 >
 > The global switch of comments is defined by variable `comments.active` in the file `_config.yml`{: .filepath}. After selecting a comment system for this variable, comments will be turned on for all posts.
+> comments: false
 
-```yaml
----
-comments: false
----
-```
+<br/>
 
 먼저 블로그 전체에 Comment 기능을 활성화하는 방법은 \_config.yml 파일을 수정하는 것이다.
 
@@ -73,9 +73,11 @@ comments:
 
 {: file='\_config.yml'}
 
-comments 아래의 active에 사용할 시스템을 입력하면 된다. (🚨true 값을 넣으면 작동하지 않습니다!)
+comments 아래의 active에 **사용할 시스템**을 입력하면 된다. (🚨true 값을 넣으면 작동하지 않습니다!)
 그리고 giscus 아래의 repo에 `userName/repoName`을 입력하면 된다.
 추가로 나는 reaction기능을 활성화했고, lazy-loading 옵션을 추가해주었다.'
+
+<br/>
 
 이렇게 하면 블로그 전체 포스트에 대해 댓글 기능이 활성화된다.
 각 포스트 마다 설정을 달리 할 수 있는데, 포스트 가장 상단에 `comments: false` 옵션을 주면 된다.
@@ -101,7 +103,3 @@ comments: false
 🔥 utterances | [https://utteranc.es/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub](https://utteranc.es/?utm_source=saashub&utm_medium=marketplace&utm_campaign=saashub)
 👍 giscus | [https://giscus.app/ko](https://giscus.app/ko)
 🙂 Max Brenner Blog | [https://shipit.dev/posts/from-utterances-to-giscus.html](https://shipit.dev/posts/from-utterances-to-giscus.html)
-
-```
-
-```
