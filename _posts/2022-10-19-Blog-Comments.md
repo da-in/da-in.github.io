@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dain
-title: "[Blog] Git Blog에 댓글 기능 추가하기 (+ Jekyll Chirpy)"
+title: "[Blog] Git Blog에 댓글 기능 추가하기 (Jekyll, Chirpy, 400, 404 Error 정리)"
 date: 2022-10-19 17:14:00 +0900
 categories: [Blog]
 pin: false
@@ -54,7 +54,8 @@ Chirpy의 Guide를 보면 다음과 같이 설명되어있다.
 
 <br/>
 
-먼저 블로그 전체에 Comment 기능을 활성화하는 방법은 \_config.yml 파일을 수정하는 것이다.
+Jekyll(Chirpy Theme)는 블로그와 관련한 전반적인 설정은 \_config.yml 에서 제공한다.
+Comments 관련 세팅 또한 \_config.yml 에서 설정이 가능하다.
 
 ```yml
 comments:
@@ -67,20 +68,70 @@ comments:
     repo: ...
   giscus:
     repo: da-in/da-in.github.io
-    data-reactions-enabled: true
-    data-loading: lazy
+    repo_id: MDEwOlJlcG9zaXRvcnkzNTM5MDcyOTU=
+    category: General
+    category_id: DIC_kwDOFRgyX84CSEWg
 ```
 
 {: file='\_config.yml'}
 
-comments 아래의 active에 **사용할 시스템**을 입력하면 된다. (🚨true 값을 넣으면 작동하지 않습니다!)
-그리고 giscus 아래의 repo에 `userName/repoName`을 입력하면 된다.
-추가로 나는 reaction기능을 활성화했고, lazy-loading 옵션을 추가해주었다.'
+comments 아래의 active에 **사용할 시스템**을 입력하면 된다. (🚨true 값을 넣으면 작동하지 않는다!)
+그리고 repo, repo_id, category, category_id 값을 입력해주면 된다. 지킬 테마가 아닌 사이트에 적용할 때 처럼
+[giscus 가이드](https://giscus.app/ko)에 들어가서 정보들을 입력했을 때 생성되는 스크립트의 값들을 참조하면 된다!
+
+## 🚨 400 error: "Unable to create discussion with request body."
+
+주의할 점은 사이트에서 category를 선택안해도 하단에 스크립트는 생성이되지만, category를 지정안하면(입력하지않으면) 추후 discussion 생성 요청에서 body에 이상한 값이 들어가서 400 Error 가 발생한다. 모든 요소들을 정확하게 입력했는지, 누락하지 않았는지 확인하자.
+
+<br/>
+
+## Jekyll(Chirpy)에서 추가 옵션을 사용하는 법
+
+giscus에는 더 많은 옵션들이 있는데 \_config.yml에 입력하면 작동하지 않는다.
+구조를 살펴보면 config.yml에서 사용자가 입력한 값들을 읽어온 후, Chirpy 테마에서 지정한 옵션들과 합쳐서 giscus 요청을 보내는 방식이기 때문이다.
+Chirpy 테마의 경우 \_includes/comments/giscus.html에 이 내용이 지정되어있다.
+
+```javascript
+let giscusAttributes = {
+  src: "https://giscus.app/client.js",
+  "data-repo": "{{ site.comments.giscus.repo}}",
+  "data-repo-id": "{{ site.comments.giscus.repo_id }}",
+  "data-category": "{{ site.comments.giscus.category }}",
+  "data-category-id": "{{ site.comments.giscus.category_id }}",
+  "data-mapping": "{{ site.comments.giscus.mapping | default: 'pathname' }}",
+  "data-reactions-enabled": "1",
+  "data-emit-metadata": "0",
+  "data-theme": initTheme,
+  "data-input-position":
+    "{{ site.comments.giscus.input_position | default: 'bottom' }}",
+  "data-lang": "{{ site.comments.giscus.lang | default: lang }}",
+  crossorigin: "anonymous",
+  async: "",
+};
+
+let giscusScript = document.createElement("script");
+Object.entries(giscusAttributes).forEach(([key, value]) =>
+  giscusScript.setAttribute(key, value)
+);
+document.getElementById("tail-wrapper").appendChild(giscusScript);
+```
+
+site.comments를 통해 접근한 값들은 모두 \_config.yml 에서 설정한 값들이고, 그 외에도 `data-reactions-enabled`(리액션 가능 여부 설정) 등의 옵션들이 지정되어있는 것을 볼 수 있다. 그러므로 추가적으로 사용하고 싶은 옵션이 있다면 이곳에 작성해야한다!🙂
 
 <br/>
 
 이렇게 하면 블로그 전체 포스트에 대해 댓글 기능이 활성화된다.
-각 포스트 마다 설정을 달리 할 수 있는데, 포스트 가장 상단에 `comments: false` 옵션을 주면 된다.
+
+## 🚨 404 error: "Discussion not found"
+
+여기서 콘솔창을 확인하면, 처음에 포스트에 접근했을 때 댓글이 하나도 없는 경우 🚨 404 error: "Discussion not found" 에러가 발생할 수 있다.
+giscus는 포스트에 첫 댓글이 달릴 때 Github Discussion을 생성한다. 따라서 댓글이 없는 경우 아직 Discussion이 생성되지 않아 발생하는 에러이다. **고로 무언가 잘못된 것은 아니다!** 포스트에 첫 댓글을 달면 에러가 발생하지 않는다. 추후 거슬리면 콘솔에 찍히지 않도록 예외처리도 고민해볼만 하다.
+
+<br/>
+
+## 포스트에 따라 댓글 비활성화
+
+그리고 각 포스트 마다 설정을 달리 할 수 있는데, 포스트 가장 상단에 `comments: false` 옵션을 주면 된다.
 
 ```
 ---
