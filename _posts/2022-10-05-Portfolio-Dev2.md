@@ -5,7 +5,6 @@ title: "[Portfolio] 4일차, 개발(2) Scroll Navigation (Feat. FowardRef & Inte
 date: 2022-10-05 22:47:00 +0900
 categories: [Project, Portfolio]
 pin: false
-comments: true
 ---
 
 ## 4일차, 개발 (2) Scroll Navigation
