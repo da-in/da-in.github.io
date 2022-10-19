@@ -106,7 +106,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: da-in/da-in.github.io
-    repo_id: MDEwOlJlcG9zaXRvcnkzNTM5MDcyOTU=
+    repo_id: "MDEwOlJlcG9zaXRvcnkzNTM5MDcyOTU="
     category:
     category_id:
     mapping: # optional, default to 'pathname'
