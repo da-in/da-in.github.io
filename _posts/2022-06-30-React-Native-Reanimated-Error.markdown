@@ -1,8 +1,9 @@
 ---
 layout: post
-title: '[React-Native] React Native Reanimated Error'
+title: "[React-Native] React Native Reanimated Error"
 date: 2022-06-30 17:19:00 +0900
-categories: React-Native
+categories: [Error, React-Native]
+tags: [react native, reanimated, error]
 ---
 
 ## Could not get unknown property 'rnMinorVersion' for project ':react-native-reanimated' of type org.gradle.api.Project

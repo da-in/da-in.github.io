@@ -2,7 +2,8 @@
 layout: post
 title: "[Etc] 추상화(Abstraction)"
 date: 2022-08-10 21:04:00 +0900
-categories: Etc
+categories: Programming
+tags: [programming, abstraction]
 ---
 
 ## 추상화(Abstraction)

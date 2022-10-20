@@ -2,7 +2,8 @@
 layout: post
 title: "[React-Native] React Native Web"
 date: 2022-08-23 16:33:00 +0900
-categories: react-native
+categories: React-Native
+tags: [react native, web]
 ---
 
 ## React Native Web

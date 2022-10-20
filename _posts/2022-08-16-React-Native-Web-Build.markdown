@@ -3,6 +3,7 @@ layout: post
 title: "[React-Native] React Native Web Build"
 date: 2022-08-16 18:59:00 +0900
 categories: React-Native
+tags: [react native web, webpack]
 ---
 
 ## React Native Web Build

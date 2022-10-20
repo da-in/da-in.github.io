@@ -3,6 +3,7 @@ layout: post
 title: "[React-Native] Change State Handler (feat. TypeScript)"
 date: 2022-08-05 23:19:00 +0900
 categories: React-Native
+tags: [react native, handler]
 ---
 
 ## Change State Handler (feat. TypeScript)
@@ -30,6 +31,7 @@ _(갱신함수 : [form, setForm] = useState(); 에서 setForm())_
 ## 🙂 코드가 간결해진다!
 
 아이디가 유효(형태, 중복체크 등)해야 회원가입을 할 수 있는 로직을 생각하면 다음과 같은 form을 상태관리 할 수 있다.
+
 ```
 [form, setForm] = useState({
   id: '',
@@ -40,6 +42,7 @@ _(갱신함수 : [form, setForm] = useState(); 에서 setForm())_
 
 기존 갱신 함수를 사용해서 password 를 업데이트 한다고 해보자.
 그러면 다음과 같이 구현할 수 있다.
+
 ```
 <TextInput onChangeText={(value: string) =>
   setForm({...form, password: value})
@@ -47,6 +50,7 @@ _(갱신함수 : [form, setForm] = useState(); 에서 setForm())_
 ```
 
 하지만 앞서 만든 onChangeForm을 사용한다면 코드가 매우 간결해진다.
+
 ```
 <TextInput onChangeText={onChangeForm('password')}/>
 ```
@@ -66,4 +70,4 @@ TextInput의 속성 onChangeText 에 이 함수를 적용하면, 변화한 텍�
 
 ## 👍 프로젝트가 커질수록 더욱더 유용한 이유
 
-프로젝트가 커지면 
+프로젝트가 커지면

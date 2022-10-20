@@ -3,6 +3,7 @@ layout: post
 title: "백준 10951번, 입력 케이스 개수가 정해지지 않은 경우"
 date: 2021-04-07 20:01:00 +0900
 categories: Algorithm
+tags: [algorithm, error]
 ---
 
 백준 `10951`번은, `10952`번 문제와 거의 유사하고, 단 하나의 차이가 있는데,
@@ -11,8 +12,8 @@ categories: Algorithm
 다음과 같이 10952번과 동일하게 단순 반목문을 사용하여 문제를 해결하려고 하면,
 {% highlight ruby %}
 while(1):
-    a, b = map(int, input().split())
-    print(a+b)
+a, b = map(int, input().split())
+print(a+b)
 {% endhighlight %}
 
 `런타임 에러 (EOFError)`가 발생한다.
@@ -26,15 +27,13 @@ input () 또는 raw_input ()과 같은 내장 함수가 입력 스트림의 끝�
 
 {% highlight ruby %}
 try:
-    while(1):
-        a, b = map(int, input().split())
-        print(a+b)
+while(1):
+a, b = map(int, input().split())
+print(a+b)
 except:
-    exit()
+exit()
 {% endhighlight %}
 
-
 Reference | [How to catch EOFError Exception in Python? - Codefoxx][reference]
-
 
 [reference]: https://www.tutorialspoint.com/How-to-catch-EOFError-Exception-in-Python

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: '[React-Native] Firebase Storage 사용 시 Possible Unhandled Priomise Rejection'
+title: "[React-Native] Firebase Storage 사용 시 Possible Unhandled Priomise Rejection"
 date: 2022-07-08 10:58:00 +0900
-categories: React-Native
+categories: [Error, React-Native]
+tags: [react native, firebase storage, error]
 ---
 
 ## 🚨WARN : Possible Unhandled Promise Rejection

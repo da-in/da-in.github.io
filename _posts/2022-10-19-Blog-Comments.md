@@ -4,6 +4,7 @@ author: dain
 title: "[Blog] Git Blog에 댓글 기능 추가하기 (Jekyll, Chirpy, 400, 404 Error 정리)"
 date: 2022-10-19 17:14:00 +0900
 categories: [Blog]
+tags: [blog, comments, jekyll, chirpy, giscus]
 pin: false
 ---
 

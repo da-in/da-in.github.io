@@ -1,8 +1,9 @@
 ---
 layout: post
-title: '[React-Native] Vscode, AVD 에러 총집합'
+title: "[React-Native] Vscode, AVD 에러 총집합"
 date: 2022-06-20 18:11:00 +0900
-categories: React-Native
+categories: [Error, React-Native]
+tags: [react native, avd, vscode]
 ---
 
 ## error Failed to launch emulator. Reason: No emulators found as an output of 'emulator -list-avds'.
@@ -22,8 +23,8 @@ Settings > Android SDK > SDK Platforms 에서
 
 기존에 자동으로 설치되지 않은 두가지를 설치해주었다.
 
--   Google APIs Intel x86 Atom_64 System image
--   Google Play Intel x86 Atom_64 System image
+- Google APIs Intel x86 Atom_64 System image
+- Google Play Intel x86 Atom_64 System image
 
 그리고 Android 디렉토리로 이동해서 다른 글들에서도 권장하기에 Gradle 초기화를 해주었다.
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "[TypeScript] Could not find a declaration file for module 'react-query'"
+title: "[React-Native] Could not find a declaration file for module 'react-query'"
 date: 2022-07-21 17:30:00 +0900
-categories: Typescript
+categories: [Error, React-Native]
+tags: [react native, typescript, error]
 ---
 
 ## 🚨Could not find a declaration file for module 'react-query'
@@ -14,8 +15,8 @@ categories: Typescript
 ```
 import {QueryClient, QueryClientProvider} from 'react-query'
 ```
-React Native 프로젝트에서 API 상태관리를 위해 react-query를 설치하고 모듈을 임포트하는데 다음과 같은 에러가 발생했다.
 
+React Native 프로젝트에서 API 상태관리를 위해 react-query를 설치하고 모듈을 임포트하는데 다음과 같은 에러가 발생했다.
 
 <figure>
   <img width=500 src='/assets/img/react-query-2.png' alt='action'>
@@ -31,7 +32,7 @@ implicitly has an 'any' type.
 
 <br/>
 
-## 2. Install @types/react-query 
+## 2. Install @types/react-query
 
 위 에러는 일단 보통 Typescript를 사용할 때 모듈의 타입이 정의되지 않아서 발생하는 에러로, 해당 모듈에서 자체적으로 타입을 제공하지 않을 때에 발생하며, community-contributed typings를 제공하는 라이브러리들은 @types/module-name 을 설치함으로서 해결할 수 있고, 그 외에는 types를 직접 설정함으로서 해결이 가능하다.
 
@@ -56,7 +57,7 @@ react-query 모듈을 사용할 때 타입체킹이 제대로 작동하지 않�
 ## 4. 명탐정다인(Detective Dain)
 
 **[ 단서 1 ]**  
-node_modules 폴더의 @types/react-query 에 가보니 readme 파일에 react-query는 자체적인 타입을 제공하므로 @types/react-query를 설치해줄 필요가 없다고 명시되어있었다._약간 보물찾기 쪽지 찾은 느낌_
+node*modules 폴더의 @types/react-query 에 가보니 readme 파일에 react-query는 자체적인 타입을 제공하므로 @types/react-query를 설치해줄 필요가 없다고 명시되어있었다.*약간 보물찾기 쪽지 찾은 느낌\_
 
 그래서 @types/react-query는 다시 remove 해주었다.
 

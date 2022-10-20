@@ -2,7 +2,8 @@
 layout: post
 title: "[Etc] Refactoring = Jenga"
 date: 2022-08-03 22:00:00 +0900
-categories: Etc
+categories: Programming
+tags: [programming, refactoring]
 ---
 
 ## Refactoring = Jenga
@@ -11,7 +12,8 @@ categories: Etc
 
 <br/>
 
-> ### 리팩토링(Code Refactoring)  
+> ### 리팩토링(Code Refactoring)
+>
 > 결과의 변경 없이 코드의 구조를 재조정함  
 > [출처 wikipedia](https://ko.wikipedia.org/wiki/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81)
 
@@ -28,7 +30,7 @@ categories: Etc
 ### Refactoring = Jenga
 
 내가 경험해본 바 리팩토링은 마치 젠가 같았다.  
-젠가같은 재미가 있다.  
+젠가같은 재미가 있다.
 
 젠가는 아래쪽의 나무 블럭을 빼서 위에 쌓는 작업의 연속이다. 나무 블럭을 뺄 때에는 "이걸 빼면 무너지지 않을까." 하는 긴장감을, 그리고 빼서 올렸을 때에는 그대로 유지되는 모습에 희열을 느낀다.
 

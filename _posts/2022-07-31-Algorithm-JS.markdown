@@ -3,6 +3,7 @@ layout: post
 title: "[Algorithm] JavaScript로 알고리즘 코딩테스트 준비"
 date: 2022-07-31 18:44:00 +0900
 categories: Algorithm
+tags: [algorithm, js]
 ---
 
 ## Programmers JavaScript 풀이 시작에 앞서.
@@ -26,6 +27,7 @@ process.stdin.on('data', (data) => {
     console.log(b);
 });
 ```
+
 _Programmers에서 주어지는 스켈레톤 코드_
 
 <br/>

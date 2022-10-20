@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "[React-Native] Props Drilling"
+title: "[Programming] Props Drilling"
 date: 2022-08-19 11:00:00 +0900
-categories: react-native
+categories: Programming
+tags: [programming, abstraction]
 ---
 
 ## React Props Drilling 프로퍼티 드릴링

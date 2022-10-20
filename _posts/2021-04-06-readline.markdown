@@ -3,22 +3,26 @@ layout: post
 title: "코딩테스트에서 sys.stdin.readline()을 사용해야 하는 이유"
 date: 2021-04-06 07:44:00 +0900
 categories: Algorithm
+tags: [algorithm, readline, python]
 ---
 
 코딩테스트에서 sys.stdin.readline()을 사용해야 하는 이유에 대하여 알아보자.
 
 먼저 Python 문자열을 입력받는 가장 쉬운 방법은 `input()` 함수를 사용하는 것이다.
 {% highlight ruby %}
+
 # input()을 사용하여 정수 입력 받기
+
 num = int(input())
 a, b = map(int, input().split())
 {% endhighlight %}
 
-
 하지만 코딩테스트 문제를 풀다보면 `sys.stdin.readline()`을 사용한다.
 
 {% highlight ruby %}
+
 # sys.stdin.readline()을 사용하여 정수 입력 받기
+
 import sys
 num = int(sys.stdin.readline().rstrip())
 {% endhighlight %}

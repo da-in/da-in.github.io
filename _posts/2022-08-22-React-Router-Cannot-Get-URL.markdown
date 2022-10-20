@@ -2,7 +2,8 @@
 layout: post
 title: "[React-Native] React Router v6 Cannot Get URL"
 date: 2022-08-19 11:00:00 +0900
-categories: react-native
+categories: [Error, React-Native]
+tags: [react native, web]
 ---
 
 ## React Router v6 Cannot Get URL

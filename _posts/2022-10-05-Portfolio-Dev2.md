@@ -4,6 +4,7 @@ author: dain
 title: "[Portfolio] 4일차, 개발(2) Scroll Navigation (Feat. FowardRef & Intersection Observer)"
 date: 2022-10-05 22:47:00 +0900
 categories: [Project, Portfolio]
+tags: [portfolio, project, react, intersection observer]
 pin: false
 ---
 

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: '[Github] Git Action & Git Branch Protection Rule 을 통한 협업 코드 관리!'
+title: "[Git] Git Action & Git Branch Protection Rule 을 통한 협업 코드 관리!"
 date: 2022-07-13 10:15:00 +0900
-categories: Github
+categories: Git
+tags: [git, github, action, branch protection rule]
 ---
 
 ## 😆 Git Action & Git Branch Protection Rule 을 통한 협업 코드 관리!
 
 ### 1. 요약
+
 > `Git Action`과 `Git Branch Protection Rule`을 통해 더욱 체계적이고 안전한 코드 관리 하기.
 
 <br/>
