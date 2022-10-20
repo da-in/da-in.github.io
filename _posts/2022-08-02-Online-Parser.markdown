@@ -2,8 +2,8 @@
 layout: post
 title: "[Etc] 너무 너무 유용한 Online Parser"
 date: 2022-08-02 19:43:00 +0900
-categories: Etc
-tags: [tools, online parser]
+categories: Tool
+tags: [tool, online parser]
 ---
 
 ## 생각나서 기록해두는 너무 너무 유용한 Online Parser
