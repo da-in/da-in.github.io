@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: da-in # the main title
 
-tagline: 🔥dain dev page # it will display as the sub-title
+tagline: 🔥개발 블로그입니다. 잘못된 내용이 있을 경우 댓글로 제보 부탁드립니다! 모든 조언이나 의견 환영합니다!🙂 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
