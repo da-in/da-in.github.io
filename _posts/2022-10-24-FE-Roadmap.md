@@ -15,8 +15,9 @@ pin: true
 (공부를 하면서도 계속 계획의 방향성을 고민하고 수정할 예정이다.👍)
 
 먼저 개발자 커뮤니티에 의해 관리되고있는 개발자 로드맵의 내용들을 차근차근 공부하려고 한다.
-[https://roadmap.sh/frontend](https://roadmap.sh/frontend)
-[https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+🔗 Frontend Roadmap [https://roadmap.sh/frontend](https://roadmap.sh/frontend)  
+🔗 Frontend Roadmap Github [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 지금까지 프로젝트를 하면서 사용했던 JS와 TS도 더 깊이있게 공부하고싶다는 생각을 했고, 웹의 기초 동작 원리 등에 대해서도 자세히 알지 못한다고 느꼈기 때문이다.
 그리고 TDD, 웹 성능 개선 등 기회가되면 해보고 싶던 것들도 로드맵에 모두 포함이 되어있었다.
