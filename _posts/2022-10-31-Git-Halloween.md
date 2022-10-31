@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dain
-title: "[Git] 깃허브가 할로윈을 보내는 법"
+title: "[Git] 깃허브가 할로윈을 보내는 법 (feat. Solved.ac)"
 date: 2022-10-31 15:16:00 +0900
 categories: Others
 tags: [github, halloween, others]
