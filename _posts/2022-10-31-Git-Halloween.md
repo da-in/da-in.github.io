@@ -5,7 +5,7 @@ title: "[Git] 깃허브가 할로윈을 보내는 법"
 date: 2022-10-31 15:16:00 +0900
 categories: Others
 tags: [github, halloween, others]
-pin: true
+pin: false
 ---
 
 흔히들 깃허브 잔디라고 말하는 contribution. 깃허브의 초록초록한 커밋 기록을 채우는 건 잔디를 심는다고도 많이 표현했고, 아이덴티티였는데.
