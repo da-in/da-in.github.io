@@ -4,7 +4,7 @@ author: dain
 title: "[Project] Github Pages Deploy 404 오류 안나게 하자 (feat. gh-pages)"
 date: 2022-11-02 01:53:00 +0900
 categories: [Project, Project]
-tags: [github pages, deploy, 404]
+tags: [github pages, deploy, error, notfound]
 pin: false
 ---
 
