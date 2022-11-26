@@ -85,7 +85,7 @@ Github Pages는 정적 페이지를 호스팅해주기는 하지만, Jekyll 블�
 
 배포할 때 404.html이 복사가 되도록 package.json의 스크립트를 수정해주면 된다.
 
-```
+```json
 "deploy": "cp build/index.html build/404.html && gh-pages -d build"
 ```
 
