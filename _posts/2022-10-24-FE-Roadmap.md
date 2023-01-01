@@ -5,7 +5,7 @@ title: "[Roadmap] 프론트엔드 개발자 준비하기 Frontend Developer Road
 date: 2022-10-24 22:15:00 +0900
 categories: Programming
 tags: [roadmap, front end, developer, study]
-pin: true
+pin: false
 ---
 
 취준생이 되었는데 뭘 어떻게 준비해야할지 막막했다.🤔  
