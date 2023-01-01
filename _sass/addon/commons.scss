@@ -729,6 +729,10 @@ $sidebar-display: "sidebar-display";
     vertical-align: middle;
   }
 
+  .nav-background {
+    object-fit: cover;
+  }
+
   .nav-item {
     text-align: center;
     display: table;
