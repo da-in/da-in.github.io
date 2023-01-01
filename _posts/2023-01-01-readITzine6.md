@@ -1,14 +1,14 @@
 ---
 layout: post
 author: dain
-title: "[📕Book] 리드잇zine 6호와 2023 시작"
+title: "📕[Book] 리드잇zine 6호와 2023 시작"
 date: 2023-01-01 21:03:00 +0900
 categories: [Book]
 tags: [book, readitzine, magazine, read, retrospective]
 pin: false
 ---
 
-교보문고에서 2022 올해의 IT책을 공개했다!📕  
+교보문고에서 2022 올해의 IT책을 공개했다!✨  
 IT의 각 분야별로 사람들이 가장 많이 읽은 책을 10권씩 소개했다.
 
 새 해에는 기계적이고 정형화된 공부만이 아니라, 개발을 더 넓게 바라볼 수 있는 공부도 해야겠다고 생각했고 주말마다 조금씩 책을 읽어나가려고 한다.

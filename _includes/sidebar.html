@@ -1,8 +1,18 @@
 <!--
   The Side Bar
 -->
-
-<div id="sidebar" class="d-flex flex-column align-items-end">
+{% if site.background != empty and site.background %}
+  {% capture background_url %}
+    {% if site.background contains '://' %}
+      {{ site.background }}
+    {% elsif site.img_cdn != empty and site.img_cdn %}
+      {{ site.background | prepend: site.img_cdn }}
+    {% else %}
+      {{ site.background | relative_url }}
+    {% endif %}
+  {% endcapture %}
+{% endif %}
+<div id="sidebar" class="d-flex flex-column align-items-end" style="background-image: url({{background_url}})">
   <div class="profile-wrapper text-center">
     <div id="avatar">
       <a href="{{ '/' | relative_url }}" class="mx-auto">
