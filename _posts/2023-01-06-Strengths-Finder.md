@@ -10,8 +10,6 @@ pin: false
 
 ## 위대한 나의 발견 강점 혁명(Strengths Finder 2.0)
 
-<img src="https://user-images.githubusercontent.com/66757141/210969949-694be083-69cd-4c9e-8e4c-2881ddc1241e.png" alt="Clifton Strengths" width="700px" />
-
 위대한 나의 발견 강점 혁명(Strengths Finder 2.0)은 자기계발 카테고리의 오랜 스테디셀러이다.  
 과거 글쓰기 소모임에 참여했을 때 다른 회원분을 통해서 나도 알게되었고, 구매만 해둔상태로 시간이 조금 흘렀다.  
 이 책을 구매하면 책에 있는 ID 코드를 사용하여 [사이트에서 Clifton Strength](https://www.gallup.com/cliftonstrengths/en/home.aspx)를 진행할 수 있다.
@@ -35,6 +33,8 @@ pin: false
 ## 나의 강점은.
 
 평소에 '내 강점은 이런게 아닐까?' 하고 짐작하던 내용과 유사한 결과가 나왔다.😮 그리고 생각보다 세분화되어있고 구체적이었다. 나의 상위 5개 테마는 다음과 같다.
+
+<img src="https://user-images.githubusercontent.com/66757141/210969949-694be083-69cd-4c9e-8e4c-2881ddc1241e.png" alt="Clifton Strengths" width="700px" />
 
 1. **사교성(Woo)** - 새로운 이들을 만나 그들의 마음을 얻는 일에 도전하기를 무척 즐깁니다. 이들은 어색한 분위기를 깨고 다른 사람과 인맥을 쌓는 데에서 만족감을 얻습니다.
 
