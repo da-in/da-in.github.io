@@ -10,6 +10,8 @@ pin: false
 
 ## 위대한 나의 발견 강점 혁명(Strengths Finder 2.0)
 
+<img src="https://user-images.githubusercontent.com/66757141/210969949-694be083-69cd-4c9e-8e4c-2881ddc1241e.png" alt="Clifton Strengths" width="700px" />
+
 위대한 나의 발견 강점 혁명(Strengths Finder 2.0)은 자기계발 카테고리의 오랜 스테디셀러이다.  
 과거 글쓰기 소모임에 참여했을 때 다른 회원분을 통해서 나도 알게되었고, 구매만 해둔상태로 시간이 조금 흘렀다.  
 이 책을 구매하면 책에 있는 ID 코드를 사용하여 [사이트에서 Clifton Strength](https://www.gallup.com/cliftonstrengths/en/home.aspx)를 진행할 수 있다.
