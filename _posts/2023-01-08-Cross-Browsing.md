@@ -8,6 +8,12 @@ tags: [web, browser, rendering]
 pin: false
 ---
 
+> ✏️ 기술 면접 깃터디를 진행하며 정리한 내용입니다!  
+> 아래 스터디 링크에서 더 많은 주제들을 확인할 수 있습니다.  
+> https://github.com/da-in/tech-interview-study
+
+<br/>
+
 ## Cross Browsing
 
 크로스 브라우징은 HTML, CSS, Javascript 작성 시 W3C의 웹 표준 규격에 맞도록 작성하며, 제작한 웹페이지가 서로 다른 환경을 가진 브라우저들에서 의도한 대로 작동하도록 하는 작업을 말한다.
