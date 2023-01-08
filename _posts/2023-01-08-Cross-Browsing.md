@@ -48,7 +48,7 @@ Cross-browser Compatibility를 보장하기 위해 진행하는 **테스팅 기�
    `Reset.css`를 검색하면 많은 자료들이 나온다. Reset.css는 모든 속성에 대한 default 값을 한번씩 지정해서 브라우저마다 다른 기본 스타일 값을 초기화해주는 것이다. 그러면 모든 브라우저에서 동일한 스타일 결과를 기대할 수 있다.
 5. Vender Prefix  
    CSS 속성 앞에 브라우저 별 접두사(Vender Prefix)를 붙이는 것이다. Vender Prefix는 과거 특정 브라우저에서만 지원되는 속성을 사용하기 위해 제공된 기능이다. 브라우저는 자신의 Vender Prefix가 붙은 속성을 인식하고 적용한다.  
-   [autoprefixer.github.io/](autoprefixer.github.io/)는 접두사를 붙인 CSS를 생성해준다.
+   [autoprefixer.github.io](https://autoprefixer.github.io/)는 접두사를 붙인 CSS를 생성해준다.
 
 #### Vender Prefix와 사용 예
 
