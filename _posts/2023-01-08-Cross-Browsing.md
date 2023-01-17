@@ -8,14 +8,6 @@ tags: [web, browser, rendering]
 pin: false
 ---
 
-> ✏️ 기술 면접 깃터디를 진행하며 정리한 내용입니다!  
-> 아래 스터디 링크에서 더 많은 주제들을 확인할 수 있습니다.  
-> https://github.com/da-in/tech-interview-study
-
-<br/>
-
-## Cross Browsing
-
 크로스 브라우징은 HTML, CSS, Javascript 작성 시 W3C의 웹 표준 규격에 맞도록 작성하며, 제작한 웹페이지가 서로 다른 환경을 가진 브라우저들에서 의도한 대로 작동하도록 하는 작업을 말한다.
 
 브라우저 마다 [랜더링 엔진](https://github.com/da-in/tech-interview-study/blob/main/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%99%80%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)이 다르기 때문에, 작동되지 않는 HTML5, JS 코드와 해석하지 못하는 CSS 코드가 존재할 수 있다. 브라우저에 따른 버그가 존재할 수 있고, 브라우저 자체 CSS 차이의 영향을 받을 수 있다.
@@ -108,6 +100,12 @@ _Comparison of browser engines [Wikipedia](https://en.wikipedia.org/wiki/Compari
   점유율이 높은 엔진이다.
 - **오페라**는 15버전부터 프레스토가 아닌 블링크를 사용했다.
 - **듀얼 엔진** 국내 이스트소프트의 스윙(Swing) 브라우저를 예로 들면 크롬과 같은면서도 액티브X를 지원하는데, 독자적인 엔진이 아닌 두가지 엔진을 번갈아 사용하는 방식이기 때문에 가능하다. - 보통 트라이던트와 웹킷or블링크 엔진을 사용한다.
+
+<br/>
+
+> ✏️ 기술 면접 깃터디를 진행하며 정리한 내용입니다!  
+> 아래 스터디 링크에서 더 많은 주제들을 확인할 수 있습니다.  
+> https://github.com/da-in/tech-interview-study
 
 <br/>
 
