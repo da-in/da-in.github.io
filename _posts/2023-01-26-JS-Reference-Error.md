@@ -53,17 +53,17 @@ _Figure : Chrome Console_
 
 ### 💧 반론 1 : '브라우저' 라서만은 아닐 것이다.
 
-- 근거 : `html` 파일을 생성, `<script>` 태그로 위 코드를 입력하고 브라우저에서 열면 동일한 에러 메세지를 출력한다.
+- 근거 : `html` 파일을 생성, `<script>` 태그로 위 코드를 입력하고 브라우저에서 열면 동일한 에러 메세지를 출력한다.  
   ![Figure : HTML Inner Script](/assets/img/post/230126_reference_error5.png)  
    _Figure : HTML Inner Script_  
-   Uncaught ReferenceError: Cannot access 'a' before initialization
+  Uncaught ReferenceError: Cannot access 'a' before initialization
 - '브라우저'이기 때문에 차이가 발생하는 것이 아니라, 개발자도구 콘솔에서 차이가 발생하는 것 아닐까.
 
 <br/>
 
 ### 🔥 가설 2 : 브라우저 콘솔이 블럭으로 감싸지 않은 문을 분리해서 실행하는 것 아닌가.
 
-- 근거 : 아래와 같이 분리되어 한 줄만 실행했을 때와 결과가 같기 때문이다.
+- 근거 : 아래와 같이 분리되어 한 줄만 실행했을 때와 결과가 같기 때문이다.  
   ![Figure : Browser Console](/assets/img/post/230126_reference_error3.png)  
    _Figure : Browser Console_
 
@@ -71,7 +71,7 @@ _Figure : Chrome Console_
 
 ### 💧 반론 2 : 분리해서 실행하지는 않는다.
 
-- 근거 : 분리해서 실행된다면 `var` 키워드에 대한 호이스팅도 이루어지지 않고 에러가 발생해야하는데 잘 동작한다.
+- 근거 : 분리해서 실행된다면 `var` 키워드에 대한 호이스팅도 이루어지지 않고 에러가 발생해야하는데 잘 동작한다.  
   ![Figure : Browser Console](/assets/img/post/230126_reference_error4.png)  
    _Figure : Browser Console_
 
@@ -98,4 +98,4 @@ _Figure : Chrome Console_
    - 이건 여러 실험 도중에 생긴 의문이다.
 
 의문이 해결된게 아니라 늘었다...🙂  
-틈틈이 파헤쳐보겠지만, 혹시 이에 관해 짐작가는 분이 계시다면 댓글 부탁드립니다.
+계속 틈틈이 파헤쳐보겠지만, 혹시 이에 관해 짐작가는 분이 계시다면 댓글 부탁드립니다.
