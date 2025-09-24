@@ -1,5 +1,5 @@
-import { getPostBySlug, listPostSlugs } from '../../../lib/posts';
-import GiscusComments from '../../../components/GiscusComments';
+import { getPostBySlug, listPostSlugs } from '@/lib/posts';
+import GiscusComments from '@/components/GiscusComments';
 
 type Props = { params: { slug: string } };
 
