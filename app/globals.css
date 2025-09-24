@@ -35,6 +35,15 @@ a {
   text-decoration: none;
 }
 
+/* Post content images should not overflow the container */
+article img,
+.post-content img,
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
