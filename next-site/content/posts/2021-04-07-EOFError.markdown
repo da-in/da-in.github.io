@@ -1,0 +1,39 @@
+---
+layout: post
+title: "백준 10951번, 입력 케이스 개수가 정해지지 않은 경우"
+date: 2021-04-07 20:01:00 +0900
+categories: Algorithm
+tags: [algorithm, error]
+---
+
+백준 `10951`번은, `10952`번 문제와 거의 유사하고, 단 하나의 차이가 있는데,
+10952번은 0 0 이 입력되면 종료가 되는 반면, 10951번은 종료 시점이 정해져 있지 않다는 것이다.
+
+다음과 같이 10952번과 동일하게 단순 반목문을 사용하여 문제를 해결하려고 하면,
+{% highlight ruby %}
+while(1):
+a, b = map(int, input().split())
+print(a+b)
+{% endhighlight %}
+
+`런타임 에러 (EOFError)`가 발생한다.
+`EOF` 는 `End Of File` 의 약자로 파일의 끝을 의미하며,
+input () 또는 raw_input ()과 같은 내장 함수가 입력 스트림의 끝을 만나기 전에 데이터를 읽지 않았을 경우 발생합니다.
+
+쉽게 말하면, 정상적으로 데이터를 읽지 못했을 때 발생하는데
+이러한 예외가 발생하는 경우를 처리해주면 해결할 수 있습니다.
+
+다음과 같이 `try` `except` 문을 사용하여 해결합니다.
+
+{% highlight ruby %}
+try:
+while(1):
+a, b = map(int, input().split())
+print(a+b)
+except:
+exit()
+{% endhighlight %}
+
+Reference | [How to catch EOFError Exception in Python? - Codefoxx][reference]
+
+[reference]: https://www.tutorialspoint.com/How-to-catch-EOFError-Exception-in-Python
