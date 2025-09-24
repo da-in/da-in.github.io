@@ -25,6 +25,20 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        <div
+          style={{
+            width: '100%',
+            borderBottom: '1px solid #ffe69c',
+            background: '#fff3cd',
+            color: '#664d03',
+          }}
+          role="status"
+          aria-live="polite"
+        >
+          <div style={{ maxWidth: 760, margin: '0 auto', padding: '0.5rem 1rem', fontSize: 14, lineHeight: 1.5 }}>
+            현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요.
+          </div>
+        </div>
         {children}
       </body>
     </html>
