@@ -14,7 +14,8 @@ export type PostDetail = PostSummary & {
   html: string;
 };
 
-const postsDir = path.join(process.cwd(), 'content', 'posts');
+// Content files are located under src/content/posts after src-structure migration
+const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
 const FILE_RE = /^(\d{4}-\d{2}-\d{2})-(.+)\.(md|markdown)$/i;
 
 function toSlug(filename: string) {
