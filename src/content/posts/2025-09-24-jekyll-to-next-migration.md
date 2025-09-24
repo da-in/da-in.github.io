@@ -8,74 +8,25 @@ summary: Jekyll 기반 블로그를 Next.js(App Router, SSG, export)로 이전�
 
 오늘은 블로그를 Jekyll에서 Next.js로 전환했다. 의사결정 배경부터 실제 마이그레이션 절차, 중간에 부딪힌 문제와 해결책, 그리고 앞으로의 TODO를 남긴다.
 
-## 왜 Next.js인가
+## 왜 Next.js인가 ✨
 
-- 실무 친화: 생태계/채용/레퍼런스 측면에서 유리
-- 기능 확장성: App Router, SSG/ISR, MDX, SEO, 이미지 최적화 등
-- 배포 유연성: Vercel/Pages 등 다양한 경로로 손쉬운 배포
+Jekyll은 간결했고 GitHub Pages와의 궁합도 좋았다. 하지만 블로그를 계속 성장시키려면, 실무에서 많이 쓰이는 스택과 생태계의 힘을 빌리고 싶었다. Next.js는 App Router와 강력한 SSG/ISR, MDX 확장성, SEO/이미지 최적화 같은 기본기를 튼튼하게 제공한다. 배포 역시 Vercel은 물론 GitHub Pages로의 정적 export도 수월하다. “지속 가능한 확장성 + 친숙한 DX”가 이번 선택의 핵심이었다. 🚀
 
-## 마이그레이션 큰 흐름
+## 마이그레이션 큰 흐름 🧭
 
-1. Next.js 프로젝트 스캐폴딩 및 포스트 복사
-   - 초기엔 `next-site` 폴더로 생성 → 점진 이전
-   - `_posts` → `content/posts`로 복사, Front Matter 유지
-2. 라우팅/렌더링
-   - `/posts/[slug]` 상세, 홈 목록 구현
-   - Giscus 댓글 연동
-3. 빌드/정적 Export
-   - `output: 'export'` + `images.unoptimized: true`
-   - GitHub Pages 배포를 염두에 둠
-4. 배포 파이프라인 전환
-   - Jekyll 워크플로우 제거, Next 정적 산출물을 `gh-pages` 브랜치로 퍼블리시
-5. 점진 정리
-   - 이미지 경로 정리, 전역 CSS/레이아웃 정리, 공통 배너 추가
+먼저 별도 폴더(`next-site`)에 Next.js 프로젝트를 띄우고, Jekyll의 `_posts`를 그대로 복사해 렌더링을 확인했다. 홈 목록과 `/posts/[slug]` 상세를 만들고, Giscus로 댓글까지 연결. 그 다음 `output: 'export'` 기반으로 GitHub Pages 파이프라인을 구성해 정적 산출물(`out/`)을 `gh-pages`로 퍼블리시하도록 바꿨다. 마지막으로 레이아웃과 전역 CSS를 정리하고, 상단에 “마이그레이션 중” 배너를 추가해 방문자에게 현재 상태를 안내했다.
 
-## 트러블슈팅 기록
+## 트러블슈팅 기록 🧯
 
-### 1) 로컬 dev 404 (src/app 무시 문제)
+처음 dev 서버를 띄웠을 때 `/`가 404를 뿜었다. 원인은 간단했다. 루트에 남아 있던 `app/` 디렉터리가 `src/app`을 가려버린 것. 잔여 폴더를 제거하고 재시작하니 말끔히 해결. 😅
 
-- 증상: `/` 404
-- 원인: 루트에 잔존 `app/` 디렉터리/루트 추론 문제로 `src/app`이 무시됨
-- 해결: 잔여 `app/` 제거, dev 재시작
+CI에선 `@giscus/react` 모듈을 못 찾는 에러가 터졌다. 의존성 추가 후 다시 푸시했고, 빌드는 통과. 댓글 위젯이 제자리로 돌아왔다. 💬
 
-### 2) `Module not found: Can't resolve '@giscus/react'`
+GitHub Pages 배포에선 환경 보호 규칙 때문에 main에서 바로 배포가 막혔다. 그래서 워크플로우를 `gh-pages` 브랜치 퍼블리시 방식으로 바꾸고(`peaceiris/actions-gh-pages`), 필요 옵션(`force_orphan: true`, `contents: write`)을 더해 문제를 우회했다. 🚦
 
-- 증상: CI에서 빌드 실패
-- 원인: 패키지 누락
-- 해결: `@giscus/react` 의존성 추가, 커밋/푸시
+이미지가 꽤 큰 편이라 push 과정에서 `HTTP 400`으로 끊기는 일이 있었다. 일시적으로 `http.postBuffer`를 늘려 전송했고, 완료 후 원복했다. (네트워크 상태나 SSH 전환도 고려 대상)
 
-### 3) Pages 환경 보호 규칙으로 배포 차단
-
-- 증상: `Branch "main" is not allowed to deploy…`
-- 원인: Pages 환경이 특정 브랜치만 허용
-- 해결: 워크플로우를 `gh-pages` 브랜치 퍼블리시 방식(peaceiris/actions-gh-pages)으로 전환. `force_orphan: true`와 `contents: write` 권한 부여
-
-### 4) 대용량 push 중 400 끊김
-
-- 증상: `HTTP 400` 전송 중 끊김
-- 원인: 대형 이미지/네트워크 상황
-- 해결: 일시적으로 `http.postBuffer` 확장 후 push → 완료 후 원복. 가능하면 SSH로 전환도 고려
-
-### 5) export 에러: `generateStaticParams()` 누락
-
-- 증상: `output: export`에서 동적 라우트가 사전생성되지 않아 실패
-- 해결: `/posts/[slug]`에 `generateStaticParams()` 구현, 모든 슬러그 사전 생성
-
-### 6) 경로 정리 후 빌드 실패 (콘텐츠 경로 변경)
-
-- 증상: src 구조로 이동 후 빌드 시 포스트를 찾지 못함
-- 원인: 로더 경로가 `content/posts`로 고정되어 있었음
-- 해결: `src/lib/posts.ts`의 경로를 `src/content/posts`로 수정
-
-### 7) 이미지가 컨테이너를 넘어감
-
-- 증상: 본문 이미지가 화면을 넘김
-- 해결: 전역 CSS에 `article img { max-width: 100%; height: auto; }` 적용
-
-### 8) 안내 배너 전역화
-
-- 요구: 홈뿐 아니라 포스트 페이지에도 마이그레이션 배너 노출
-- 조치: `app/layout.tsx` 상단에 공통 배너 추가
+가장 의미 있었던 오류는 정적 export 단계였다. `output: 'export'` 환경에선 동적 라우트를 사전에 모두 생성해야 한다. `/posts/[slug]`에 `generateStaticParams()`를 구현해 모든 슬러그를 미리 만들었고, 그 뒤로는 안정적으로 빌드가 떨어졌다. ✅
 
 ## 현재 구조
 
@@ -111,5 +62,3 @@ tsconfig.json         # paths: @/* -> src/*
 ---
 
 앞으로는 디자인을 정비하고(레이아웃, 타이포, 색상 체계) 검색/SEO/태그 페이지까지 정리해 완성도를 끌어올릴 계획이다. 이번 전환으로 개발 생산성과 확장성이 크게 좋아졌다.
-
-
