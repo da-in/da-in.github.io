@@ -1,26 +1,30 @@
 {
-  "name": "jekyll-theme-chirpy",
-  "version": "5.2.1",
-  "description": "A minimal, responsive, and powerful Jekyll theme for presenting professional writing.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
-  },
-  "author": "Cotes Chung",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
-  },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1",
-    "gulp-insert": "^0.5.0",
-    "gulp-rename": "^2.0.0",
-    "gulp-uglify": "^3.0.2",
-    "uglify-js": "^3.14.3"
+  "name": "next-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "sync:images": "rsync -a --delete ../assets/img/ public/assets/img/",
+    "dev": "pnpm run sync:images && next dev --turbopack",
+    "build": "pnpm run sync:images && next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
   },
   "dependencies": {
-    "@giscus/react": "^3.1.0"
+    "@giscus/react": "^3.1.0",
+    "gray-matter": "^4.0.3",
+    "next": "15.5.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.4",
+    "typescript": "^5"
   }
 }
