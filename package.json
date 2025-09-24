@@ -3,9 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "sync:images": "rsync -a --delete ../assets/img/ public/assets/img/",
-    "dev": "pnpm run sync:images && next dev --turbopack",
-    "build": "pnpm run sync:images && next build --turbopack",
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint"
   },
