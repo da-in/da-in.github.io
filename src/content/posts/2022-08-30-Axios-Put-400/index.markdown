@@ -1,0 +1,72 @@
+---
+layout: post
+author: dain
+title: "[React-Native] Axios Put 400 Error"
+date: 2022-08-30 10:21:00 +0900
+categories: [Error, React-Native]
+tags: [axios, put, error, content type]
+---
+
+## Axios Put Method 400 Error
+
+프로젝트에서 Axios Put 메소드를 이용한 닉네임 변경 API 요청을 아래와 같이 작성하였다.
+
+```typescript
+export async function updateNickname(params: string) {
+  const response = await client.put(`user/update`, params);
+  return response;
+}
+```
+
+그런데 다음과 같이 400 Error를 반환했다.
+
+<!-- prettier-ignore -->
+> [AxiosError: Request failed with status code 400]  
+{: .prompt-danger }
+
+body에 key-vlaue 형태가 아닌 String을 담아서 보내는 형태의 API였다.
+body에 값이 잘 안담겼나 Config를 확인해보았는데, data에 String이 잘 담겨있었다.
+
+혹시 API에 문제가 있는건 아닐까 하는 희망으로 PostMan으로 시도해보니 너무나도 잘 보내지는것.
+(언제나 문제는 내부에 있다...🥲)
+
+## Config
+
+![config image](./assets/0830_config.png)
+_JSON Parser로 확인한 config_
+
+key와 value의 쌍의 형태일 경우에는 200 Requset Success가 반환됐다. (ex `{"nickname": "dain"}`)
+~~하지만 닉네임이 `{"nickname": "dain"}` 자체로 등록되어 잘못된 방법.~~
+
+위와 같이 key-value 쌍의 형태일 때에는 400 Bad Request가 뜨지 않는다는 점과, 그냥 문자열로 보냈을 때 body(data)에 잘 들어갔음에도 인식을 못하는 것으로 보아 값을 인식하는 타입의 문제일 것이라고 생각했다. 위에서 확인되는 Content-Type `application/x-www-form-urlencoded` 를 확인해보았다.
+
+## Content-Type : application/x-www-form-urlencoded
+
+mdn web docs - POST | [https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+Mozilla Developer Network(MDN)에는 웹표준과 모질라 프로젝트에 관한 개발 문서가 소개되어있다.
+여기에 application/x-www-form-urlencoded 에 관한 설명이 있다.
+
+먼저 Header의 Content-Type은 HTTP POST나 PUT method가 보내는 body의 data type를 가리킨다.
+`application/x-www-form-urlencoded`는 이 POST 메소드에서 주로 사용되는 Content-Type 중 하나로 다음과 같이 소개되어있다.
+
+> application/x-www-form-urlencoded: the keys and values are encoded in `key-value tuples` separated by '&', with a '=' between the key and the value. Non-alphanumeric characters in both keys and values are percent encoded: this is the reason why this type is not suitable to use with binary data (use multipart/form-data instead)
+> {: .prompt-info }
+
+키와 값이 `&key=value`와 같은 형태의 키-값 튜플로 인코딩된다는 내용으로, key-value 형태가 아닌 문자열을 보내기에 적합하지 않음을 알 수 있다.
+
+## Solution
+
+Header의 Content-Type을 text/plain 으로 바꾸어주니 정상작동하였다. 🙂
+
+```typescript
+export async function updateNickname(params: string) {
+  const response = await client.put(`user/update`, params, {
+    headers: { "Content-Type": "text/plain" },
+  });
+  return response;
+}
+```
+
+## Reference
+
+🙂 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
