@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","portfolio-design",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","portfolio-design","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","portfolio-design","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:T123d,<h2>2일차, 포트폴리오 디자인 🙂</h2>
+<p>두구두구. 사실상 포트폴리오를 직접 만드는 과정에서 디자인이 제일 중요하다고 본다.
+디자인이 깔끔하게 나오지 않는다면, 노션 등의 다른 플랫폼을 안쓰느니만 못할 것이기 때문이다.</p>
+<p>비장한 각오로 Figma를 켜고 작업을 진행했다.</p>
+<h2>Portfolio Design</h2>
+<p>포트폴리오의 전체 모습은 아래 Figma 링크로 확인할 수 있다.<br>
+<a href="https://www.figma.com/file/YvNRIQcmVTfUJaFiffhHcR/Dain-Portfolio?node-id=0%3A1">🔗 https://www.figma.com/file/YvNRIQcmVTfUJaFiffhHcR/Dain-Portfolio?node-id=0%3A1</a></p>
+<p>각 부분들을 살펴보도록 하자.</p>
+<h2>Title &#x26; Side Navigation</h2>
+<p>먼저, 나는 평소에 <strong>흑백</strong>과 <strong>정갈한 느낌</strong> 그리고 <strong>손글씨</strong>를 좋아했다. 그래서 전반적으로 그런 느낌들을 살리고 싶었다.</p>
+<p>서비스의 로고 까지는 아니지만, 내 이름 손글씨 세 글자를 아이덴티티로 가져가고 싶었다. Hand Writing 폰트를 사용하기보다는 진짜 내 글씨를 담고 싶어서, 손글씨를 쓴 후 일러스트레이터로 패스를 따서 SVG 파일로 변환해 사용하였다. 좌측의 네비게이션과 본문 최상단 타이틀영역에 손글씨 이름을 넣어 고딕(Noto Sans KR)의 다른 텍스트들 사이에서 내 이름이 강조되도록 했다.</p>
+<p>추후 구현할 때에 SVG파일로 글씨 획을 써내려가는 애니메이션 효과를 넣어 지루하지 않게 할 계획이다.</p>
+<p>디자인 시안 상에는 없지만 후에 프로젝트 영역들을 채우면 포트폴리오 스크롤의 길이가 매우 길어질 것 같았다. 그래서 쉽게 영역들을 이동할 수 있도록 좌측에 <strong>네비게이션</strong>을 두었다. 스크롤 시에도 고정된 위치에서 보여지도록 구상했고, 현재 영역을 진하게 그리고 화살표로 표시했다.</p>
+<p><img src="/posts/2022-09-29-Portfolio-Design/assets/0929_Portfolio_Title.png" alt="Portfolio Title Design">
+<em>Portfolio Title Design</em></p>
+<h2>Contact &#x26; Skill</h2>
+<p>소제목들은 타이틀로 이름 손글씨를 가져간 것과 비슷한 느낌을 주기 위해, 웹폰트 중 Hand Writing 카테고리 인 Caveat를 사용했다.</p>
+<p>Contact는 이메일, 깃허브, 블로그, 인스타그램 네가지를 나열했다.</p>
+<p>Skill은 언어, 프론트엔드, 백엔드, 디자인 그리고 기타 툴을 태그형태로 분류하여 적었다. 태그를 사용한 이유는 추후 프로젝트 영역에서 각 프로젝트에 사용한 기술을 적을 때 동일한 디자인을 적용하여 바로 기술임을 직관적으로 알 수 있도록 하기 위함이다.</p>
+<p><img src="/posts/2022-09-29-Portfolio-Design/assets/0929_Portfolio_Skill.png" alt="Portfolio Skill Design">
+<em>Portfolio Title Design</em></p>
+<h2>Project</h2>
+<p>다음은 프로젝트 영역이다. 구현하면서 내용이 채워지고 다채로워질 영역이다. 다른 영역들은 React로 평범하게 구현하되, '기여한 점'의 부분은 프로젝트에 따라 그 구조가 매우 다양할 것으로 생각되 Markdown Renderer를 이용하여 자유롭게 기입할 수 있도록 했다.</p>
+<p>위의 Skill에서 사용한 태그 디자인을 사용한 기술에도 동일하게 적용했다.</p>
+<p><img src="/posts/2022-09-29-Portfolio-Design/assets/0929_Portfolio_Project.png" alt="Portfolio Project Design">
+<em>Portfolio Title Design</em></p>
+<h2>Timeline</h2>
+<p>다음으로 타임라인이다. 아무래도 과거보다는 최근에 한 개발을 더 강조하고 싶기 때문에 시간 역순으로 구성하였다. 이 곳에는 주요 대외활동 및 교육 내용과 각종 대회 수상 내역을 기입하게 될 예정이다.</p>
+<p><img src="/posts/2022-09-29-Portfolio-Design/assets/0929_Portfolio_Timeline.png" alt="Portfolio Timeline Design">
+<em>Portfolio Title Design</em></p>
+<h2>Footer</h2>
+<p>마지막으로 웹이라면 빠질 수 없는 Footer도 넣었다.</p>
+<p><img src="/posts/2022-09-29-Portfolio-Design/assets/0929_Portfolio_Footer.png" alt="Portfolio Footer Design">
+<em>Portfolio Title Design</em></p>
+<p>디자인을 완료했다! 개발하면서도 조금씩 수정해나갈 것 같다.🙂</p>
+<p>Figma 디자인 상으로는 전체적으로 너무 흑백이라 단조로워보일 수 있지만 인터랙티브한 효과들과, 애니메이션 그리고 프로젝트에 다양한 서비스들의 컬러가 조합되면 포트폴리오가 다채로워질 것이라 예상해본다.</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[Portfolio] 2일차, 포트폴리오 디자인"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

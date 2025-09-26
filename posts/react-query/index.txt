@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","react-query",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","react-query","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","react-query","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:T8cd,<h2>React-Query 도입 전 간단 정리</h2>
+<p>프로젝트에서 API 연결 작업에 앞서 API 상태관리 라이브러리 도입 필요성을 인지하게되었다. 다음 라이브러리들 중 어느것을 도입하는 것이 좋을지 고민했다.</p>
+<ul>
+<li>redux</li>
+<li>react-query</li>
+<li>redux → rtk-query</li>
+</ul>
+<h2>React-Query 검색</h2>
+<p>React-Query에 관하여 검색을 해 본 결과, <strong>서버 사이드의 데이터 위주</strong>의 서비스라면 React-Query를 도입하는 것이 좋다는 평이 많았다. 실제로 redux-saga를 사용중이던 팀들에서 react-query로 리팩토링 하는 케이스를 많이 찾아볼 수 있었다.</p>
+<hr>
+<h2>자문</h2>
+<p>항상 배울게 정말 많은 동기 개발자와 선배님께 자문을 구했다.</p>
+<p><strong>개발자 A</strong>👍</p>
+<blockquote>
+<p>상태관리를 할거면 redux를 사용하고, 데이터 패칭을 관리할거면 리액트 쿼리. 프로젝트에서는 목적에 따라 모두 사용하면 될 듯하다.</p>
+</blockquote>
+<blockquote>
+<p>redux도 rtk-query가 생겼다. 이미 redux 가 적용된 프로젝트에서 추가적인 설치 없이 이용할 수 있다는 점에서 rtk-query도 생각해볼 법 하다.</p>
+</blockquote>
+<p><strong>개발자 B</strong>👍</p>
+<blockquote>
+<p>본래 라이브러리 취지로만 보면 react-query 는 서버-클라 사이에서 데이터를 불러오는 과정에서 필요한 loading 상태 관리, 캐시관리가 주 목적이라고 보시면 될 것 같다.</p>
+</blockquote>
+<blockquote>
+<p>전역으로 사용해야하는 유저데이터 같은 걸 캐시시간을 조정해서 전역 state store 처럼 사용할수는 있을텐데 (<em>redux만으로 요청 상태를 관리하는 경우를 말하시는 것 같다.</em>) 그렇게 사용하면 약간 남용/오용 한다는 느낌은 있습니다.</p>
+</blockquote>
+<blockquote>
+<p>http fetch 를 호출/캐싱 -> react-query<br>
+전역 상태관리 -> redux, react context<br>
+가 이상적으로 보입니다.</p>
+</blockquote>
+<p>나도 저렇게 조언해줄 수 있는 개발자가 되야겠다.</p>
+<hr>
+<h2>결론</h2>
+<p>API 상태관리 react-query<br>
+전역 상태관리 React Context or Redux</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] React-Query 도입"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

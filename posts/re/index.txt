@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","re",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","re","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","re","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T19a3,<h2>✏️정규식 뽀개기</h2>
+<h2>1. 정규표현식(Regular Expression)</h2>
+<p>정규표현식(Regular Expression)은 정규식 이라고도 한다. 특정한 규칙을 가진 문자열의 집합을 표현하는 데 사용하는 형식 언어이다.</p>
+<p>크롤링 데이터 파싱, 머신러딩 데이터 전처리 등을 진행하며 다루었던 기억이 있는데, 회원가입 시 받는 다양한 정보들의 형식을 체크하는 데에도 사용할 수 있다니.
+정규표현식은 정말 여러 분야에서 유용하게 사용되고 있는 것 같다. 👍</p>
+<p>정규식을 처음 접한다면 굉장히 눈에 잘 들어오지도 않고, 어렵게 느껴지기 마련이다.</p>
+<p>인터넷에 아이디 정규식, 비밀번호 정규식 등을 검색하면 정말 많은 예시들이 나오지만.
+개발을 하며 모르는 코드를 가져다 쓰는 것은 폭탄을 심는 것과 같기에, 정규표현식 핵심을 다시 한 번 정리하고 사용하고자 한다.</p>
+<h2>2. 정규 표현식 문법 정리</h2>
+<h3>a. 정규표현식 생성</h3>
+<p>정규표현식은 '/'로 감싸거나 RegExp의 생성자를 호출하여 생성할 수 있다.</p>
+<pre><code>const re=/abc/
+const re=new RegExp('abc')
+</code></pre>
+<h3>b. 패턴 작성</h3>
+<p>아래는 <strong>단순 패턴</strong>이다. 문자 그대로 정확히 "abc"와 정확히 같아야 일치한다.</p>
+<pre><code>const re=/abc/
+</code></pre>
+<p><strong>특수문자</strong> * 은 앞의 문자기 0번 이상 반복되는 패턴이다.
+ac, abc, abbc, abbbc 모두 이 패턴과 일치한다.<br>
+(추가 필요)</p>
+<pre><code>const re=/ab*c/
+</code></pre>
+<p><strong>이스케이핑</strong>
+패턴을 정의할 때 특수문자를 사용하다보니, 해당 특수문자와 일치하는 패턴을 작성할 때에는 이스케이프 문자를 사용하여야 한다. 역슬래시 ''를 사용한다. 다음 패턴은 *가 반복의 의미가 아니게 되어 'ab*c'라는 문자와 일치한다.</p>
+<pre><code>const re=/ab\*c/
+</code></pre>
+<p><strong>괄호</strong><br>
+반복과 그룹 등에서 사용된다<br>
+(추가 필요)</p>
+<h2>3. 정규표현식 사용법</h2>
+<p>이렇게 만든 정규표현식은 RegExp 객체로서 <code>exec()</code>와 <code>test()</code> 메소드를 사용할 수 있고, String의 메소드 <code>match()</code>, <code>replace()</code>, <code>search()</code>, <code>split()</code>와도 사용할 수 있다.</p>
+<pre><code>const re=/abc/
+value='target-value'
+
+&#x3C;!-- RegExt Method -->
+re.text(value)
+re.exec(value)
+
+&#x3C;!-- String Method -->
+value.match(re)
+value.search(re)
+...
+</code></pre>
+<p>간략히 설명하면 <code>exec()</code>는 일치 정보를 반환하고, <code>text()</code>는 일치 여부를 <code>boolean</code> 형태로 반환한다.
+기존의 String 메소드의 인자로 사용하여 일치하는 패턴들을 치환, 분할, 검색 할 수 있다.</p>
+<h2>4. 회원가입 정규표현식</h2>
+<p>POOL React Native 프로젝트 회원가입에서 사용한 정규표현식 예제도 정리한다.
+validation을 체크하는 함수들을 하나의 파일로 작성하여, 회원가입시 체크할 때 import 하여 사용하였다.</p>
+<h3>a. 아이디</h3>
+<p>아이디는 영문소문자, 숫자만 사용 가능하며 최소 3자 ~ 최대 20자를 입력하도록 설정했다.</p>
+<p>조건 불만족시 TextInput 영역 하단에 어떤 조건이 맞지 않는지 경고 문구를 띄워주는데, 알려줄 조건이 너무 많았다. (알파벳 대문자를 사용한 경우, 한글을 사용한 경우, 특수문자를 사용한 경우 등등...)‼️</p>
+<p>그래서 경고의 가짓수를 줄이기 위해, 아이디의 경우는 ReplaceKorean을 두어서 한글은 입력조차 되지 않도록 처리했다. (어이쿠 뒤늦게 알파벳 대문자도 거르도록 작성했으니 함수 명을 수정해두어야겠다!..ㅎ😆)</p>
+<pre><code>export function CheckUserName(value: string) {
+  const re = /^(?=.*[a-z0-9])[a-z0-9]{3,20}$/;
+  return re.test(value);
+}
+
+export function ReplaceKorean(value: string) {
+  const re = /[가-힣ㄱ-ㅎㅏ-ㅣA-Z]/g;
+  return value.replace(re, '');
+}
+</code></pre>
+<h3>b. 닉네임</h3>
+<p>닉네임은 영문, 국문, 숫자, 특수문자(언더바_)만 사용가능, 최소 3자 ~ 최대 20자로 설정했다. 아이디보다 뭔가 복잡해보이지만, 사용 가능한게 많아서 그렇다. 사실상 예외처리는 아이디보다 덜 해도 돼서 편하다.</p>
+<pre><code>export function CheckNickName(value: string) {
+  const re = /^(?=.*[a-zA-Z0-9가-힣_])[a-zA-Z0-9가-힣_]{3,20}$/;
+  return re.test(value);
+}
+</code></pre>
+<h3>c. 전화번호</h3>
+<p>전화번호는 슬래시 없이 11자리 숫자로 설정했다.
+정규식을 보면 시작은 <code>01</code> 로 시작해야하고 그 다음에는 <code>0, 1, 6, 7, 8, 9</code> 중에 하나가 와야한다. 그 다음은 숫자 3자리 혹은 4자리가 올 수 있고, 마지막에는 숫자 4자리가 오는 정규표현식이다.</p>
+<p>시작 번호 <code>010</code>, <code>011</code> 까지도 익숙한데 <code>016</code> ~ <code>019</code>는 낯설다😶</p>
+<pre><code>export function CheckPhoneNumber(value: string) {
+  const re = /^01(?:0|1|[6-9])(?:\d{3}|\d{4})\d{4}$/;
+  return re.test(value);
+}
+</code></pre>
+<h3>d. 비밀번호</h3>
+<p>비밀번호는 8자 이상, 알파벳, 숫자, 특수문자 각 1개 이상 포함하도록 설정했다.
+특수문자는 아래 입력된 <code>@$!%*#?&#x26;</code> 만 가능하다.</p>
+<pre><code>export function CheckPassword(value: string) {
+  const re = /^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&#x26;])[A-Za-z\d@$!%*#?&#x26;]/;
+  return re.test(value);
+}
+</code></pre>
+<h3>e. 생년월일</h3>
+<p>생년월일은 6자리로 입력받았고, 년도, 월, 일 기준에 맞추어 정규식을 작성한다.</p>
+<p>년도는 <code>0~9</code>의 숫자 두개로 이루어지고, 월은 십의자리가 <code>0</code>이고 일의자리가 <code>1~9</code> 이거나, 십의자리가 <code>1</code>이고 일의자리가 <code>0~2</code>인경우로 이루어진다. 날짜도 그렇게 십의자리가 <code>1,2,3</code>일 경우에 맞추어 작성해준다.</p>
+<p>이 정규식의 문제점은 일수가 적은 2월의 경우 31일이 입력이 가능하다는 점이다. 여유가 될 때 보완해보아야겠다!😆</p>
+<pre><code>export function CheckBirthday(value: string) {
+  const re = /([0-9]{2}(0[1-9]|1[0-2])(0[1-9]|[1,2][0-9]|3[0,1]))/;
+  return re.test(value);
+}
+</code></pre>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] 회원가입을 위한 Re(Regular Expression) 정규표현식 정리"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

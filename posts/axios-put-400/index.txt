@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","axios-put-400",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","axios-put-400","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","axios-put-400","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:Td57,<h2>Axios Put Method 400 Error</h2>
+<p>프로젝트에서 Axios Put 메소드를 이용한 닉네임 변경 API 요청을 아래와 같이 작성하였다.</p>
+<pre><code class="language-typescript">export async function updateNickname(params: string) {
+  const response = await client.put(`user/update`, params);
+  return response;
+}
+</code></pre>
+<p>그런데 다음과 같이 400 Error를 반환했다.</p>
+<blockquote>
+<p>[AxiosError: Request failed with status code 400]<br>
+{: .prompt-danger }</p>
+</blockquote>
+<p>body에 key-vlaue 형태가 아닌 String을 담아서 보내는 형태의 API였다.
+body에 값이 잘 안담겼나 Config를 확인해보았는데, data에 String이 잘 담겨있었다.</p>
+<p>혹시 API에 문제가 있는건 아닐까 하는 희망으로 PostMan으로 시도해보니 너무나도 잘 보내지는것.
+(언제나 문제는 내부에 있다...🥲)</p>
+<h2>Config</h2>
+<p><img src="/posts/2022-08-30-Axios-Put-400/assets/0830_config.png" alt="config image">
+<em>JSON Parser로 확인한 config</em></p>
+<p>key와 value의 쌍의 형태일 경우에는 200 Requset Success가 반환됐다. (ex <code>{"nickname": "dain"}</code>)
+~~하지만 닉네임이 <code>{"nickname": "dain"}</code> 자체로 등록되어 잘못된 방법.~~</p>
+<p>위와 같이 key-value 쌍의 형태일 때에는 400 Bad Request가 뜨지 않는다는 점과, 그냥 문자열로 보냈을 때 body(data)에 잘 들어갔음에도 인식을 못하는 것으로 보아 값을 인식하는 타입의 문제일 것이라고 생각했다. 위에서 확인되는 Content-Type <code>application/x-www-form-urlencoded</code> 를 확인해보았다.</p>
+<h2>Content-Type : application/x-www-form-urlencoded</h2>
+<p>mdn web docs - POST | <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST">https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST</a>
+Mozilla Developer Network(MDN)에는 웹표준과 모질라 프로젝트에 관한 개발 문서가 소개되어있다.
+여기에 application/x-www-form-urlencoded 에 관한 설명이 있다.</p>
+<p>먼저 Header의 Content-Type은 HTTP POST나 PUT method가 보내는 body의 data type를 가리킨다.
+<code>application/x-www-form-urlencoded</code>는 이 POST 메소드에서 주로 사용되는 Content-Type 중 하나로 다음과 같이 소개되어있다.</p>
+<blockquote>
+<p>application/x-www-form-urlencoded: the keys and values are encoded in <code>key-value tuples</code> separated by '&#x26;', with a '=' between the key and the value. Non-alphanumeric characters in both keys and values are percent encoded: this is the reason why this type is not suitable to use with binary data (use multipart/form-data instead)
+{: .prompt-info }</p>
+</blockquote>
+<p>키와 값이 <code>&#x26;key=value</code>와 같은 형태의 키-값 튜플로 인코딩된다는 내용으로, key-value 형태가 아닌 문자열을 보내기에 적합하지 않음을 알 수 있다.</p>
+<h2>Solution</h2>
+<p>Header의 Content-Type을 text/plain 으로 바꾸어주니 정상작동하였다. 🙂</p>
+<pre><code class="language-typescript">export async function updateNickname(params: string) {
+  const response = await client.put(`user/update`, params, {
+    headers: { "Content-Type": "text/plain" },
+  });
+  return response;
+}
+</code></pre>
+<h2>Reference</h2>
+<p>🙂 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] Axios Put 400 Error"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","react-native-keytool-error",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","react-native-keytool-error","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","react-native-keytool-error","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:T661,<h2>React Native 앱 Firebase 등록 시 입력값 "디버그 서명 인증서 SHA-1".</h2>
+<p>🔥React Native 앱을 Firebase에 등록하는 과정에서 패키지 이름, 앱 닉네임 그리고 "디버그 서명 인증서 SHA-1"을 입력하라고 한다.</p>
+<p>디버그 서명 인증서는 <code>keytool</code> 명령어를 통해 확인할 수 있다.</p>
+<pre><code>keytool -genkey -list -v -alias androiddebugkey -keystore ./android/app/debug.keystore
+</code></pre>
+<p>그러면 비밀번호를 물어보는데 공백상태로 엔터를 누르면 된다.</p>
+<p>여기서 한가지 문제가 있는데, OPENJDK 8 이상의 keytool에서는 <code>MD5</code> 지문 없이 <code>SHA1</code>과 <code>SHA256</code>만 출력해주는데, 한국어 설명에는 반영되지 않아서 <code>MD5</code> 출력란이 남아있다. 그래서 한칸씩 밀려서 <code>MD5</code>란에 <code>SHA1</code>이, <code>SHA1</code>란에 <code>SHA256</code>이 잘못 출력되는 것으로 보인다.</p>
+<p>이를 잘 출력하기 위해서는 명령어에 <code>-J-Duser.language=en</code> 옵션을 주어 영문으로 출력하면 된다.</p>
+<pre><code>keytool -J-Duser.language=en -genkey -list -v -alias androiddebugkey -keystore ./android/app/debug.keystore
+</code></pre>
+<h2>🚨잘못된 옵션 : .language=en</h2>
+<p>그런데 이 명령어를 입력하면 "잘못된 옵션 : .language=en" 이라고 뜬다.<br>
+👍다음과 같이 따옴표를 붙여 실행하면 잘 인식했다.</p>
+<pre><code>keytool -J"-Duser.language=en" -genkey -list -v -alias androiddebugkey -keystore ./android/app/debug.keystore
+</code></pre>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] Firebase 앱 추가 디버그 서명 인증서 SHA-1 (+ 잘못된 옵션 : .language=en)"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

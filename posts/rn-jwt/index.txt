@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","rn-jwt",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","rn-jwt","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rn-jwt","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:Tcb9,<h2>😱JWT AccessToken &#x26; RefreshToken 을 이용한 인증</h2>
+<p>살려주세요.</p>
+<p>JWT를 이용한 인증 구현 가능에서 여러 선택지들을 마주하고, 방식을 결정해가는 과정을 정리하려 한다.
+인터넷에 검색했을 때 포스트 마다 다른 방식을 사용해서 마음이 복잡했기에...🙄</p>
+<h3>User Data와 Token의 업데이트 주기에 관한 고민</h3>
+<p>= 하나로 묶자!</p>
+<h3>각 요소들의 저장 위치</h3>
+<ul>
+<li>Access Token</li>
+<li>Refresh Token</li>
+<li>User
+= Access Token과 Refresh Token은 Local Storage에, User data는 redux state로!
+Access Token도 휘발시켜야하나 했는데, 현재는 Refresh 요청을 보낼 때에도 Access Token이 필요한 상황이라 일단은 Local Storage에 저장!
+검색 했을 때 내부 객체로 두거나, 쿠키 등에 담기도 하는데, 보안상 취약한지 확인 후 업데이트가 필요할 것으로 보임.</li>
+</ul>
+<h3>refresh 시점. 일단 보내고 에러가 났을 때? 아니면 미리미리?</h3>
+<p>가능한 방법 1 요청을 보냈을 때 만료되었으면 refresh 후 재요청
+가능한 방법 2 요청을 보내기 전 토큰의 만료 여부 체크</p>
+<h3>앱 초기 진입시 가능한 세가지 방법</h3>
+<p>가능한 방법 1 아무 검사를 안하고, 이후 요청에서 에러가 났을때 업데이트 되도록 하기 -> 초기에 일단 MainTab으로 진입한 이후 다시 로그인 화면으로 이동하는 부자연스러움
+가능한 방법 2 아무 검사를 안하고, 일단은 Refresh -> 여기서 에러가 나면 refresh 만료 혹은 토큰 문제로 로그아웃, 에러가 없이 refresh 되면 AccessToken 업데이트 됨
+가능한 방법 3 검사를 해서 Refresh Token 만료됐으면 로그인 화면으로 보내기. 유요하면 Access 토큰을 일단 적용. Access Token 만료는 뒤 요청 에러에서.
+가능한 방법 3 검사를 해서 Refresh Token 만료됐으면 로그인 화면으로 보내기. 유요하면 Access 토큰도 만료 체크. 만료되었으면 refresh.</p>
+<h2>최종 로직</h2>
+<h2>Login &#x26; SignUp</h2>
+<h3>1. Access Token과 Refresh Token 을 Local Storage에 저장, User 정보 dispatch(), ApplyToken Default Header.</h3>
+<p>만료 시간을 미리 추출해서 저장하는지, 검사 할 때 마다 복호화하는지는 Youtube 참고해서 확인하기.
+이것까지는 해결했고</p>
+<h2>App 진입 시</h2>
+<h3>1. Refresh Token decode, 만료되었으면 local storage clear, return;</h3>
+<p>redux middle ware를 사용하면? 아 지금 API 상태관리를 React-Query를 쓰고 있구나
+axios interceptor를 사용해서 매 요청 전 체크를 하면?!</p>
+<h3>2. Refresh Token decode, 유효하면 AccessToken을 decode, Uese 정보 dispatch(), ApplyToken Default Header.</h3>
+<p>refresh 하기</p>
+<h2>App 사용 중</h2>
+<h3>1. 모든 요청에서 401 에러 발생시 : Access Token이 만료된 것.</h3>
+<p>refresh API 호출 : 성공시 Local Storage에 저장, User 정보 dispatch(), ApplyToken Default Header.</p>
+<h3>2. refresh API에서 401 Error 발생시 : Refresh Token이 만료된 것.</h3>
+<p>로그아웃 시킨다.</p>
+<p>참고 유튜브
+https://www.youtube.com/watch?v=nI8PYZNFtac</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] JWT 를 이용한 회원 인증"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

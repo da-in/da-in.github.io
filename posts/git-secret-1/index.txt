@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/156405ac30273373.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"PcZEpXwsny7OLsUgrwOaK","p":"","c":["","posts","git-secret-1",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","git-secret-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","git-secret-1","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/156405ac30273373.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T1877,<p>아우 참으로 곤란한 상황이로다...🤔</p>
+<p><code>Github Page</code>로 무료 호스팅을 할 수 있는 대신 해당 레퍼지토리를 <code>Public</code>으로 공개해야한다.<br>
+뭐... 나의 ~~하울의 움직이는 성 같은~~ 코드를 공개하는 것은 ~~조금 부끄럽고 않~~ 괜찮지만...</p>
+<p>소셜로그인에 필요한 <strong>카카오 로그인 API 토큰</strong>은 올리면 보안상 취약하잖습니까.
+그리고 나를 더 슬프게 하는 건 이걸 이미 <strong>푸시 하고 나서</strong> 깨달았다는 것...😱
+(여러분은 부디 푸시 하기전에 이 글을 보고 적용하시길...)</p>
+<p>그래서 정리할 방법은 다음과 같다.</p>
+<ol>
+<li>레포지토리에 중요한 정보를 암호화하여 올리고 배포할 때 복호화하여 사용하는 방법.</li>
+<li>이미 History(커밋 내역)에 올라가버린 중요한 정보를 삭제하는 방법.</li>
+</ol>
+<p>시-작🔥</p>
+<h2>1. 중요한 정보를 암호화하여 올리고 배포할 때 복호화하여 사용하는 방법 (Feat. Git Secret) 🔐</h2>
+<p>나는 Git Workflow를 사용하여 CI/CD를 적용했기 때문에, 정보를 암호화 하는 것 뿐 아니라, 배포시 자동 복호화하여 사용할 수 있어야했다.</p>
+<p>먼저 전체적인 흐름을 정리해보자.</p>
+<ol>
+<li>원하는 정보를 GPG로 암호화한다.(복호화 키 생성)</li>
+<li>레포지토리에 암호화한 파일을 올린다.</li>
+<li>Github Secret에 복호화 키를 등록한다.</li>
+<li>CI/CD 과정에서 Secret을 이용하여 파일을 복호화한다.</li>
+</ol>
+<p>이렇게 정리하니 정말 간단하지 않나요!👍</p>
+<h3>1. 원하는 정보를 GPG로 암호화한다. (복호화 키 생성)</h3>
+<p><strong>GPG(GNU Privacy Guard)</strong> 는 RSA 방식을 사용하는 무료 암호화 프로그램입니다. CI/CD 과정에서 git-secret을 사용할 예정인데 git-secret은 파일을 암호화할 때 gpg를 사용한다고 명시되어있습니다.<br>
+git-secret | <a href="https://git-secret.io/">https://git-secret.io/</a></p>
+<p>찾아보다 보니 GPG는 깃허브에서 커밋에 대한 서명에도 사용되었습니다! 인증된 커밋을 하고싶다면 아래 링크를 통해 살펴보셔도 좋을 것 같습니다!<br>
+Git Docs - Managing Comit Signature Verification | <a href="https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification">https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification</a></p>
+<p>먼저 GPG를 설치합니다. <code>brew</code>, <code>apt</code> 등을 통해 설치할 수 있는데 윈도우는 사이트에서 다운로드 합니다.<br>
+<a href="https://gnupg.org/download/">https://gnupg.org/download/</a> 에 접속해서 스크롤을 내리면 윈도우 버전인 <code>Gpg4win</code> 이 보입니다. 다운로드 후 설치해줍니다.</p>
+<p><img src="/posts/2022-11-26-Git-Secret-1/assets/1126_gpg.png" alt="GPG Download Site">
+<em>Download Gpg4win</em></p>
+<pre><code class="language-terminal">// 설치 확인
+gpg --version
+// AES256 파일 암호화
+gpg --symmetric --cipher-algo AES256 .\src\api\oauth.ts
+</code></pre>
+<p>위는 oauth.ts 라는 파일을 암호화 하는 예시입니다. 위 명령어를 입력하면 아래와 같이 Passphrase를 입력하는 창이 나옵니다. 이 Passphrase를 후에 사용하게됩니다. 잘 기록해둡니다.</p>
+<p><img src="/posts/2022-11-26-Git-Secret-1/assets/1126_passphrase.png" alt="GPG Download Site">
+<em>passphrase</em></p>
+<p>입력을 완료하면 <code>파일이름.gpg</code> (저의 경우 oauth.ts.gpg)라는 암호화된 파일이 생성됩니다!</p>
+<h3>2. 레포지토리에 암호화한 파일을 올린다.</h3>
+<p>암호화된 파일을 깃허브에 올려줍니다.</p>
+<pre><code class="language-terminal">git add .\src\api\oauth.ts.gpg
+</code></pre>
+<p>만약 (저처럼) 이미 원본 파일이 원격 레포지토리에 올라간 상태라면 그 파일을 삭제하고 다시 올라가지 않도록 <code>.gitignore</code> 에 추가해주시면 되겠습니다.</p>
+<pre><code class="language-terminal">// 캐시된 파일 삭제
+git rm --cached .\src\api\oauth.ts
+</code></pre>
+<p>커밋하고 푸시해서 복호화된 파일이 잘 올라갔는지 확인해주세요!🙂</p>
+<h3>3. Github Secret에 복호화 키를 등록한다.</h3>
+<p>앞서 파일을 암호화 할 때 사용했던 비밀번호를 깃허브에서 Secret으로 등록합니다. 아래 화면(Settings > Secrets > Actions)에서 New Repository Secret 버튼을 눌러 비밀번호를 입력해주면 됩니다. 저는 비밀번호의 이름을 <code>PASS_PHRASE</code>로 지정했습니다.</p>
+<p><img src="/posts/2022-11-26-Git-Secret-1/assets/1126_secret.png" alt="Github">
+<em>Add Secret</em></p>
+<h3>4. CI/CD 과정에서 Secret을 이용하여 파일을 복호화한다.</h3>
+<p>이제 마지막으로 Git Workflow CI/CD 과정에 복호화 과정을 추가합니다! 아래의 예시는 PASS_PHRASE로 앞에서 생성한 비밀번호 <code>secrets.PASS_PHRASE</code>를 불러옵니다. 그리고
+<code>oauth.ts.gpg</code> 파일을 복호화 하여 <code>oauth.ts</code>로 저장합니다.</p>
+<pre><code class="language-yml">- name: decrypt file
+  run: gpg --quiet --batch --yes --decrypt --passphrase="$PASS_PHRASE" --output src/api/oauth.ts src/api/oauth.ts.gpg
+  env:
+    PASS_PHRASE: ${{ secrets.PASS_PHRASE }}
+</code></pre>
+<p>🔥주의! 보안상 workflow 실행시 prompt에 secret 및 복호화된 내용이 출력되지 않도록 확인해주세요!</p>
+<p>이렇게 하면 CI 과정에서 해당 파일을 복호화 한 후 배포할 사이트를 빌드하게됩니다!</p>
+<h2>2. History(커밋 내역)에 올라간 정보를 삭제하는 방법 🔥</h2>
+<p>은 글이 길어져서 다음 포스트에서 정리하도록 하겠습니다!🙂</p>
+<p>🐢 프로젝트 전체 코드 | <a href="https://github.com/roundshoulder/cs-letter-frontend">https://github.com/roundshoulder/cs-letter-frontend</a></p>
+<p>👍 배포한 서비스 (모바일 웹) | <a href="https://chosung-letter.com/">https://chosung-letter.com/</a></p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[Project] Git Secret을 이용해 중요한 정보 가리기 PART 1"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
