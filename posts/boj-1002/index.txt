@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","boj-1002",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","boj-1002","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","boj-1002","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:T9fb,<p>고등학교 때 최애 과목이 확률과 통계, 기하와 벡터였던 나... 개발자가 되려는 복선이었을지도...?🤔
+백준 1002번 터렛은 고등학교 때 추억이 새록새록 떠오르는 문제다.</p>
+<p>중점의 좌표와 거리가 주어져 적이 존재하는 위치를 원으로 나타낼 수 있고, 두 원의 접점이 적이 있을 수 있는 좌표이다.
+그래서 이 문제는 두 원의 접점의 수를 구하는 문제이다.(두근)🤭</p>
+<p>두 원의 중점사이의 거리와 접점 개수의 관계를 그림으로 나타내면 아래와 같다.<br>
+r1, r2는 각각 두 원의 반지름을 나타낸다.</p>
+<p><img src="/posts/2022-10-22-BOJ-1002/assets/1022_circle.png" alt="Portfolio Project Design">
+<em>두 원의 중점사이의 거리와 접점 개수의 관계</em></p>
+<p>그리고 문제에서 말하는, 적이 있을곳이 무수히 많은 경우는 두 원이 완전히 포개어지는 경우를 말한다. 이 모든 경우의 수를 정리하면 아래와 같다.</p>
+<ol>
+<li>중점사이의 거리가 0이고 r1==r2 이면 두 원은 일치(무한개)</li>
+<li>중점사이의 거리가 r1-r2 또는 r1+r2 이면 두 원은 외/내접(1개)</li>
+<li>중점사이의 거리가 r1-r2 보다는 크고 r1+r2 보다는 작다면 두 점에서 만남(2개)</li>
+<li>그 외에는 만나지 않는다. (0개)</li>
+</ol>
+<p>그리고 중점사이의 거리를 아래와 같이 구하게되는데, 좌표의 차를 제곱하는 형태이므로 양수 음수를 고려하지 않아도 된다.</p>
+<p>$$ {dist=\sqrt{(x1-x2)^2+(y1-y2)^2}} $$</p>
+<p>루트 계산이 번거롭기 때문에, 중점사이의 거리와 비교하려는 값 모두 제곱해서 사용했다.</p>
+<p>그래서 아래는 결과 코드이다. BOJ Node.js 제출 통과했다!</p>
+<pre><code class="language-javascript">// BOJ 값 입력 코드
+// let input = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n')
+input = ["3", "0 0 13 40 0 37", "0 0 3 0 7 4", "1 1 1 1 1 5"];
+input.splice(0, 1);
+let x1, y1, r1, x2, y2, r2, dist;
+
+for (data of input) {
+  [x1, y1, r1, x2, y2, r2] = data.split(" ").map(Number);
+  dist = (x1 - x2) ** 2 + (y1 - y2) ** 2;
+  if (dist == 0 &#x26;&#x26; r1 == r2) {
+    console.log(-1);
+  } else if (dist == (r1 + r2) ** 2 || dist == (r1 - r2) ** 2) {
+    console.log(1);
+  } else if (dist &#x3C; (r1 + r2) ** 2 &#x26;&#x26; dist > (r1 - r2) ** 2) {
+    console.log(2);
+  } else {
+    console.log(0);
+  }
+}
+</code></pre>
+<p>간만에 추억이 새록새록이었다.🙂</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[BOJ] 1002 터렛 풀이"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

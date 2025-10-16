@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","github-action-protection",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","github-action-protection","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","github-action-protection","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:Ta26,<h2>😆 Git Action &#x26; Git Branch Protection Rule 을 통한 협업 코드 관리!</h2>
+<h3>1. 요약</h3>
+<blockquote>
+<p><code>Git Action</code>과 <code>Git Branch Protection Rule</code>을 통해 더욱 체계적이고 안전한 코드 관리 하기.</p>
+</blockquote>
+<h3>2. 도입 배경</h3>
+<p>지난 웹 개발 때 함께 협업한 엄청나신 선배님이 계시는데, 아래와 같은 설정을 해두신 것이다...✨</p>
+<ol>
+<li>코드를 업로드 하려고 할 때(PR, Pull Requset) 자동으로 오류, 버그 체크(Lint)를 실행.</li>
+<li>위 체크 통과하고, 1명 이상이 코드 리뷰를 해서 승인(Approve)해야 코드를 최종적으로 병합(Merge) 가능.</li>
+</ol>
+<p>이걸 봤을 때 정말 좋다고 생각해서 꼭 적용해봐야겠다고 생각했고, 실제로 조사했을 때 널리 사용되는 방식이어서 자료가 많아 바로 적용해볼 수 있었다.🙂</p>
+<p>위 설정에서 1번은 <code>Git Action</code>을 이용한 것이고, 2번은 <code>Git Branch Protection Rule</code>을 이용한 것이다.</p>
+<h3>3. Git Action</h3>
+<p>Git Action은 Git에서 특정 Action이 발생했을 때 실행할 동작을 지정하는데,
+위의 경우 PR이 생기면 → 오류 체크 맥락이었고 이외에도
+코드에 변화가 생기면 → 자동 배포 (CI/CD)
+등 다양하게 활용할 수 있다.</p>
+<p>Git Action은 시간 제한이 있다. 무료 플랜에서는 월 2000분까지 무료이기 때문에, 코드를 올릴 때 오류 체크 용도로는 여유롭게 돌릴 수 있는 것 같다.
+자세한 사항은
+<a href="https://docs.github.com/en/enterprise-cloud@latest/billing/managing-billing-for-github-actions/about-billing-for-github-actions">Github Actions 공식 문서</a>
+를 참고하자.</p>
+<p>그리고 다양한 팀 및 개인들이 설정한 Git Action들을 쉽게 가져다 적용할 수 있는 기능들이 웹에서 구현되어있어, 직접 Action 관련 설정을 해주지 않아도 쉽게 선택해서 적용할 수도 있다.</p>
+<h3>4. Git Branch Protection Rule</h3>
+<p>Git Branch Protection Rule 은 말 그대로 브랜치 보호 규칙인데, 원하는 브랜치마다, 원하는 규칙을 적용할 수 있다.</p>
+<p>우리의 경우 브랜치에 코드를 병합하려면, Git Action의 Lint 체크를 통과해야하고, 한 명 이상이 승인했을 때에만 병합할 수 있도록 보호 규칙을 설정한 것이다.</p>
+<h3>5. 결론</h3>
+<p>Git Action과 Git Branch Protection Rule을 통해 더욱 체계적이고 안전한 코드 관리가 가능한 것 같다.</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[Git] Git Action & Git Branch Protection Rule 을 통한 협업 코드 관리!"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

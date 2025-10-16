@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","blog-comments",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","blog-comments","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","blog-comments","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T244f,<h2>댓글 기능을 추가해보자!</h2>
+<p>그동안은 그저 기록 용이라고 생각하고 포스트를 적었지만, Google Analytics에 등록하니 생각보다 많은 분들이 조회해주시는 것을 확인했다.
+앞으로 더 열심히 공부하며 적어야겠습니다. 킹치만 나는 코린인걸...😣</p>
+<p>공부하면서 적는 글이다보니 잘못된 내용을 적으면 어떡하지 라는 생각이 들고 소름이 끼쳤다. 그리고 그 글을 많은 사람이 본다면? 와우.😱
+최대한 공식문서도 한번 더 살펴보며 적겠지만, 만일을 위해 틀린 내용은 틀렸다는 시그널을 받을 수 있다면 좋겠다고 생각했다.</p>
+<p>그래서 댓글 기능을 적용하기로 마음 먹은 것이다!</p>
+<h2>어떤 댓글 시스템을 이용할까?🤔</h2>
+<p>저는 지킬의 Chirpy 테마를 사용중에 있는데 정말 감사하게도 Comments 기능을 활성화하는 옵션들이 사용하기 쉽게 정리되어있답니다.
+만약 Jekyll 테마를 사용하지 않더라도 당연히 적용이 가능합니다!</p>
+<p>먼저 블로그를 하시는 분들이 댓글 기능을 편하게 이용하기 위해 댓글 시스템을 도입합니다.
+<code>disqus</code>, <code>utterances</code>, <code>giscus</code>을 많이 사용하는 것 같고, Jekyll Chirpy 테마에서도 이 세가지 댓글시스템을 쉽게 적용할 수 있도록 설계되어있습니다!👍</p>
+<p>disqus
+: <a href="https://help.disqus.com/en/articles/1717053-what-is-disqus">disqus 소개 페이지</a>에 가면 어떠한 서비스인지, 그리고 UI를 확인할 수 있다. 독립적인 댓글 시스템으로, disqus의 장점은 원한다면 광고를 달아 수익을 창출할 수 있고, 사용자가 Google, Facebook, Twitter 등의 SNS계정으로 로그인하여 댓글을 달 수 있다는 것이다.</p>
+<p>utterances
+: 뒤의 <code>giscus</code>와 전체적으로 유사하다. utterances는 <strong>Github Issue</strong>에 기반한 댓글 위젯으로 UI도 Github와 거의 비슷한 형태를 하고 있다. <a href="https://utteranc.es/?utm_source=saashub&#x26;utm_medium=marketplace&#x26;utm_campaign=saashub">utterances 가이드</a></p>
+<p>giscus
+: utterances는 <strong>Github Discussions</strong>에 기반한 댓글 시스템으로 utterances에서 영감을 받았다고 문서에 기술되어있다. <a href="https://giscus.app/ko">giscus 가이드</a>.</p>
+<p>먼저 개발 블로그임으로 소셜 로그인 기능은 꼭 필요한 기능이 아니기에 <code>disqus</code>를 제외하였다. <code>utterances</code>와 <code>giscus</code>가 유사한 형태를 가지고 있지만 더 활발하게 유지 보수가 되고 있다는 점과, <code>utterances</code>가 대화 흐름을 Issue로 담아내기 어려웠고 그를 Discussion을 활용해 개선한 것이 <code>giscus</code>라는 점에서 <code>giscus</code>를 최종적으로 선택했다! (그 외에도 reaction 등의 부가 기능들도 있고 말이다.👍) 장단점을 비교할 때 후기 글들을 열심히 찾아보았다! 사용해보신 분들 중 <code>utterances</code>에서 <code>giscus</code>로 옮겨가신 분의 생생한 후기를 공유한다. <a href="https://shipit.dev/posts/from-utterances-to-giscus.html">Max Brenner Blog</a></p>
+<h2>적용해보자!</h2>
+<p>적용하는 법은 사실 매우 간단하다. Jekyll 테마를 사용하지 않는 본인의 사이트에 댓글 시스템을 도입하고 싶다면, <a href="https://giscus.app/ko">giscus 가이드</a>에 들어가서 옵션들을 선택하여 생성한 <code>&#x3C;script/></code>태그를 웹사이트에 삽입해주면 된다.</p>
+<p>Jekyll(Chirpy Theme)의 Comment 기능을 활성화 하는 방법을 알아보자.
+Chirpy의 Guide를 보면 다음과 같이 설명되어있다.</p>
+<blockquote>
+<h3>Comments</h3>
+<p>The global switch of comments is defined by variable <code>comments.active</code> in the file <code>_config.yml</code>{: .filepath}. After selecting a comment system for this variable, comments will be turned on for all posts.
+comments: false</p>
+</blockquote>
+<p>Jekyll(Chirpy Theme)는 블로그와 관련한 전반적인 설정은 _config.yml 에서 제공한다.
+Comments 관련 세팅 또한 _config.yml 에서 설정이 가능하다.</p>
+<pre><code class="language-yml">comments:
+  active: giscus
+  # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  # The active options are as follows:
+  disqus:
+    shortname: ...
+  utterances:
+    repo: ...
+  giscus:
+    repo: da-in/da-in.github.io
+    repo_id: MDEwOlJlcG9zaXRvcnkzNTM5MDcyOTU=
+    category: General
+    category_id: DIC_kwDOFRgyX84CSEWg
+</code></pre>
+<p>{: file='_config.yml'}</p>
+<p>comments 아래의 active에 <strong>사용할 시스템</strong>을 입력하면 된다. (🚨true 값을 넣으면 작동하지 않는다!)
+그리고 repo, repo_id, category, category_id 값을 입력해주면 된다. 지킬 테마가 아닌 사이트에 적용할 때 처럼
+<a href="https://giscus.app/ko">giscus 가이드</a>에 들어가서 정보들을 입력했을 때 생성되는 스크립트의 값들을 참조하면 된다!</p>
+<h2>🚨 400 error: "Unable to create discussion with request body."</h2>
+<p>주의할 점은 사이트에서 category를 선택안해도 하단에 스크립트는 생성이되지만, category를 지정안하면(입력하지않으면) 추후 discussion 생성 요청에서 body에 이상한 값이 들어가서 400 Error 가 발생한다. 모든 요소들을 정확하게 입력했는지, 누락하지 않았는지 확인하자.</p>
+<h2>Jekyll(Chirpy)에서 추가 옵션을 사용하는 법</h2>
+<p>giscus에는 더 많은 옵션들이 있는데 _config.yml에 입력하면 작동하지 않는다.
+구조를 살펴보면 config.yml에서 사용자가 입력한 값들을 읽어온 후, Chirpy 테마에서 지정한 옵션들과 합쳐서 giscus 요청을 보내는 방식이기 때문이다.
+Chirpy 테마의 경우 _includes/comments/giscus.html에 이 내용이 지정되어있다.</p>
+<pre><code class="language-javascript">let giscusAttributes = {
+  src: "https://giscus.app/client.js",
+  "data-repo": "{{ site.comments.giscus.repo}}",
+  "data-repo-id": "{{ site.comments.giscus.repo_id }}",
+  "data-category": "{{ site.comments.giscus.category }}",
+  "data-category-id": "{{ site.comments.giscus.category_id }}",
+  "data-mapping": "{{ site.comments.giscus.mapping | default: 'pathname' }}",
+  "data-reactions-enabled": "1",
+  "data-emit-metadata": "0",
+  "data-theme": initTheme,
+  "data-input-position":
+    "{{ site.comments.giscus.input_position | default: 'bottom' }}",
+  "data-lang": "{{ site.comments.giscus.lang | default: lang }}",
+  crossorigin: "anonymous",
+  async: "",
+};
+
+let giscusScript = document.createElement("script");
+Object.entries(giscusAttributes).forEach(([key, value]) =>
+  giscusScript.setAttribute(key, value)
+);
+document.getElementById("tail-wrapper").appendChild(giscusScript);
+</code></pre>
+<p>site.comments를 통해 접근한 값들은 모두 _config.yml 에서 설정한 값들이고, 그 외에도 <code>data-reactions-enabled</code>(리액션 가능 여부 설정) 등의 옵션들이 지정되어있는 것을 볼 수 있다. 그러므로 추가적으로 사용하고 싶은 옵션이 있다면 이곳에 작성해야한다!🙂</p>
+<p>이렇게 하면 블로그 전체 포스트에 대해 댓글 기능이 활성화된다.</p>
+<h2>🚨 404 error: "Discussion not found"</h2>
+<p>여기서 콘솔창을 확인하면, 처음에 포스트에 접근했을 때 댓글이 하나도 없는 경우 🚨 404 error: "Discussion not found" 에러가 발생할 수 있다.
+giscus는 포스트에 첫 댓글이 달릴 때 Github Discussion을 생성한다. 따라서 댓글이 없는 경우 아직 Discussion이 생성되지 않아 발생하는 에러이다. <strong>고로 무언가 잘못된 것은 아니다!</strong> 포스트에 첫 댓글을 달면 에러가 발생하지 않는다. 추후 거슬리면 콘솔에 찍히지 않도록 예외처리도 고민해볼만 하다.</p>
+<h2>포스트에 따라 댓글 비활성화</h2>
+<p>그리고 각 포스트 마다 설정을 달리 할 수 있는데, 포스트 가장 상단에 <code>comments: false</code> 옵션을 주면 된다.</p>
+<pre><code>---
+layout: post
+author: dain
+title: "[Blog] Git Blog에 댓글 기능 추가하기 (with Jekyll Chirpy)"
+...
+comments: false
+---
+</code></pre>
+<p>그러면 지금 포스트 하단에 보이는 댓글창이 생긴다!
+앞으로 포스트에서 혹시 잘못된 내용이 있다면 댓글 시그널을 부탁드리겠습니다🙏</p>
+<p>감사합니다.</p>
+<h3>Reference</h3>
+<p>🤩 disqus | <a href="https://help.disqus.com/en/articles/1717053-what-is-disqus">https://help.disqus.com/en/articles/1717053-what-is-disqus</a>
+🔥 utterances | <a href="https://utteranc.es/?utm_source=saashub&#x26;utm_medium=marketplace&#x26;utm_campaign=saashub">https://utteranc.es/?utm_source=saashub&#x26;utm_medium=marketplace&#x26;utm_campaign=saashub</a>
+👍 giscus | <a href="https://giscus.app/ko">https://giscus.app/ko</a>
+🙂 Max Brenner Blog | <a href="https://shipit.dev/posts/from-utterances-to-giscus.html">https://shipit.dev/posts/from-utterances-to-giscus.html</a></p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[Blog] Git Blog에 댓글 기능 추가하기 (Jekyll, Chirpy, 400, 404 Error 정리)"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

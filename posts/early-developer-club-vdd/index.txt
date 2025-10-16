@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","early-developer-club-vdd",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","early-developer-club-vdd","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","early-developer-club-vdd","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:T1224,<p>요즘 AI가 정말 빠르게 발전하고 있다. ChatGPT, Claude, Cursor... 매일 새로운 도구들이 나오는데, 정작 나는 제대로 활용하지 못하고 있다는 생각이 들었다. 회사에서는 업무 외에 혼자 공부하자니 막막하기도 했다 🤔</p>
+<p>함께 하는 걸 좋아하는 나는 **"혼자 못하면 같이 하는 거지"**라고 생각했다.</p>
+<h2>Early Developer Club 탄생기 🌱</h2>
+<p>나와 같은 고민을 하는 친구 2명을 찾았다. "새로운 기술들을 경험해보는 모임에 함께하지 않겠냐"고 제안했더니 좋다고 했다. 그렇게 <strong>Early Developer Club</strong>이 탄생했다.</p>
+<p>우리가 정한 모토는 간단했다:</p>
+<blockquote>
+<p>"새로운 기술을 즐겁게 경험하고 삶에 적용하고 싶은 모임"</p>
+</blockquote>
+<p>개발자뿐만 아니라 자신의 분야에 기술을 도입하고 싶은 모든 사람을 환영한다는 뜻이다.</p>
+<p><img src="/posts/2025-09-19-early-developer-club-vdd/assets/notice.png" alt="모집 공고 머릿말"></p>
+<h2>첫 번째 도전: VDD 스터디 🚀</h2>
+<p>첫 활동으로 <strong>VDD(Vibe Driven Development)</strong> 스터디를 기획했다. 스터디 이름을 정하는 과정이 가장 어려웠는데 창립 멤버의 아이디어로 결정됐다. 😄</p>
+<p><strong>바이브 코딩</strong>은 개발자가 직접 코드를 짜는 대신, AI에게 자연어로 지시해서 코드를 생성하고, 그걸 검토하고 수정하는 방식이다. 말로는 쉬워 보이지만 계기도 배경 지식도 없어 미뤄왔던 바이브 코딩을 해보는 것이다.</p>
+<h3>솔직히 말하면...😞</h3>
+<p>나도 AI 코딩을 제대로 써본 적이 없었다. 프롬프트 엔지니어링 잘 모른다. 그냥 ChatGPT한테 가끔 코드 물어보는 정도였다.</p>
+<p>그래서 이번 스터디는 **"일단 경험해보자"**에 초점을 맞췄다. 고급 기법은 나중에 배우고, 우선 바이브 코딩이 뭔지부터 체감해보는 것이 목표다.</p>
+<h2>12명의 스터디원 👥</h2>
+<p>처음이라 소규모로 하고 싶어서 인스타그램 스토리에만 모집 공고를 올렸다. 그런데 생각보다 반응이 엄청나서 놀랐다. 니즈가 있다는 것을 느낀 순간이었다.</p>
+<p>짧은 시간에 많은 연락이 왔고, 그중에서 온라인 및 오프라인 일정을 소화할 수 있는 <strong>12명</strong>이 최종 합류했다. 개발자도 있고, 비개발자도 있다. 다양한 배경을 가진 사람들이 모였다는 게 흥미로웠다.</p>
+<h2>6주간의 여정 📅</h2>
+<p>커리큘럼을 짜면서 고민이 많았다. 너무 어려우면 포기할 것 같고, 너무 쉬우면 재미없을 것 같고.</p>
+<p>결국 이렇게 정했다:</p>
+<ul>
+<li><strong>1주차</strong>: Onboarding, AI 코딩 기초 지식 공유</li>
+<li><strong>2주차</strong>: 각자 공부하면서 바이브 코딩 준비</li>
+<li><strong>3주차</strong>: 간단한 프로젝트로 첫 바이브 코딩 도전</li>
+<li><strong>4~6주차</strong>: 매주 원하는 서비스를 자유롭게 만들어보기</li>
+<li><strong>마지막</strong>: 서울에서 오프라인 모임! 🎉</li>
+</ul>
+<p>개인차가 있을 테니까, 최소 가이드라인만 제시하고 더 도전하고 싶은 사람은 자유롭게 하도록 했다.</p>
+<p><img src="/posts/2025-09-19-early-developer-club-vdd/assets/discord.jpg" alt="Early Developer Club Discord 서버"></p>
+<h2>Discord 서버 구축 💬</h2>
+<p>소통 공간으로 Discord 서버를 만들었다. 그동안 여러 단체를 운영해본 경험이 있어서, 창립 멤버들과 금방 틀을 잡을 수 있었다.</p>
+<p>AI 관련 뉴스를 자동으로 수집해주는 인사이트 채널과 자유롭게 대화할 수 있는 채널을 만들어서 활발한 소통이 이루어지고 있다.</p>
+<p>벌써 활발하게 대화가 오가고 있다. 좋은 신호다! ✨</p>
+<h2>앞으로가 더 기대되는 이유 🌟</h2>
+<p>Early Developer Club에서 해보고 싶은 게 정말 많다.</p>
+<ul>
+<li>다른 신기술 스터디</li>
+<li>해커톤이나 프로젝트 챌린지</li>
+<li>기술 세미나나 네트워킹 이벤트</li>
+<li>외부 커뮤니티와의 협업</li>
+</ul>
+<p>어떤 걸 먼저 할지, 어떤 방향으로 키워갈지 고민하는 것도 즐겁다. 혼자였다면 엄두도 못 냈을 일들을 함께 하니까 가능해진다.</p>
+<hr>
+<p><em>혹시 이런 활동에 관심 있으신 분들이 계시다면, 언제든 연락 주세요! Early Developer Club은 항상 새로운 멤버를 환영합니다. 🤝</em></p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"Early Developer Club과 VDD(Vibe Driven Development) 스터디"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

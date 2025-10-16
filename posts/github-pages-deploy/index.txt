@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","github-pages-deploy",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","github-pages-deploy","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","github-pages-deploy","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T1666,<p>배포는 정말 삽질하기 딱 좋은 것 같다.
+보통 프로젝트 하면서 딱 한번 설정하고는 수정하는 경우가 많지 않으니, 다음 프로젝트에서 배포할 즈음이면 기억이 흐릿하달까. 🤔</p>
+<p>클라이언트 개발을 하는 동안에는 팀원들도 링크로 쉽게 확인할 수 있도록 정적 페이지를 호스팅해둘 예정이다.
+무료로 호스팅이 가능한 Github Pages로 CI/CD까지 적용해놓으면 편리하다.</p>
+<h2>Github Pages로 프로젝트 배포하기</h2>
+<p>Github Pages를 적용하는 법 자체는 다른 사이트들에도 잘 정리가 되어있어서 간단하게만 정리하고 넘어가겠다.
+기록의 초점은 gh-pages 브랜치 업데이트를 하며 생기는 오류이므로...✏️</p>
+<p>(1) gh-pages 모듈 설치</p>
+<pre><code class="language-bash">yarn add -D gh-pages
+</code></pre>
+<p>(2) package.json에 homepage url 입력 및 deploy 스크립트 추가</p>
+<pre><code class="language-json">{
+  "homepage": "https://roundshoulder.github.io/cs-letter-frontend",
+  ...
+  "scripts": {
+    ...
+    "deploy": "gh-pages -d build"
+  },
+</code></pre>
+<p>(3) build 및 deploy</p>
+<pre><code class="language-bash">yarn build
+yarn deploy
+</code></pre>
+<p>(4) Repository Setting > Pages
+gh-pages deploy 하면 해당 브랜치가 생성되고, 파일들이 올라가있을 것이다.
+설정의 Pages에 들어가서 Source는 <code>Deploy from a branch</code>를, 그리고 Branch 를 <code>gh-pages</code>로 설정해준다.</p>
+<h2>만약에 배포를 했는데 하얀 화면이 뜬다면, 혹은 404 Not Found.</h2>
+<p>개발자 도구 콘솔에 들어가보자.
+만일 아래와 비슷하게 몇몇 파일에 대한 404 에러가 떠있다면 에러 속 경로가 맞는지 잘 보자.</p>
+<blockquote>
+<p>GET https://roundshoulder.github.io/static/js/main.foo.js net::ERR_ABORTED 404
+{: .prompt-danger }</p>
+</blockquote>
+<p>레포지토리 이름이 {username}.github.io 인 경우에는 경로가 {username}.github.io/{file path} 가 맞을 것이고
+그 외의 레포지토리를 배포하는 경우에는 {username}.github.io/{repository name}/{file path} 처럼 사이에 레포지토리 이름이 있어야할 것이다.</p>
+<p>나의 에러메세지를 보면 레퍼지토리 이름이 빠져있다.
+경로가 잘못되었다는 것을 알 수 있고 package.json파일의 homepage가 잘못된 경우이다. 수정해주면 된다.</p>
+<p>homepage url이 잘 입력되어있는데 에러 문구의 경로만 잘못되어있다면 gh-pages 브랜치에 반영이 안된것이다.
+나의 경우에도 gh-pages 브랜치를 업데이트 하는 법을 잘못 이해하고 있어서 당황했다.</p>
+<h2>추가) 메인 화면은 잘 뜨는데 하위 페이지 링크로 접속시 404 Not Found.</h2>
+<p>Github Pages로 배포한 사이트 첫 화면이 잘 뜨고, 내부에서 path의 이동도 잘 되는데!🙂
+하위 페이지 "링크"를 주소창에 입력하여 접속하려고하면 404 Notfound 가 뜰 것이다.😱</p>
+<p>Github Pages는 정적 페이지를 호스팅해주기는 하지만, Jekyll 블로그와 같은 사이트 구조에 최적화 되어있다. 현재 이 게시물의 주소를 보면 <code>https://da-in.github.io/posts/FE-Roadmap/</code> 이다. 바로 레포지토리 내 포스트 파일의 경로이다. 이처럼 주소를 통해 파일을 읽어오는 형태로 잘 작동한다.</p>
+<p>반면 리액트 등을 통해 만든 SPA의 경우 해당 주소에 파일이... 없다! 하나로 빌드된 파일만 있을 뿐... 그래서 <strong>404 Not Found</strong>가 뜬다. 😱</p>
+<p>일단 가장 간단한 해결책은 빌드한 <code>index.html</code> 파일을 <code>404.html</code> 라는 이름으로 복제하는 것이다. <code>404.html</code> 파일로 우리가 만든 프로그램을 복제하면 접근하려는 경로의 파일이 없어 처음에 404 Not Found Error 가 발생하더라도 404.html(index.html의 사본)으로 연결되어 서비스를 이용할 수 있게 된다.</p>
+<p>배포할 때 404.html이 복사가 되도록 package.json의 스크립트를 수정해주면 된다.</p>
+<pre><code class="language-json">"deploy": "cp build/index.html build/404.html &#x26;&#x26; gh-pages -d build"
+</code></pre>
+<h2>gh-pages 브랜치에 업데이트 하기 (배포 내용 수동 업데이트)</h2>
+<p>보통 build 해도 <em>(기본 세팅으로 레포지토리를 생성했다면)</em> <code>gitignore</code>에 의해 해당 폴더는 트래킹되지 않는다.
+build 폴더를 push 할 일도 없으니 build는 할 필요 없겠지 무의식 중에 넘기다가 먼길 돌아왔다.</p>
+<p>deploy로 등록한 스크립트를 살펴보자</p>
+<pre><code class="language-json">"deploy": "gh-pages -d build"
+</code></pre>
+<p><strong>gh-pages -d build 스크립트에서 build는 명령어가 아니라 목적 파일이다.</strong>
+빌드한 파일들이 <code>build</code>폴더에 저장되기 때문에, 해당 폴더를 사용해서 배포하겠다는 의미이다.
+그렇기 때문에 <code>yarn deploy</code> 명령만 실행하면 업데이트 되지 않은 빌드 파일을 사용해서 배포하게되고 변화가 없게 된다.</p>
+<p>따라서 내용을 수정했을 경우 잊지말고 <strong>yarn build로 먼저 빌드를 한 이후에 gh-pages 배포</strong>를 해주어야겠다.
+(별 다섯개 ⭐⭐⭐⭐⭐)</p>
+<p>이렇게 deploy(gh-pages -d build) 명령을 실행하면 별도의 push를 하지 않아도 gh-pages 브랜치에 가면 build한 파일들이 업데이트 되어있을것이다.👍</p>
+<p>Github Actions를 이용해서 CI/CD 스크립트도 작성하게 될 텐데, 또 잘못 사용하지 않도록 하자.🙂</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[Project] Github Pages Deploy 404 오류 안나게 하자 (feat. gh-pages)"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

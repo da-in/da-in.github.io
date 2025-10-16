@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","fe-roadmap",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","fe-roadmap","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","fe-roadmap","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:Tb46,<p>취준생이 되었는데 뭘 어떻게 준비해야할지 막막했다.🤔<br>
+계획을 세우려면 무엇을 성취할지 목표가 뚜렷해야 최대 효율을 내는 사람인데, 당장 뭘 해내야할지 모르겠더라.</p>
+<p>그래서 앞으로 무엇을 공부할지 정리해본다.<br>
+(공부를 하면서도 계속 계획의 방향성을 고민하고 수정할 예정이다.👍)</p>
+<p>먼저 개발자 커뮤니티에 의해 관리되고있는 개발자 로드맵의 내용들을 차근차근 공부하려고 한다.</p>
+<p>🔗 Frontend Roadmap <a href="https://roadmap.sh/frontend">https://roadmap.sh/frontend</a><br>
+🔗 Frontend Roadmap Github <a href="https://github.com/kamranahmedse/developer-roadmap">https://github.com/kamranahmedse/developer-roadmap</a></p>
+<p>지금까지 프로젝트를 하면서 사용했던 JS와 TS도 더 깊이있게 공부하고싶다는 생각을 했고, 웹의 기초 동작 원리 등에 대해서도 자세히 알지 못한다고 느꼈기 때문이다.
+그리고 TDD, 웹 성능 개선 등 기회가되면 해보고 싶던 것들도 로드맵에 모두 포함이 되어있었다.
+저 로드맵에 있는 내용들을 한 번 공부하고 나면 프론트엔드 개발자로서 기초에 대한 자신감을 더 키울 수 있을 것 같다고 생각했다.</p>
+<h2>FE Roadmap</h2>
+<ul>
+<li>[ ] Internet</li>
+<li>[ ] HTML</li>
+<li>[ ] CSS</li>
+<li>[ ] JavaScript</li>
+<li>[ ] VCS(Git)</li>
+<li>[ ] Web Security Knowledge</li>
+<li>[ ] Package Managers</li>
+<li>[ ] CSS Architecture</li>
+<li>[ ] CSS Preprocessors</li>
+<li>[ ] BuildTools</li>
+<li>[ ] Framework</li>
+<li>[ ] Modern CSS</li>
+<li>[ ] CSS Frameworks</li>
+<li>[ ] Testing</li>
+<li>[ ] Web Components</li>
+<li>[ ] Type Checkers(Typescript)</li>
+<li>[ ] SSR</li>
+<li>[ ] Static Site Generators</li>
+<li>[ ] GraphQL</li>
+<li>[ ] Mobile Applications</li>
+<li>[ ] Desktop Applications</li>
+<li>[ ] Web Assembly</li>
+</ul>
+<p>그리고 아래 내용들은 어느 분야건 "개발자"로서 기초 지식이기에 열심히 공부해야한다!</p>
+<h2>And</h2>
+<ul>
+<li>[ ] 운영체제</li>
+<li>[ ] 네트워크</li>
+<li>[ ] 데이터베이스</li>
+<li>[ ] 자료구조</li>
+<li>[ ] 알고리즘</li>
+</ul>
+<p>큰 챕터만 두고 보아도 공부할 것이 정말 많다는 걸 실감한다🙂
+비교적 앞부분의 기초가 되는 내용들을 깊이있게 공부하고, 뒤의 내용들은 최대한 다양하게 경험하는걸 목표로 해보겠다!</p>
+<p>그리고 병행해야할 것들도 많다! 위 공부에 자료구조+알고리즘 공부도해야하고,<br>
+기본 CS 공부도 해야하고,<br>
+일하고 싶은 기업 탐색과 분야의 이슈들도 주시해야한다!<br>
+위 내용들은 차근차근 블로그에도 정리하며 공부하고, 위 리스트에 모아볼 수 있는 링크를 걸어둘 예정이다.</p>
+<p>화이팅👍</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[Roadmap] 프론트엔드 개발자 준비하기 Frontend Developer Roadmap"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

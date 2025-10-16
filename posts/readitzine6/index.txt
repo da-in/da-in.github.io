@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","readitzine6",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","readitzine6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","readitzine6","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T18d3,<p>교보문고에서 2022 올해의 IT책을 공개했다!✨<br>
+IT의 각 분야별로 사람들이 가장 많이 읽은 책을 10권씩 소개했다.</p>
+<p>새 해에는 기계적이고 정형화된 공부만이 아니라, 개발을 더 넓게 바라볼 수 있는 공부도 해야겠다고 생각했고 주말마다 조금씩 책을 읽어나가려고 한다.</p>
+<p>마침 소개된 책들 중 <a href="https://product.kyobobook.co.kr/detail/S000061352347?_gl=1*cnbksf*_ga*NDA5NDc1MDA0LjE2Njk5MTA0MDk.*_ga_CQHKV7VZV7*MTY3MjU3NDE1Ny41LjEuMTY3MjU3NDgxNi4xOC4wLjA.">구글 엔지니어는 이렇게 일한다</a>에 관심을 갖게 되어서 주문하게 되었고, "2022 올해의 IT책" 이벤트의 일환으로 개발자 매거진 리드잇zine 6호를 사은품으로 300원에 구매할 수 있었다.</p>
+<p>결론적으로 1월 1일 새해 첫 날 읽은 책이 되었다. 그리고 너무 좋았다.😊</p>
+<p><img src="https://user-images.githubusercontent.com/66757141/210172637-d0777137-c19b-4753-bf88-d83e933db7dc.jpg" alt="KakaoTalk_20230101_203917568"></p>
+<h2>리드잇zine(readITzine)</h2>
+<p>리드잇zine은 개발자들의 이야기가 담긴 작은 매거진이다. 최초 출간된지는 1년정도, 이제 6호가 나온참이다. 개발자들이 충분히 공감하며 생각해볼 수 있는 주제로, <code>성장판을 찾아서</code>, <code>개발자의 도구들</code>, <code>앞으로 계속 나아가기</code>, <code>함께 일한다는 것</code>, <code>개발자의 일</code>의 주체를 차례로 다루어왔다.</p>
+<p>📕 리드잇zine #6 | https://event.kyobobook.co.kr/detail/205188</p>
+<p>이번 6호로 리드잇zine을 처음 접했는데, 주제에 관한 여러 사람의 경험, 고민이 담긴 칼럼을 수록하는 형태였다.</p>
+<h2>#6. 이동에 관하여</h2>
+<p>이번 주제는 '이동'에 관한 내용이었다. 이직, 직군의 전환부터 물리적인 개발 공간의 변화까지 다양한 것들을 '이동'으로 묶어서 다룬것이 재미있었다.</p>
+<p>가볍고 유익한 정보들과 무겁지만 어렵지 않은 내용들이 잘 어우러져 재미있게 읽을 수 있었고, 개발자로서 울림을 느낄 수 있는 글들도 있었다. <em>(다들 글을 정말 잘 쓰시는 것 같다. 나도 언젠가 꼭 칼럼을 투고하고싶다는 생각을 했다.🙂)</em></p>
+<p>사실 정말 인상깊은 내용들이 많았는데, 다 옮겨적을 수도 없어서 슬프다...😥</p>
+<p><strong>#1. 우리의 여정은 맨해튼 거리</strong></p>
+<blockquote>
+<p>맨해튼 거리는 모든 여정을 동등한 거리로 인정하기에, 한단계씩 앞으로 나아가는 우리에게 경쟁과 비교는 의미가 없다.<br>
+<em>황재진·노던일리노이대학·산업공학과 부교수</em></p>
+</blockquote>
+<p>취업을 준비하면서, 다른 사람들이 어떤 대외활동을 참여했는지, 얼마나 대단한 프로젝트를 진행했고 어떠한 성과를 이루었는지. 항상 궁금해하며 나와 비교하고 조급해했던 것 같다.</p>
+<p>사실 지금 중요한 건 취업을 위한 외적인 이력이 아니라, 탄탄한 개발자가 되기 위한 기초를 다지는 것. 그리고 개발자로서 나아가고자 하는 방향을 찾는것. 이를 통해 나의 가치는 내면에 쌓이고, 그 가치를 알아봐주는 곳에서 일하게 될 것이다.</p>
+<p><strong>#2. 설계하지 않은.</strong></p>
+<blockquote>
+<p>운명적인 과업, 순간의 깨달음 같은 건 그냥 주어지는 게 아니었습니다. <em>(중략)</em> 어디든 이동할 수 있도록 기반을 다져놓는 것.<br>
+<em>손영인·NAVER·백엔드 개발</em></p>
+</blockquote>
+<p>너무 공감가는 내용이었다. 내가 지금 개발자로서 취업을 준비하는 것도, 어느 순간의 운명적인 깨달음이 있어서가 아니라 그냥 '어쩌다보니' 였다는 것.</p>
+<p>생각해보니 고등학교 때 확률과 통계를 포함한 수학을 좋아했고, 자유전공학부에 입학했다가 코딩이 조금은 재미있어서 소프트웨어학부로 진학했고, 개발에 벽을 느껴서 이길이 아닌가 하다가도 우연한 기회와 활동들을 거치며 개발에 희열을 느껴서. 그렇게 지금의 내가 된 것이니까.</p>
+<p>그렇기에 설계되지 않은 미래에서 내가 원하는 것이 있을 때 <strong>이동</strong>할 수 있도록 선택의 폭을 넓혀두는 것이 중요하다는 것도, 공감할 수 밖에 없었다.</p>
+<h2>2023년을 시작하며</h2>
+<p>이 칼럼들을 읽게 된 것은 우연이었지만, 덕분에 회고 비슷한 생각들을 하고 2023년을 시작하며 방향성을 고민했다.</p>
+<p>2022년은 개발자로서의 취업 준비를 준비하는 어린이었다고 생각한다. '취업준비'는 어떻게 하는거지, 공부는 뭘 해야하지 등등 <code>취업준비</code>를 어떻게 해야할지에 대한 고민을 무수히 반복하는 시간이었다. 그리고 일단 뭐라도 개발하기. 여러 프로젝트들을 <code>구현</code>하는데에 초점을 맞추어 시간과 열정을 쏟았다.</p>
+<p>불필요한 시간들이라고는 생각하지 않는다. 덕분에 더 나은 방향을 고민할 수 있었다.</p>
+<p><strong>2023년은 지금까지의 경험을 토대로 나를 분석하여 <code>탄탄한 개발자</code>가 되기 위해서 부족한 기초 지식들을 정비하고, 더 <code>좋은 개발을 하기 위한 여러 시도</code>를 해볼 것이다🙂</strong></p>
+<p>책의 머리말에서 인상에 남았던 아래의 구절을 공유하며 마무리한다. 머리말은 책의 전체 내용을 아우른다는 말에 걸맞은 내용이라고 생각한다.</p>
+<blockquote>
+<p><strong>물리학에서 운동량은 질량과 속도에 영향을 받는다고 한다.</strong><br>
+<code>질량</code>, 즉 내 안에 포함되어있는 내재 가치, 성장 잠재력에 대한 고민이 필요하다.<br>
+<code>속도</code>는 목표가 뚜렷할 때 빨라진다. 두리번거리지 않고 목표를 향해 달려갈 수 있으니까.<br>
+그리고 마지막으로 필요한 것은 한 걸음 내딛기 위한 용기. <em>(축약)</em><br>
+<em>유한태·교보문고·컴퓨터/IT MD</em></p>
+</blockquote>
+<p>2023년 모든 개발자 분들 화이팅!🙂</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"📕[Book] 리드잇zine 6호와 2023 시작"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

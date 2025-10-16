@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","js-reference-error",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","js-reference-error","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","js-reference-error","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T1772,<p>이걸 이렇게 고민하게 될 줄 몰랐건만... 결과적으로 1500명 풀방의 오픈카톡방을 활활 타오르게 만들었던 재미있는 주제...🔥</p>
+<blockquote>
+<p>요새 스터디가 너무 재미있어서 <a href="https://github.com/likelion-ssu/JS-Deep-Dive">JS 스터디</a>도 참여중이다.</p>
+</blockquote>
+<p>시작은 스터디를 진행하며 스치듯 본 <code>모던 자바스크립트 Deep Dive</code> 속 한 예제의 주석이었다.🤔<br>
+<code>let</code>과 <code>const</code>키워드로 변수를 선언했을 때 생기는 일시적 사각지대(TDZ)에서 변수를 참조했을 경우 <code>ReferenceError</code>가 발생한다.<br>
+그런데 책 속 예제에서 기술하는 두 상황의 <code>ReferenceError</code>의 메세지가 다른 것을 보게되었다.</p>
+<pre><code class="language-js">console.log(foo); // ReferenceError: foo is not defined
+let foo;
+
+{
+  console.log(foo); // ReferenceError: Cannot access 'foo' before initialization
+  let foo;
+}
+</code></pre>
+<p>전역 변수의 TDZ 참조 에러와 지역 변수의 TDZ 참조 에러의 메세지가 달랐다. Chrome 브라우저의 console에서 책의 예제와 같이 동작하는 것을 확인했다.</p>
+<p><img src="/posts/2023-01-26-JS-Reference-Error/assets/230126_reference_error.png" alt="Figure : Chrome Console"><br>
+<em>Figure : Chrome Console</em></p>
+<p>왜 전역 변수와 지역 변수에 차이가 있는지 스터디원끼리 논의를 했지만... 진척이 없었다🤔<br>
+그래서 프론트엔드 관련 오픈카톡방에서 이 내용을 <em>(복잡한 사정을 거쳐)</em> 다루게 되었는데...!</p>
+<p>많은 가설과 반론을 이어갔다. 몇 가지 내용을 소개해보면...✨</p>
+<h3>🔥 가설 1 : 브라우저 환경에서 전역 변수와 지역 변수를 참조하는 로직이 다를 것이다.</h3>
+<ul>
+<li>근거 : Node 환경에서 위 두 코드를 실행하면 모두 <code>ReferenceError: Cannot access 'variable'  before initialization</code> 에러를 발생시킨다.</li>
+</ul>
+<p><img src="/posts/2023-01-26-JS-Reference-Error/assets/230126_reference_error2.png" alt="Figure : Node"><br>
+<em>Figure : Node</em></p>
+<ul>
+<li>따라서 이는 브라우저와 Node 환경의 차이이고, 추측해보면 브라우저에는 <code>window</code> 객체가 있기 때문에 전역 변수를 탐색할 때에는 window 객체의 프로퍼티를 우선적으로 확인한다거나 하는 로직의 차이가 만든 결과 아닐까! 라는 의견이었다.</li>
+</ul>
+<p>모두 어느정도 수긍을 하고 있을 때 쯤, 다른 분이 반은 맞고 반은 틀렸을지 모른다는 근거를 가지고 오셨다.</p>
+<h3>💧 반론 1 : '브라우저' 라서만은 아닐 것이다.</h3>
+<ul>
+<li>근거 : <code>html</code> 파일을 생성, <code>&#x3C;script></code> 태그로 위 코드를 입력하고 브라우저에서 열면 동일한 에러 메세지를 출력한다.<br>
+<img src="/posts/2023-01-26-JS-Reference-Error/assets/230126_reference_error5.png" alt="Figure : HTML Inner Script"><br>
+<em>Figure : HTML Inner Script</em><br>
+Uncaught ReferenceError: Cannot access 'a' before initialization</li>
+<li>'브라우저'이기 때문에 차이가 발생하는 것이 아니라, 개발자도구 콘솔에서 차이가 발생하는 것 아닐까.</li>
+</ul>
+<h3>🔥 가설 2 : 브라우저 콘솔이 블럭으로 감싸지 않은 문을 분리해서 실행하는 것 아닌가.</h3>
+<ul>
+<li>
+<p>근거 : 아래와 같이 분리되어 한 줄만 실행했을 때와 결과가 같기 때문이다.<br>
+<img src="/posts/2023-01-26-JS-Reference-Error/assets/230126_reference_error3.png" alt="Figure : Browser Console"><br>
+<em>Figure : Browser Console</em></p>
+</li>
+<li>
+<p>브라우저 콘솔에서 <code>console</code>문과 <code>let</code>선언문을 함께 입력해도 두 문이 분리되어 실행하는 것 아니냐는 추측이였다.</p>
+</li>
+</ul>
+<h3>💧 반론 2 : 분리해서 실행하지는 않는다.</h3>
+<ul>
+<li>근거 : 분리해서 실행된다면 <code>var</code> 키워드에 대한 호이스팅도 이루어지지 않고 에러가 발생해야하는데 잘 동작한다.<br>
+<img src="/posts/2023-01-26-JS-Reference-Error/assets/230126_reference_error4.png" alt="Figure : Browser Console"><br>
+<em>Figure : Browser Console</em></li>
+</ul>
+<p>이렇게 열성적인 토론이 이어지다가 결론은 Javascript 엔진 차이로 힘이 모아졌다.</p>
+<p>각 Javascript 엔진들은 ECMAScript에 명시된 표준을 따르도록 되어있지만 정의하고 있지 않은 세부적인 부분은 엔진마다 조금씩 다르게 동작한다.</p>
+<p>실제로 여러 실험을 하며 동일한 엔진을 사용하는 환경에서는, 동일한 결과가 나오는 것을 확인하였기 때문에 엔진 차이라는 결론을 내리게 된 것이다.</p>
+<p>도음을 주신 모든 분들 감사합니다!🙏<br>
+그리고 나는 이런 토론을 끝마친 후 뿌듯해하며 잠이들... 뻔 했다.</p>
+<h3>잠깐만...🙂</h3>
+<p>그래서 엔진 차이~ 라는 결론으로 포장했지만 사실 해결되지 않은 의문이 남아있었다. 아니 본질적 의문은 해결되지 않았다.</p>
+<ol>
+<li>엔진 차이라고 했는데, 그래서 서로 다른 에러 메세지를 출력하는 엔진은 왜 어떠한 원리로 전역변수와 지역변수의 <code>TDZ Reference Error Message</code> 를 다르게 출력하는건가.
+<ul>
+<li>이게 본래 궁금했던 핵심이었다.</li>
+</ul>
+</li>
+<li>크롬 브라우저를 기준으로 <code>html</code>내부 스크립트로 작성하였을 때와 개발자 도구 콘솔에 작성하였을 때 결과의 차이는 왜 일어나는 것일까.
+<ul>
+<li>이건 여러 실험 도중에 생긴 의문이다.</li>
+</ul>
+</li>
+</ol>
+<p>의문이 해결된게 아니라 늘었다...🙂<br>
+계속 틈틈이 파헤쳐보겠지만, 혹시 이에 관해 짐작가는 분이 계시다면 댓글 부탁드립니다.</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[JS] 서로 다른 ReferenceError : variable is not defined vs Cannot access variable before initialization"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","react-native-avderror",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","react-native-avderror","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","react-native-avderror","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T1738,<h2>error Failed to launch emulator. Reason: No emulators found as an output of 'emulator -list-avds'.</h2>
+<p>그래 시작은 이 에러였지.<br>
+이때는 이렇게 긴 여정이 될 줄 몰랐다.</p>
+<p>emulator를 찾지 못해 launch에 실패했다는 에러이다.</p>
+<p>일단 저 에러를 해결하기 위해, React Native 튜토리얼들에 나오는 AVD 생성 방법을 처음부터 다시 따라가며 SDK 버전, API 레벨과 AVD 버전 등등을 설정하는 것 삭제도 해보고 다시 깔아도 보았는데도 해결이 안됐다.</p>
+<p>구글링해서 나오는 이런 저런 방법들을 시도하였고, 더해서 아래 과정을 진행하자 정상작동(X) 다음 에러로 넘어감(O)</p>
+<p>Settings > Android SDK > SDK Platforms 에서
+<code>Show Package Details</code> 옵션을 체크해 자세하게 펼쳐보면
+다운받지 않은 파일들이 나오는데.</p>
+<p>기존에 자동으로 설치되지 않은 두가지를 설치해주었다.</p>
+<ul>
+<li>Google APIs Intel x86 Atom_64 System image</li>
+<li>Google Play Intel x86 Atom_64 System image</li>
+</ul>
+<p>그리고 Android 디렉토리로 이동해서 다른 글들에서도 권장하기에 Gradle 초기화를 해주었다.</p>
+<pre><code>./gradlew clean
+</code></pre>
+<h2>adb(android debug bridge) devices</h2>
+<p>안드로이드 스튜디오에서 생성한 AVD를 Vscode 작업중에 잘 인식하는 것인지 확인이 필요했다.</p>
+<pre><code>adb devices
+</code></pre>
+<p>위 명령어를 입력하면 모든 AVD와 그 상태가 출력된다.</p>
+<pre><code>'adb'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는 배치파일이 아닙니다.
+</code></pre>
+<p>저 경우에는 CLI에서 adb를 사용하기 위해 adb 환경변수 설정이 필요하다.</p>
+<p>Path 환경변수를 더블클릭하여 아래 경로를 추가해준다. <em>(당연히 Username은 자신의 것으로, 파일탐색기로 저 위치에 abd.exe 파일이 있는지 확인해도 좋다.)</em>
+C:\Users\Username\AppData\Local\Android\Sdk\platform-tools</p>
+<p>그리고 다시 <code>abd devices</code>를 실행하면 정상 출력된다.</p>
+<h2>Device emulator-5554 is not authorized.</h2>
+<p>아래 두 가지를 통해 해결했다.</p>
+<p><strong>(1) Google API 명시된 AVD 생성</strong><br>
+Create Device를 통해 AVD를 생성할 때에, device definition(Pixel 5, Pixel 3a 등)을 선택한 후 System image를 선택하는 단계에서 <code>Target</code>열을 보면 괄호 안에 <code>(Google Play)</code>라고 적힌 것과 <code>(Google API)</code>라고 적혀있는게 있다.</p>
+<p>내가 기존에 Pixel 3로 생성했었는데 그 중에는 해당하는게 없더라. Pixel 5에서 선택하여 생성했다.</p>
+<p><strong>(2) Google Play Licensing Library 설치</strong><br>
+Android Studio > Settings > Android SDK > SDK Tools > Google Play Licensing Library 설치</p>
+<h2>Skipping device 'emulator-5554' (emulator-5554): Device is OFFLINE.</h2>
+<h3>(1) AVD(Android Virtual Device)를 정상 종료하는 법</h3>
+<p>React-Native를 시작하면서 막 안드로이스 스튜디오를 사용하게된 나.
+AVD를 아예 종료시키는 것 부터 고난이었다.</p>
+<p>구글의 여러 글에서 가상 디바이스를 끌 때 토글에서 stop 버튼을 눌러서 종료시키라는 말이 있었는데, 내 UI에서는 해당 버튼이 뜨지 않는다. 몰랐는데 가상 디바이스 탭의 'x' 버튼을 눌러 탭을 닫으면 알아서 종료되는 것이었다...✨<br>
+<strong>탭을 닫고 조금 기다리면 Device 목록에서 종료 상태로 변경된다.</strong></p>
+<p>에러를 잡으며 급한 마음에 탭을 닫고서는, 바로 키려고 마구 눌렀는데 그럴때마다 이미 실행중인 디바이스라는 알림만 떴던 것이다... (당연하다 아직 종료가 안됐는걸...)
+뭔가 잘못된 줄로만 알고 또 급하게 해당 디바이스를 지워버리고 새로 만든 나.😥</p>
+<h3>(2) AVD 삭제 오류</h3>
+<p>뭐지.<br>
+새로 만든 가상 디바이스를 분명 실행 시키고 <code>yarn android</code>를 했는데 오프라인이라는 문구가 출력된다.</p>
+<pre><code>Skipping device 'emulator-5554' (emulator-5554): Device is OFFLINE.
+</code></pre>
+<p>뭔가 쎄한 기분에 <code>abd devices</code>를 해보았더니, 이전에 삭제한 가상디바이스 5554 가 오프라인으로 남아있고 5556이 돌아가고 있던 것이다.<br>
+검색해보니 정상 종료시키지 않은 상태에서 강제로 삭제하면, 정상적으로 삭제가 되지 않는 것 같다.</p>
+<p><code>C:\Users\Username\.android\avd</code>에 있는 AVD 파일을 모두 삭제해주었다.
+그 후 Android 스튜디오 AVD 목록과, VSCode 터미널에서 <code>adb devices</code>를 했을 때 모든 디바이스가 삭제된 것을 확인했다.</p>
+<p>휴.
+그리고 AVD 다시 생성해서 계속 진행했다.</p>
+<h2>INSTALL_FAILED_INSUFFICIENT_STORAGE</h2>
+<p>debug 과정에서 에러가 뜨면 엄청나게 긴-에러메세지가 뜨는 와중, 핵심만 살펴보면 <code>INSTALL_FAILED_INSUFFICIENT_STORAGE</code>라는 에러 문구를 확인할 수 있다.</p>
+<pre><code>React native install_failed_insufficient_storage
+</code></pre>
+<p>이름 그대로 insufficient storage. 저장 공간 부족이다!
+검색해보니 많은 사람들이 프로젝트 진행중에도 겪는 문제인 것 같다. 나는 아래와 같이 진행하여 효과를 보았다.</p>
+<p>Virtual Device Configuration(디바이스 설정, 내 AVD의 연필 모양) ><br>
+Show Advanced Settings ><br>
+<strong>Internal Storage를 800에서 1200으로 수정</strong></p>
+<p>그렇게 돌고 돌아 드디어 정상 작동되었을 때 아래와 같은 화면을 볼 수 있다!🥰<br>
+진짜 그렇게 에러를 잡았을 때 얼마나 행복한지 모른다.<br>
+진짜 나랑 같이 사무실에 있는 분들께 자랑도 했다.</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] Vscode, AVD 에러 총집합"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

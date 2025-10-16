@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","react-query-error",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","react-query-error","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","react-query-error","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:Td03,<h2>🚨Could not find a declaration file for module 'react-query'</h2>
+<h2>1. Error Occured</h2>
+<pre><code>import {QueryClient, QueryClientProvider} from 'react-query'
+</code></pre>
+<p>React Native 프로젝트에서 API 상태관리를 위해 react-query를 설치하고 모듈을 임포트하는데 다음과 같은 에러가 발생했다.</p>
+<pre><code>Could not find a declaration file for module 'react-query'.
+'C:/Users/.../node_modules/react-query/build/cjs/packages/react-query/src/index.js'
+implicitly has an 'any' type.
+  Try `npm i --save-dev @types/react-query` if it exists or add a new declaration (.d.ts) file containing `declare module 'react-query';`
+</code></pre>
+<h2>2. Install @types/react-query</h2>
+<p>위 에러는 일단 보통 Typescript를 사용할 때 모듈의 타입이 정의되지 않아서 발생하는 에러로, 해당 모듈에서 자체적으로 타입을 제공하지 않을 때에 발생하며, community-contributed typings를 제공하는 라이브러리들은 @types/module-name 을 설치함으로서 해결할 수 있고, 그 외에는 types를 직접 설정함으로서 해결이 가능하다.</p>
+<p>react-query의 경우 community-contributed typings가 존재해서 <code>@types/react-query</code>를 설치를 해보았지만 고쳐지지 않았다.</p>
+<h2>3. Use require()</h2>
+<p>문제 상황을 검색하며 나왔던 해결 방법 중 하나. require를 사용하는 방법을 확인했다.</p>
+<pre><code>const reactQuery = require('react-query');
+const {QueryClient, QueryClientProvider} = reactQuery;
+</code></pre>
+<p>위와같이 작성을 하면 에러는 안나지만, require를 사용한 부분에 import문을 사용할 수 있다는 경고가 뜨고,
+react-query 모듈을 사용할 때 타입체킹이 제대로 작동하지 않았다.</p>
+<h2>4. 명탐정다인(Detective Dain)</h2>
+<p><strong>[ 단서 1 ]</strong><br>
+node*modules 폴더의 @types/react-query 에 가보니 readme 파일에 react-query는 자체적인 타입을 제공하므로 @types/react-query를 설치해줄 필요가 없다고 명시되어있었다.*약간 보물찾기 쪽지 찾은 느낌_</p>
+<p>그래서 @types/react-query는 다시 remove 해주었다.</p>
+<p><strong>[ 단서 2 ]</strong><br>
+node_modules의 react-query 폴더의 package.json 폴더에 types의 경로가 지정되어있는데 <code>build/types/packages/query-core/src/index.d.ts</code>로 설정되어있었다. 그런데 build 폴더 안에 types라는 폴더가 존재하지 않았다... (혼란😱)</p>
+<h2>5. Install Previous Version</h2>
+<p>결론적으로 친구 개발자의 조언으로 리액트 쿼리 버전을 낮춰주니 문제가 해결되었다. 4.0.0이 최근에 배포된 버전이라 문제였던 것 같다. 친구가 마지막으로 사용했던 react-query 3.39.1 버전으로 설치했다.</p>
+<pre><code>yarn install react-query@3.39.1
+</code></pre>
+<p>그랬더니 정상 작동한다.</p>
+<p>(원인인지 모르겠지만 3.39.1 버전을 설치했을 때에는 node_modules/react-query/package.json에 types경로가 types/index.d.ts로 지정되어있었고, types폴더도 잘 있었다!)</p>
+<h2>Conclusion</h2>
+<p>😂일단 모듈 에러가 난다면 최신 버전 이슈는 아닌지 꼭 확인해보자.<br>
+(그렇지 않으면 2~3시간이 거뜬하게 사라진다.)</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] Could not find a declaration file for module 'react-query'"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

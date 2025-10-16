@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","strengths-finder",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","strengths-finder","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","strengths-finder","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+f:T1f56,<h2>위대한 나의 발견 강점 혁명(Strengths Finder 2.0)</h2>
+<p>위대한 나의 발견 강점 혁명(Strengths Finder 2.0)은 자기계발 카테고리의 오랜 스테디셀러이다.<br>
+과거 글쓰기 소모임에 참여했을 때 다른 회원분을 통해서 나도 알게되었고, 구매만 해둔상태로 시간이 조금 흘렀다.<br>
+이 책을 구매하면 책에 있는 ID 코드를 사용하여 <a href="https://www.gallup.com/cliftonstrengths/en/home.aspx">사이트에서 Clifton Strength</a>를 진행할 수 있다.</p>
+<p>어떠한 직무와 커리어패스가 나에게 적합할지 고민하는 이 시기에, 꼭 필요하다고 생각되어 책을 꺼내들었다.</p>
+<p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=111680022">위대한 나의 발견 강점 혁명(Strengths Finder 2.0) 도서 상세 정보</a></p>
+<h2>왜 강점 혁명인가.</h2>
+<p>책의 초반부에서는 지금 사회는 약점을 보완하는 것에 집중하게끔 하며 강점을 개발해야하는 이유에 대해 설명한다. 그 중 인상깊었던 내용을 정리하면 아래와 같다.</p>
+<p>📌 <strong>1. 사회는 약점을 극복하도록 강요한다.</strong></p>
+<blockquote>
+<p>교육 프로그램의 근본적인 결함은 사람들을 자신의 본래 모습과 다른 존재로 변화시키려는 것이다. 숫자를 다루는 타고난 재능이 없는데 학위를 따려면 그 분야에 시간을 투자해야한다고 강요받는다.</p>
+</blockquote>
+<p>강점 혁명 1부 첫 줄의 내용이다. 학창시절을 돌이켜보면, 잘 하는걸 더 잘하려고 투자하기보다는 못하는 것을 극복하기 위해 시간과 노력을 투자한다. 물론 입시와 같은 체계에서는 총점을 위해 약한 과목에 투자해야했지만, 사회에 나가 성장하면서까지 나의 약점에만 몰두할 필요가 있을까. 라는 근본적 고민을 하게해주었다. (물론 약점도 보완은 해야하지만 말이다🙂)</p>
+<p>📌 <strong>2. 나는 강점을 잘 활용하고 있을까?</strong></p>
+<blockquote>
+<p>자신의 강점에 매일 집중할 기회가 있는 사람들은 직장에 몰입되어 있을 확률이 6배나 높고, 전반적으로 생활의 질이 우수하다고 답할 확률이 3배나 더 높았습니다.</p>
+</blockquote>
+<p>직장이 나의 강점에 주목하고 그를 활용할 수 있도록 한다면 그는 뛰어난 업무 성과로 이어질 수 있다.</p>
+<p>우리는 얼마나 자신의 장점을 알고있고, 개발하고, 활용하고 있을까? 바로 이어서 이 책에서 제공하는 Clifton Strength 테스트를 진행하였다. 장점들을 정리하고 이해하여, 앞으로 목표하는 회와 팀을 탐색하는 데에 도움이 될 것 같다.</p>
+<h2>나의 강점은.</h2>
+<p>평소에 '내 강점은 이런게 아닐까?' 하고 짐작하던 내용과 유사한 결과가 나왔다.😮 그리고 생각보다 세분화되어있고 구체적이었다. 나의 상위 5개 테마는 다음과 같다.</p>
+<ol>
+<li>
+<p><strong>사교성(Woo)</strong> - 새로운 이들을 만나 그들의 마음을 얻는 일에 도전하기를 무척 즐깁니다. 이들은 어색한 분위기를 깨고 다른 사람과 인맥을 쌓는 데에서 만족감을 얻습니다.</p>
+</li>
+<li>
+<p><strong>긍정(Positivity)</strong> - 주변 사람들을 쉽게 사로잡는 긍정적인 열정을 가지고 있습니다. 이들은 낙관적이며 사람들로 하여금 자신들이 하려는 일에 열의를 갖게 만듭니다.</p>
+</li>
+<li>
+<p><strong>성취(Achiever)</strong> - 에너지가 왕성하며 지치지 않고 열심히 일합니다. 이들은 바쁘게 일하면서 생산성을 올리는 데에서 큰 만족감을 얻습니다.</p>
+</li>
+<li>
+<p><strong>정리(Arranger)</strong> - 복잡한 상황을 체계적으로 정리할 수 있는 능력과 함께 이를 보완해 주는 유연성도 가지고 있습니다. 이들은 생산성을 최대화하기 위해 모든 구성요소와 자원을 최적으로 조직하는 방안에 대해 궁리하는 것을 좋아합니다.</p>
+</li>
+<li>
+<p><strong>집중(Focus)</strong> - 방향이 정해지면 목표를 달성할 때까지 진로에서 벗어나지 않고 주력할 수 있습니다. 이들은 일의 우선순위를 정한 다음 행동에 착수합니다.</p>
+</li>
+</ol>
+<p>테마에 대한 간략한 공통 설명이고 책에는 더 자세하게 설명이 되어있다. 그리고 사이트에서 제공되는 <strong>심층 이해 가이드</strong>로 같은 테마여도 내가 응답한 결과에 따라 다른 <strong>세부 설명</strong>을 확인할 수 있다.</p>
+<p><code>사교성</code>과 <code>긍정</code>은 그냥 밝고 외향적인 나의 성격 그 이상도 이하도 아니라고 생각했는데, 1, 2위의 강점으로 나와서 다시 보게 되었다.</p>
+<p><code>성취</code>, <code>정리</code>, <code>집중</code>은 모두 실행력 카테고리의 테마이다. 스스로 생각하기에 팀의 업무 일정을 효율적으로 조율하고 늘어지지 않도록 텐션을 유지하는것을 잘한다고 생각했는데, 그 이유를 구체적으로 파악할 수 있었다.</p>
+<h2>실행 아이디어.</h2>
+<p>이 책의 장점은 강점만 알려주는것이 아니라, 강점을 잘 활용하기 위한 실행 아이디어를 강점별로 10개씩 준다는 것이다. 그리고 실제로 좋은 지침이 된다.</p>
+<p>내 강점 아이디어 중 지금 직무와 관련한 인사이트를 준 내용은 몇개만 추려보았다.</p>
+<ul>
+<li>
+<p><strong>성취 테마 실행 아이디어</strong><br>
+업무에 대한 재력권이 크고 스스로 생산성을 측정할 수 있는 일을 선택하자. 성취 테마가 강한 사람은 자발적으로 일할 수 있는 환경에서 <strong>도전 의식</strong> 을 갖게되고 활기를 느낄 것이다.</p>
+</li>
+<li>
+<p><strong>정리 테마 실행 아이디어</strong><br>
+조직의 가장 <strong>역동적인 영역</strong> 에서 정리 테마를 발휘해보자. 정적이고 일상적인 사업부 또는 부서는 당신을 따분하게 만들 것이다. 당신은 정리 테마를 발휘할 수 있는 환경에서 일을 잘하며 따분한 환경은 견디기 힘들어한다.</p>
+</li>
+</ul>
+<p>그리고 덧붙여 업무 뿐 아니라 가족과 친구를 포함한 개인 생활 영역에 <code>성취</code>와 <code>집중</code>을 활용하라는 내용도 좋았다.🥰</p>
+<h2>구입을 고민하고 있다면.</h2>
+<p>책 자체는 268페이지 정도의 분량인데, 39페이지 까지 강점을 개발해야하는 이유에 대한 내용이 담겨있고, 그 이후는 34가지의 테마 강점에 대한 설명이다.
+유료 분석 결과를 구매하지 않는다면 나의 <strong>강점 5가지만</strong> 제공되기 때문에 그 5가지에 대한 부분 위주로 보게 된다. 그래서 실질적으로 읽는 책의 분량이 적을 수 있음을 알아야한다.🥲</p>
+<p>그래도 나는 다음과 같은 이유로 구매를 추천한다.</p>
+<ol>
+<li>길지는 않지만 앞부분의 <strong>강점에 관한 인사이트</strong> 가 너무 좋았다. 사회가 약점을 극복하는 방향으로 흘러간다는 지적과, 강점을 개발해야한다는 내용은 내가 앞으로 어떠한 방향으로 성장할지의 선택에 큰 영향을 줄 것같다.</li>
+<li>테스트를 통해 추상적이던 <strong>강점을 명확히</strong> 할 수 있고, 강점을 살리기 위해 구체적으로 <strong>실천해야할 것들</strong> 을 소개받을 수 있다.</li>
+<li>내가 나의 강점을 추측은 할 수 있지만, 나와 타인에게 강점을 피력할 때 객관적이고 신뢰를 주기는 어렵다. 이 때 테스트 결과는 하나의 지표로서 <strong>강점에 대한 근거</strong> 가 될 것이다.</li>
+</ol>
+<p>나의 강점을 객관적으로 정리하고 더 성장하고 싶은 분들에게 추천한다. 🙂</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"📕[Book] 위대한 나의 발견 ★ 강점 혁명"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+10:["$","$L11",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[30372,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+3:I[33014,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"default"]
+5:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"OutletBoundary"]
+7:I[19756,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"AsyncMetadataOutlet"]
+9:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"ViewportBoundary"]
+b:I[71236,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[40794,[],"default"]
+:HL["/_next/static/chunks/abb255be898e4f2b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"mBZCD3C2QLpnLSfkcMaCm","p":"","c":["","posts","cleartext-traffic-error",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","cleartext-traffic-error","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","div",null,{"style":{"width":"100%","borderBottom":"1px solid #ffe69c","background":"#fff3cd","color":"#664d03"},"role":"status","aria-live":"polite","children":["$","div",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"0.5rem 1rem","fontSize":14,"lineHeight":1.5},"children":"현재 Jekyll에서 Next.js로 마이그레이션 중입니다. 디자인 적용 전으로, 일부 레이아웃과 기능이 임시 상태일 수 있어요."}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cleartext-traffic-error","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/e3afcda4c80f253c.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/abb255be898e4f2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[16794,["/_next/static/chunks/e3afcda4c80f253c.js"],"default"]
+f:Teb6,<h2>Release Bundle Axios Network Error</h2>
+<p>React Native App을 야심차게 빌드하고 구글 플레이콘솔 내부 테스트 앱으로 릴리즈 하여 안드로이드 디바이스에서 실행을 했는데...! 세상에 모든 요청이 작동하지 않는 것이다...😱
+Axios Network Error 라고만 뜨고...🥲</p>
+<p>검색을 열심히 하니, 백엔드 서버가 Http 를 사용할 경우 Android에서 문제가 발생한다고 한다.</p>
+<p><code>root</code> > <code>android</code> > <code>app</code> > <code>src</code> > <code>main</code> 의 <code>AndroidManifest.xml</code> 에서
+<code>android:usesCleartextTraffic="true"</code> 속성을 추가해주면 된다.</p>
+<pre><code>&#x3C;application
+  android:usesCleartextTraffic="true">
+  ...
+&#x3C;/application>
+</code></pre>
+<p>아 잠시만요. 해결됐다고 그냥 지나치지 마시고 이해하고 넘어갑시다. 🔥🔥🔥</p>
+<h2>Cleartext</h2>
+<p>먼저 Cleartext 는 암호학 용어이다. 비교적 익숙한 <code>Plaintext</code>(평문)과 반대되는 개념 되시겠다.<br>
+음. 평문 반대말은 암호문이니까 그러면 <code>Cleartext</code>는 암호문인가? 아니다.</p>
+<p><code>Plaintext</code>가 암호화의 입력값 혹은 복호화의 출력값으로 사용될, 암호화 되지 않은 데이터라면,<br>
+<code>Cleartext</code>는 암호화의 대상 자체가 아닌, 암호화 되지 않은 데이터를 의미한다. 🙂 <em>(내 설명이지만 킹받네)</em></p>
+<h2>Cleartext Network Traffic, Http</h2>
+<p>그런고로 Cleartext Network Traffic 이란, Cleartext를 이용한 네트워크 데이터의 흐름이다. 암호화 되지 않은, 그리고 암호화되지 않을 그냥 일반 데이터를 이용한 네트워크 통신! 대표적으로 Http(HyperText Transfer Protocol)가 이에 해당한다. Htpps에 비해 취약한 부분이다.</p>
+<p>(이 설정으로 Http 연결이 됐다고 좋아할게 아니라, 보안상 취약을 걱정해야하는 것이었다. Https로 바꾸거나, 중요 정보를 암호화해야할 것 같다. 😱)</p>
+<h2>usesCleartextTraffic</h2>
+<p>앞의 내용을 이해하고 나서 다시보니, 눈앞의 문제를 해결해준 이 옵션이 천사가 아니라 악마의 손길이었구나... 👿</p>
+<p>일단 리액트 네이티브 공식문서에 해당 내용이 언급되어있다!<br>
+React Native Docs - Networking | <a href="https://reactnative.dev/docs/next/network">https://reactnative.dev/docs/next/network</a></p>
+<blockquote>
+<p>By default, iOS will block any request that's not encrypted using SSL. If you need to fetch from a cleartext URL (one that begins with http) ... it is more secure to add exceptions only for those domains;</p>
+</blockquote>
+<blockquote>
+<p>On Android, as of API Level 28, clear text traffic is also blocked by default. This behaviour can be overridden by setting android:usesCleartextTraffic in the app manifest file.</p>
+</blockquote>
+<p>Http를 포함한 Cleartext Traffic은 보안상 취약하기 때문에 iOS에서도 그리고 Android에서도 제한한다는 내용이다. iOS에서는 Http 통신 등을 사용해야할 경우 해당 URL만 예외처리를 해서 사용해야 안전하다고 말하고 있다. 안드로이드도 useCleartextTraffic=true 옵션을 지정해서 사용하는 것이고 말이다.</p>
+<h2>Reference</h2>
+<p>😊 https://reactnative.dev/docs/next/network</p>
+<p>🙂 https://simplicable.com/new/plaintext-vs-cleartext#:~:text=Plaintext%20is%20unencrypted%20data%20that,t%20meant%20to%20be%20encrypted</p>
+<p>🥰 https://arunpandianm.medium.com/6-daily-issues-in-android-cleartext-traffic-error-52ab31dd86c2#:~:text=Cleartext%20is%20any%20transmitted%20or,eavesdropping%20and%20tampering%20of%20content.</p>
+4:["$","main",null,{"style":{"maxWidth":760,"margin":"0 auto","padding":"2rem 1rem"},"children":[["$","h1",null,{"style":{"marginBottom":"1rem"},"children":"[React-Native] Android Http Error, Release Bundle Axios Network Error"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+11:I[29730,["/_next/static/chunks/48796fcff804b0d1.js","/_next/static/chunks/2298bc66cf7be31b.js"],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
