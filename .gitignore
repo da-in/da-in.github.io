@@ -22,5 +22,4 @@ package-lock.json
 
 # Ignore Next static export
 next-site/out/
-assets/img/post/
 public/posts/
