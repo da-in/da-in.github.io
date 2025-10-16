@@ -1,5 +1,5 @@
 ---
-title: "Early Developer Club VDD 스터디 1주차 활동 기록"
+title: "Early Developer Club VDD 스터디 1주차 활동 기록 - Onboarding"
 date: 2025-09-20 21:00:00 +0900
 categories: [Dev, Club]
 tags: [vdd, early-developer-club, 스터디, 1주차]

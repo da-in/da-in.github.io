@@ -1,5 +1,5 @@
 ---
-title: "Early Developer Club VDD 스터디 2주차 활동 기록"
+title: "Early Developer Club VDD 스터디 2주차 활동 기록 - 환경 세팅"
 date: 2025-09-27 21:00:00 +0900
 categories: [Dev, Club]
 tags: [vdd, early-developer-club, 스터디, 2주차]
