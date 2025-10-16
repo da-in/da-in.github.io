@@ -37,7 +37,8 @@ a {
 }
 
 /* Typography spacing */
-main, article {
+main,
+article {
   line-height: 1.7;
 }
 
@@ -70,6 +71,10 @@ article img,
 .markdown-body img {
   max-width: 100%;
   height: auto;
+  max-height: 50vh; /* 너무 긴 세로 이미지를 화면 높이의 50%로 제한 */
+  object-fit: contain; /* 가로/세로 모두 비율 유지하며 컨테이너에 맞춤 */
+  margin-left: auto; /* 가운데 정렬 */
+  margin-right: auto; /* 가운데 정렬 */
   display: block;
 }
 
