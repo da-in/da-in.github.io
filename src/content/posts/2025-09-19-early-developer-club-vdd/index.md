@@ -1,6 +1,6 @@
 ---
 title: "Early Developer Club과 VDD(Vibe Driven Development) 스터디"
-date: 2025-09-26 21:00:00 +0900
+date: 2025-09-19 21:00:00 +0900
 categories: [Dev, Club]
 tags: [vdd, early-developer-club, 개발자모임]
 summary: Early Developer Club과 VDD(Vibe Driven Development) 스터디를 만들었습니다.
